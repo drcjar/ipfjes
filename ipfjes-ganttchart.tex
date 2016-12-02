@@ -1,0 +1,102 @@
+\documentclass{article}
+\usepackage{pgfgantt}
+\usepackage{rotating}
+\usepackage[graphicx]{realboxes}
+\pagenumbering{gobble}
+
+\newganttchartelement*{mymilestone}{
+mymilestone/.style={
+shape=isosceles triangle,
+inner sep=0pt,
+draw=cyan,
+top color=white,
+bottom color=cyan!50
+},
+mymilestone incomplete/.style={
+/pgfgantt/mymilestone,
+draw=yellow,
+bottom color=yellow!50
+},
+mymilestone label font=\slshape,
+mymilestone left shift=0pt,
+mymilestone right shift=0pt
+}
+
+\newgantttimeslotformat{stardate}{%
+\def\decomposestardate##1.##2\relax{%
+\def\stardateyear{##1}\def\stardateday{##2}%
+}%
+\decomposestardate#1\relax%
+\pgfcalendardatetojulian{\stardateyear-01-01}{#2}%
+\advance#2 by-1\relax%
+\advance#2 by\stardateday\relax%
+}
+
+\usepackage{caption}
+\captionsetup[figure]{labelformat=empty}
+
+\begin{document}
+
+\begin{sidewaysfigure}
+\caption{IPF Asbestos Expsosure Study (IPF JES) 36-Month Gannt Chart}
+\begin{ganttchart}[vgrid, hgrid	]{1}{36}
+
+\gantttitle{2016}{4} 
+\gantttitle{2017}{12}
+\gantttitle{2018}{12}
+\gantttitle{2019}{8}\\
+\gantttitlelist{1,...,36}{1}\\
+
+\ganttset{progress label text={},
+       bar incomplete/.append style={fill=green!40},
+       bar/.append style={fill=green!40},
+       group/.append style={draw=black, fill=green},} 
+       
+
+%First Group
+    
+\ganttgroup{Setup}{1}{8} \\
+\ganttbar{Exposure assessment training}{1}{2} \\
+\ganttbar{Questionnaire development}{2}{3} \\
+\ganttbar{Questionnaire pilot}{4}{5} \\
+\ganttmilestone{Assessment procedure finalised}{5}\\
+\ganttbar{Confirm plans with network}{1}{8} \\
+%\ganttlink{elem0}{elem1}
+\ganttlink{elem1}{elem2}
+\ganttlink{elem2}{elem3}
+
+%Second Group	 	
+\ganttset{bar incomplete/.append style={fill=red!40},
+          bar/.append style={fill=red!40},
+         group/.append style={draw=black, fill=red},}
+    
+\ganttgroup{Recruitment}{9}{33} \\
+\ganttbar{Data collection}{9}{33} \\
+\ganttmilestone{50\% data collection achieved}{21}\\
+\ganttbar{Quality assurance}{12}{33} \\
+\ganttbar{Statistics training}{18}{33}\\
+\ganttlink{elem3}{elem4}
+\ganttlink{elem5}{elem7}
+\ganttlink{elem7}{elem9}
+%Third Group
+  \ganttset{bar incomplete/.append style={fill=blue!40},
+            bar/.append style={fill=blue!40},
+            group/.append style={draw=black, fill=blue},}
+  
+\ganttgroup{Analysis and writing up}{34}{36} \\
+\ganttbar{Genetic training}{34}{35} \\
+\ganttbar{Data analysis}{34}{35} \\
+\ganttbar{Write papers}{34}{36} \\
+%\ganttlink{elem8}{elem9}
+\ganttlink{elem9}{elem13}
+\ganttlink{elem10}{elem13}
+\ganttlink{elem12}{elem13}
+\ganttlink{elem13}{elem14}
+\ganttmilestone{Papers submitted}{36}\\
+\ganttlink{elem14}{elem15}
+
+
+\end{ganttchart}
+\end{sidewaysfigure}
+
+\end{document} 

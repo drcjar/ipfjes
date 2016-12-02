@@ -1,0 +1,62 @@
+\ProvidesFile{standard.lco}[%
+  2002/07/09 v0.9a LaTeX2e unsupported letter-class-option]
+
+\KOMAoptions{foldmarks=off, addrfield=true}
+\usepackage{fontspec}
+\usepackage{marvosym}
+% ==============================================
+%  PERSONAL DATA
+% ==============================================
+\setkomavar{fromname}{Carl Reynolds}
+\setkomavar{fromaddress}{Room G39, Emmanual Kaye Building \\ National Heart and Lung Institute \\ 1b Manresa Road \\ London SW3 6LR \\ United Kingdom}
+%\setkomavar{fromaddress}{8 Seamead\\Fareham PO14 2NG\\United Kingdom}
+\setkomavar{fromphone}{+44 (0)77 3790 4807}
+\setkomavar{fromemail}{carl.reynolds@imperial.ac.uk}
+\setkomavar{fromurl}{http://www.carlreynolds.net}
+%\setkomavar{fromurl}{http://www.medicdojo.com}
+%\setkomavar{frombank}{Nationwide Account Number:23654604 Sort Code:07-01-16}
+%\setkomavar{place}{Hampshire}
+\setkomavar{signature}{Dr Carl Reynolds, Chief Investigator, on behalf of the IPF JES team}
+% ==============================================
+%  FORMATTING STUFF
+% ==============================================
+% === font settings\setkomavar{nexthead}
+
+\defaultfontfeatures{Mapping=tex-text}
+
+\setmainfont{Garamond Premier Pro}
+
+\setsansfont{Gill Sans MT Pro}
+
+\renewcommand{\normalsize}{\fontsize{11}{16}\selectfont} 
+
+% === header settings
+\firsthead{
+   \centering
+   \addfontfeature{LetterSpace=20.0}\fontsize{21}{21}\selectfont\scshape IPF Job Exposures Study (IPF JES)\\[5mm]
+}
+
+% === footer settings
+\firstfoot{
+  \centering
+  \addfontfeature{LetterSpace=20.0}\scshape
+  {
+        \renewcommand{\\}{\ {\large\textperiodcentered}\ }
+	\usekomavar{fromaddress} 
+        }\\  
+	{\Large\Letter} \usekomavar{fromemail} \ {\Large\Telefon} \usekomavar{fromphone} \\ \usekomavar{frombank}
+  
+}
+
+\nextfoot{
+  \centering
+  \addfontfeature{LetterSpace=20.0}\scshape
+  {
+        \renewcommand{\\}{\ {\large\textperiodcentered}\ }
+	\usekomavar{fromaddress} 
+        }\\  
+	{\Large\Letter} \usekomavar{fromemail} \ {\Large\Telefon} \usekomavar{fromphone}
+  
+}
+
+\endinput
