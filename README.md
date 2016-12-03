@@ -4,7 +4,7 @@
 
 Here you will find the IPF JES study documents including:
 
-- Study protocol
+- [Study protocol](https://github.com/drcjar/ipfjes/blob/master/ipfjes-protocol.pdf)
 - Patient information sheet
 - Healthcare professional information sheet
 - Cover letters
