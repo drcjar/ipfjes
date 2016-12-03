@@ -11,10 +11,6 @@
 %\setkomavar{fromaddress}{8 Seamead\\Fareham PO14 2NG\\United Kingdom}
 \setkomavar{fromphone}{+44 (X)XX XXXX XXXX}
 \setkomavar{fromemail}{name@email.nhs.uk}
-%\setkomavar{fromurl}{http://www.carlreynolds.net}
-%\setkomavar{fromurl}{http://www.medicdojo.com}
-%\setkomavar{frombank}{Nationwide Account Number:23654604 Sort Code:07-01-16}
-%\setkomavar{place}{Hampshire}
 \setkomavar{signature}{Name, Principle Investigator, on behalf of the IPF JES team}
 % ==============================================
 %  FORMATTING STUFF

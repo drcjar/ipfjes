@@ -9,13 +9,9 @@
 % ==============================================
 \setkomavar{fromname}{Carl Reynolds}
 \setkomavar{fromaddress}{Room G39, Emmanual Kaye Building \\ National Heart and Lung Institute \\ 1b Manresa Road \\ London SW3 6LR \\ United Kingdom}
-%\setkomavar{fromaddress}{8 Seamead\\Fareham PO14 2NG\\United Kingdom}
 \setkomavar{fromphone}{+44 (0)77 3790 4807}
 \setkomavar{fromemail}{carl.reynolds@imperial.ac.uk}
-\setkomavar{fromurl}{http://www.carlreynolds.net}
-%\setkomavar{fromurl}{http://www.medicdojo.com}
-%\setkomavar{frombank}{Nationwide Account Number:23654604 Sort Code:07-01-16}
-%\setkomavar{place}{Hampshire}
+\setkomavar{fromurl}{http://www.ipfjes.org}
 \setkomavar{signature}{Dr Carl Reynolds, Chief Investigator, on behalf of the IPF JES team}
 % ==============================================
 %  FORMATTING STUFF

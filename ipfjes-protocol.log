@@ -1,0 +1,1246 @@
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2016.10.20)  3 DEC 2016 16:47
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**ipfjes-protocol.tex
+(./ipfjes-protocol.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 3 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/helvet.sty
+Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: xetex.def on input line 95.
+
+(/usr/share/texlive/texmf-dist/tex/xelatex/xetex-def/xetex.def
+File: xetex.def 2015/09/11 v4.06 LaTeX color/graphics driver for XeTeX (TeX Liv
+e/RRM/JK)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pslatex/pslatex.sty
+Package: pslatex 1996/07/24 v1.2 pslatex emulation (DPC)
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 65.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ptmcm/m/n on input line 65.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptmcm/m/n on input line 65.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 66.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ptmcm/m/it on input line 66.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ptmcm/m/it on input line 66.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 67.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/pzccm/m/n on input line 67.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/pzccm/m/n on input line 67.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 68.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/psycm/m/n on input line 68.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/psycm/m/n on input line 68.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 74.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 74.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 74.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 75.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 75.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 75.
+LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
+(Font)              scaled to size 8.99994pt on input line 456.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pstricks/pstricks.sty
+Package: pstricks 2015/11/14 v0.62 LaTeX wrapper for `PSTricks' (RN,HV)
+
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: xetex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/pst-xkey.tex
+File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
+
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks15
+\XKV@tempa@toks=\toks16
+)
+\XKV@depth=\count87
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pstricks/pst-fp.tex
+`pst-fp' v0.05, 2010/01/17 (hv)
+\pstFP@xs=\count88
+\pstFP@xia=\count89
+\pstFP@xib=\count90
+\pstFP@xfa=\count91
+\pstFP@xfb=\count92
+\pstFP@rega=\count93
+\pstFP@regb=\count94
+\pstFP@regs=\count95
+\pstFP@times=\count96
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks17
+\pgfutil@tempdima=\dimen105
+\pgfutil@tempdimb=\dimen106
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
+ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks18
+\pgfkeys@temptoks=\toks19
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
+ex
+\pgfkeys@tmptoks=\toks20
+)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
+\pgf@x=\dimen107
+\pgf@xa=\dimen108
+\pgf@xb=\dimen109
+\pgf@xc=\dimen110
+\pgf@y=\dimen111
+\pgf@ya=\dimen112
+\pgf@yb=\dimen113
+\pgf@yc=\dimen114
+\c@pgf@counta=\count97
+\c@pgf@countb=\count98
+\c@pgf@countc=\count99
+\c@pgf@countd=\count100
+\pgfutil@tempcnta=\count101
+\pgfutil@tempcntb=\count102
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen115
+\pgfmath@count=\count103
+\pgfmath@box=\box26
+\pgfmath@toks=\toks21
+\pgfmath@stack@operand=\toks22
+\pgfmath@stack@operation=\toks23
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
+thmetics.code.tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count104
+))
+\pgffor@iter=\dimen116
+\pgffor@skip=\dimen117
+\pgffor@stack=\toks24
+\pgffor@toks=\toks25
+)
+\psLoopIndex=\count105
+
+`PSTricks' v2.64b  <2015/14/11> (tvz)
+\pst@dima=\dimen118
+\pst@dimb=\dimen119
+\pst@dimc=\dimen120
+\pst@dimd=\dimen121
+\pst@dimg=\dimen122
+\pst@dimh=\dimen123
+\pst@dimm=\dimen124
+\pst@dimn=\dimen125
+\pst@dimo=\dimen126
+\pst@dimp=\dimen127
+\pst@hbox=\box27
+\pst@ibox=\box28
+\pst@boxg=\box29
+\pst@cnta=\count106
+\pst@cntb=\count107
+\pst@cntc=\count108
+\pst@cntd=\count109
+\pst@cntg=\count110
+\pst@cnth=\count111
+\pst@cntm=\count112
+\pst@cntn=\count113
+\pst@cnto=\count114
+\pst@cntp=\count115
+\@zero=\count116
+\pst@toks=\toks26
+(/usr/share/texlive/texmf-dist/tex/xelatex/xetex-pstricks/pstricks.con
+(/usr/share/texlive/texmf-dist/tex/generic/pstricks/config/xdvipdfmx.cfg))
+\psunit=\dimen128
+\psxunit=\dimen129
+\psyunit=\dimen130
+\pst@C@@rType=\count117
+\pslinewidth=\dimen131
+\psk@startLW=\dimen132
+\psk@endLW=\dimen133
+\pst@customdefs=\toks27
+\pslinearc=\dimen134
+\pst@symbolStep=\dimen135
+\pst@symbolWidth=\dimen136
+\pst@symbolLinewidth=\dimen137
+\everypsbox=\toks28
+\psframesep=\dimen138
+\pslabelsep=\dimen139
+\sh@wgridXunit=\dimen140
+\sh@wgridYunit=\dimen141
+\pst@shift=\dimen142
+
+(/usr/share/texlive/texmf-dist/tex/xelatex/xetex-pstricks/pstricks.con
+(/usr/share/texlive/texmf-dist/tex/generic/pstricks/config/xdvipdfmx.cfg
+Using PSTricks configuration for XeTeX+xdvipdfmx
+)))
+File: pstricks.tex 2015/14/11 v2.64b `PSTricks' (tvz,hv)
+ (/usr/share/texlive/texmf-dist/tex/generic/pstricks/pst-fp.tex)
+File: pst-fp.tex 2015/14/11 v2.64b `PST-fp' (hv)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/03/03 v2.15a AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks29
+\ex@=\dimen143
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen144
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count118
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count119
+\leftroot@=\count120
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count121
+\DOTSCASE@=\count122
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box30
+\strutbox@=\box31
+\big@size=\dimen145
+LaTeX Font Info:    Redeclaring font encoding OML on input line 630.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 631.
+\macc@depth=\count123
+\c@MaxMatrixCols=\count124
+\dotsspace@=\muskip10
+\c@parentequation=\count125
+\dspbrk@lvl=\count126
+\tag@help=\toks30
+\row@=\count127
+\column@=\count128
+\maxfields@=\count129
+\andhelp@=\toks31
+\eqnshift@=\dimen146
+\alignsep@=\dimen147
+\tagshift@=\dimen148
+\tagwidth@=\dimen149
+\totwidth@=\dimen150
+\lineht@=\dimen151
+\@envbody=\toks32
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks33
+LaTeX Info: Redefining \[ on input line 2735.
+LaTeX Info: Redefining \] on input line 2736.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/glossaries/base/glossaries.sty
+Package: glossaries 2016/01/24 v4.21 (NLCT)
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/mfirstuc/mfirstuc.sty
+Package: mfirstuc 2015/12/17 v2.02 (NLCT)
+
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count130
+)
+\@glsmfirst=\toks34
+\@glsmrest=\toks35
+)
+(/usr/share/texlive/texmf-dist/tex/latex/textcase/textcase.sty
+Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xfor/xfor.sty
+Package: xfor 2009/02/05 v1.05 (NLCT)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/datatool/datatool-base.sty
+Package: datatool-base 2016/01/18 v2.25 (NLCT)
+
+(/usr/share/texlive/texmf-dist/tex/latex/substr/substr.sty
+Package: substr 2009/10/20 v1.2 Handle substrings
+\c@su@anzahl=\count131
+)
+(/usr/share/texlive/texmf-dist/tex/latex/datatool/datatool-fp.sty
+Package: datatool-fp 2016/01/18 v2.25 (NLCT)
+
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp.sty
+Package: fp 1995/04/02
+
+`Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
+(/usr/share/texlive/texmf-dist/tex/latex/fp/defpattern.sty
+Package: defpattern 1994/10/12
+\actioncount=\count132
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-basic.sty
+Package: fp-basic 1996/05/13
+\FP@xs=\count133
+\FP@xia=\count134
+\FP@xib=\count135
+\FP@xfa=\count136
+\FP@xfb=\count137
+\FP@rega=\count138
+\FP@regb=\count139
+\FP@regs=\count140
+\FP@times=\count141
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-addons.sty
+Package: fp-addons 1995/03/15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-snap.sty
+Package: fp-snap 1995/04/05
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-exp.sty
+Package: fp-exp 1995/04/03
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-trigo.sty
+Package: fp-trigo 1995/04/14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-pas.sty
+Package: fp-pas 1994/08/29
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-random.sty
+Package: fp-random 1995/02/23
+\FPseed=\count142
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-eqn.sty
+Package: fp-eqn 1995/04/03
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-upn.sty
+Package: fp-upn 1996/10/21
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-eval.sty
+Package: fp-eval 1995/04/03
+)))
+\@dtl@toks=\toks36
+\@dtl@tmpcount=\count143
+\dtl@tmplength=\skip46
+\dtl@sortresult=\count144
+\@dtl@numgrpsepcount=\count145
+\@dtl@datatype=\count146
+\dtl@codeA=\count147
+\dtl@codeB=\count148
+\@dtl@foreach@level=\count149
+)
+(/usr/share/texlive/texmf-dist/tex/latex/glossaries/base/glossaries-compatible-
+307.sty
+Package: glossaries-compatible-307 2016/01/24 v4.21 (NLCT)
+)
+\gls@level=\count150
+\@gls@tmpb=\toks37
+\gls@tmplen=\skip47
+\glskeylisttok=\toks38
+\glslabeltok=\toks39
+\glsshorttok=\toks40
+\glslongtok=\toks41
+
+(/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-hypernav.st
+y
+Package: glossary-hypernav 2016/01/24 v4.21 (NLCT)
+) (/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-list.sty
+Package: glossary-list 2016/01/24 v4.21 (NLCT)
+\glslistdottedwidth=\skip48
+) (/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-long.sty
+Package: glossary-long 2016/01/24 v4.21 (NLCT)
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip49
+\LTright=\skip50
+\LTpre=\skip51
+\LTpost=\skip52
+\LTchunksize=\count151
+\LTcapwidth=\dimen152
+\LT@head=\box32
+\LT@firsthead=\box33
+\LT@foot=\box34
+\LT@lastfoot=\box35
+\LT@cols=\count152
+\LT@rows=\count153
+\c@LT@tables=\count154
+\c@LT@chunks=\count155
+\LT@p@ftn=\toks42
+)
+\glsdescwidth=\skip53
+\glspagelistwidth=\skip54
+)
+(/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-super.sty
+Package: glossary-super 2016/01/24 v4.21 (NLCT)
+
+(/usr/share/texlive/texmf-dist/tex/latex/supertabular/supertabular.sty
+Package: supertabular 2004/02/20 v4.1e the supertabular environment
+\c@tracingst=\count156
+\ST@wd=\dimen153
+\ST@rightskip=\skip55
+\ST@leftskip=\skip56
+\ST@parfillskip=\skip57
+\ST@pageleft=\dimen154
+\ST@headht=\dimen155
+\ST@tailht=\dimen156
+\ST@pagesofar=\dimen157
+\ST@pboxht=\dimen158
+\ST@lineht=\dimen159
+\ST@stretchht=\dimen160
+\ST@prevht=\dimen161
+\ST@toadd=\dimen162
+\ST@dimen=\dimen163
+\ST@pbox=\box36
+))
+(/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-tree.sty
+Package: glossary-tree 2016/01/24 v4.21 (NLCT)
+\glstreeindent=\skip58
+))
+\glswrite=\write3
+\glo@main@file=\write4
+\openout4 = `ipfjes-protocol.glo'.
+
+Package glossaries Info: Writing glossary file ipfjes-protocol.glo on input lin
+e 23.
+
+(/usr/share/texlive/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2009/09/02 v1.2b extra appendix facilities
+\c@@pps=\count157
+\c@@ppsavesec=\count158
+\c@@ppsaveapp=\count159
+)
+(/usr/share/texlive/texmf-dist/tex/latex/lastpage/lastpage.sty
+Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip59
+\f@ncyO@elh=\skip60
+\f@ncyO@erh=\skip61
+\f@ncyO@olh=\skip62
+\f@ncyO@orh=\skip63
+\f@ncyO@elf=\skip64
+\f@ncyO@erf=\skip65
+\f@ncyO@olf=\skip66
+\f@ncyO@orf=\skip67
+)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is not detected.
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen164
+\Hy@linkcounter=\count160
+\Hy@pagecounter=\count161
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count162
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count163
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen165
+\Fld@menulength=\count164
+\Field@Width=\dimen166
+\Fld@charsize=\dimen167
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count165
+\c@Item=\count166
+\c@Hfootnote=\count167
+)
+
+Package hyperref Message: Driver (autodetected): hxetex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2012/11/06 v6.83m Hyperref driver for XeTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2012/11/06 v6.83m Hyperref: PDF Unicode definition (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/stringenc.sty
+Package: stringenc 2011/12/02 v1.10 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box37
+\c@Hy@AnnotLevel=\count168
+\HyField@AnnotCount=\count169
+\Fld@listcount=\count170
+\c@bookmark@seq@number=\count171
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package rerunfilecheck Info: Feature \pdfmdfivesum is not available
+(rerunfilecheck)             (e.g. pdfTeX or LuaTeX with package `pdftexcmds').
+
+(rerunfilecheck)             Therefore file contents cannot be checked efficien
+tly
+(rerunfilecheck)             and the loading of the package is aborted.
+)
+\Hy@SectionHShift=\skip68
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks43
+\verbatim@line=\toks44
+\verbatim@in@stream=\read1
+)
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen168
+\lightrulewidth=\dimen169
+\cmidrulewidth=\dimen170
+\belowrulesep=\dimen171
+\belowbottomsep=\dimen172
+\aboverulesep=\dimen173
+\abovetopsep=\dimen174
+\cmidrulesep=\dimen175
+\cmidrulekern=\dimen176
+\defaultaddspace=\dimen177
+\@cmidla=\count172
+\@cmidlb=\count173
+\@aboverulesep=\dimen178
+\@belowrulesep=\dimen179
+\@thisruleclass=\count174
+\@lastruleclass=\count175
+\@thisrulewidth=\dimen180
+)
+(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip69
+\bibsep=\skip70
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count176
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2015/09/18 v0.5d Insert pages of external PDF documents (AM)
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count177
+\calc@Bcount=\count178
+\calc@Adimen=\dimen181
+\calc@Bdimen=\dimen182
+\calc@Askip=\skip71
+\calc@Bskip=\skip72
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count179
+\calc@Cskip=\skip73
+)
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+)
+\AM@pagewidth=\dimen183
+\AM@pageheight=\dimen184
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/ppxetex.def
+File: ppxetex.def 2015/09/18 v0.5d Pdfpages driver for XeTeX (AM)
+)
+\AM@pagebox=\box38
+\AM@toc@title=\toks45
+\c@AM@survey=\count180
+\AM@templatesizebox=\box39
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen185
+\captionmargin@=\dimen186
+\captionwidth=\dimen187
+\caption@tempdima=\dimen188
+\caption@indent=\dimen189
+\caption@parindent=\dimen190
+\caption@hangindent=\dimen191
+)
+\c@ContinuedFloat=\count181
+Package caption Info: hyperref package is loaded.
+Package caption Info: longtable package is loaded.
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
+)
+Package caption Info: supertabular package is loaded.
+)
+(./ipfjes-protocol.aux)
+\openout1 = `ipfjes-protocol.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OMS/pzccm/m/n on input line 93.
+LaTeX Font Info:    Try loading font information for OMS+pzccm on input line 93
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omspzccm.fd
+File: omspzccm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/pzccm.
+)
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+
+(./ipfjes-protocol.glsdefs)
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 93.
+\AtBeginShipoutBox=\box40
+Package hyperref Info: Link coloring OFF on input line 93.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count182
+)
+LaTeX Info: Redefining \ref on input line 93.
+LaTeX Info: Redefining \pageref on input line 93.
+LaTeX Info: Redefining \nameref on input line 93.
+
+(./ipfjes-protocol.out) (./ipfjes-protocol.out)
+\@outlinefile=\write5
+\openout5 = `ipfjes-protocol.out'.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2008/08/11 v0.10 Display of landscape pages in PDF (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
+
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
+(Font)              scaled to size 15.55188pt on input line 99.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 99.
+LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
+(Font)              scaled to size 15.55188pt on input line 99.
+LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
+(Font)              scaled to size 10.79993pt on input line 99.
+LaTeX Font Info:    Try loading font information for OT1+ptmcm on input line 99
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptmcm.fd
+File: ot1ptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ptmcm.
+)
+LaTeX Font Info:    Try loading font information for OML+ptmcm on input line 99
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlptmcm.fd
+File: omlptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ptmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+psycm on input line 99
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxpsycm.fd
+File: omxpsycm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/psycm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 99.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 99.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 99.
+
+
+LaTeX Warning: No \author given.
+
+LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
+(Font)              scaled to size 12.9599pt on input line 102.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 102.
+LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
+(Font)              scaled to size 12.9599pt on input line 102.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 104.
+LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
+(Font)              scaled to size 10.79993pt on input line 104.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 124.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 124.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 124.
+File: /home/drcjar/Documents/CV/CarlReynoldsSignature.png Graphic file (type QT
+m)
+<use  "/home/drcjar/Documents/CV/CarlReynoldsSignature.png" >
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
+File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
+
+)
+[1
+
+\openout3 = `ipfjes-protocol.ist'.
+
+]
+Missing character: There is no ’ in font phvr7t!
+ [2] (./ipfjes-protocol.toc
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
+(Font)              scaled to size 8.99994pt on input line 1.
+ [3])
+\tf@toc=\write6
+\openout6 = `ipfjes-protocol.toc'.
+
+ [4]
+\@gls@deffile=\write7
+\openout7 = `ipfjes-protocol.glsdefs'.
+
+
+No file ipfjes-protocol.gls.
+[5]
+Missing character: There is no ‘ in font phvr7t!
+Missing character: There is no ’ in font phvr7t!
+Missing character: There is no ‘ in font phvr7t!
+Missing character: There is no ’ in font phvr7t!
+
+Overfull \hbox (5.87097pt too wide) in paragraph at lines 231--232
+ []\OT1/phv/b/n/10 Eligibility:[] \OT1/phv/m/n/10 Meets pop-u-la-tion def-i-ni-
+tion, able to give in-formed con-sent, has never worked
+ []
+
+[6]
+LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
+(Font)              scaled to size 6.65994pt on input line 241.
+
+Overfull \hbox (4.46582pt too wide) in paragraph at lines 243--244
+\OT1/phv/m/n/10 tis-sue of pa-tients di-ag-nosed with `IPF' and re-vi-sion of t
+he di-ag-no-sis to `as-besto-sis'.$[]$$[]$$[]$$[]$ 
+ []
+
+[7]
+Missing character: There is no ‘ in font phvr7t!
+Missing character: There is no ’ in font phvr7t!
+Missing character: There is no ‘ in font phvr7t!
+Missing character: There is no ’ in font phvr7t!
+Missing character: There is no ‘ in font phvr7t!
+Missing character: There is no ’ in font phvr7t!
+ [8]
+Overfull \hbox (5.92131pt too wide) in paragraph at lines 274--275
+ []\OT1/phv/b/n/10 Secondary out-come[] \OT1/phv/m/n/10 Gene-environment in-ter
+-ac-tion odds ra-tio (for MUC5B rs35705950
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+phv on input line 285.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsphv.fd
+File: omsphv.fd 
+)
+LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 285.
+ [9]
+Missing character: There is no – in font phvr7t!
+Missing character: There is no ’ in font phvr7t!
+Missing character: There is no ‘ in font phvr7t!
+Missing character: There is no ’ in font phvr7t!
+Missing character: There is no ‘ in font phvr7t!
+Missing character: There is no ’ in font phvr7t!
+ [10]
+Missing character: There is no ‘ in font phvr7t!
+Missing character: There is no ’ in font phvr7t!
+Missing character: There is no ‘ in font phvr7t!
+Missing character: There is no ’ in font phvr7t!
+
+Overfull \hbox (8.98093pt too wide) in paragraph at lines 379--382
+\OT1/phv/m/n/10 lence of IPF of 20/100000 and with ORs 1.5 for as-bestos ex-po-
+sure and 6.8 for rs35705950,
+ []
+
+[11] [12] [13]
+File: fig/uk-ipf-meso-asb-mortality-trends.png Graphic file (type QTm)
+ <use  "fig/uk-ipf-meso-asb-mortality-trends.png" > [14]
+File: fig/uk-ipf-meso-asb-mortality-trends.png Graphic file (type QTm)
+
+<use  "fig/uk-ipf-meso-asb-mortality-trends.png" >
+Underfull \hbox (badness 7888) in paragraph at lines 457--457
+[]\OT1/phv/m/n/10 Figure 2: |ERS White-book data. Age stan-dard-ised mor-tal-it
+y rate per
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--457
+\OT1/phv/m/n/10 100,000 for 27 Eu-ro-pean Union mem-ber coun-tries (data not av
+ail-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 457--457
+\OT1/phv/m/n/10 able for Greece). Pear-son cor-re-la-tion co-ef-fi-cient = 0.51
+, p = 0.007.
+ []
+
+[15]
+LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
+(Font)              scaled to size 4.49997pt on input line 467.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 468.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <5> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 470.
+LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
+(Font)              scaled to size 4.49997pt on input line 470.
+Missing character: There is no · in font phvr7t!
+
+Underfull \hbox (badness 10000) in paragraph at lines 488--488
+[]\OT1/phv/m/n/5 Baumgartner
+ []
+
+
+Overfull \hbox (110.49353pt too wide) in paragraph at lines 468--510
+ [][] 
+ []
+
+[16]
+File: fig/ipfjes-flowchart.pdf Graphic file (type QTm)
+ <use  "fig/ipfjes-flowchart.pdf" >
+File: fig/ipfjes-flowchart.pdf Graphic file (type QTm)
+ <use  "fig/ipfjes-flowchart.pdf" >
+File: fig/ipfjes-flowchart.pdf Graphic file (type QTm)
+
+<use  "fig/ipfjes-flowchart.pdf"  page1>
+File: fig/ipfjes-flowchart.pdf Graphic file (type QTm)
+
+<use  "fig/ipfjes-flowchart.pdf"  page1> [17
+
+]
+File: fig/ipfjes-flowchart.pdf Graphic file (type QTm)
+
+<use  "fig/ipfjes-flowchart.pdf"  page1>
+File: fig/ipfjes-flowchart.pdf Graphic file (type QTm)
+
+<use  "fig/ipfjes-flowchart.pdf"  page1>
+File: fig/ipfjes-flowchart.pdf Graphic file (type QTm)
+
+<use  "fig/ipfjes-flowchart.pdf"  page1> [18]
+File: ipfjes-ganttchart.pdf Graphic file (type QTm)
+ <use  "ipfjes-ganttchart.pdf" >
+File: ipfjes-ganttchart.pdf Graphic file (type QTm)
+
+<use  "ipfjes-ganttchart.pdf" >
+File: ipfjes-ganttchart.pdf Graphic file (type QTm)
+ <use  "ipfjes-ganttchart.pdf"  page1>
+File: ipfjes-ganttchart.pdf Graphic file (type QTm)
+
+<use  "ipfjes-ganttchart.pdf"  page1>
+File: ipfjes-ganttchart.pdf Graphic file (type QTm)
+ <use  "ipfjes-ganttchart.pdf"  page1>
+File: ipfjes-ganttchart.pdf Graphic file (type QTm)
+
+<use  "ipfjes-ganttchart.pdf"  page1>
+File: ipfjes-ganttchart.pdf Graphic file (type QTm)
+ <use  "ipfjes-ganttchart.pdf"  page1>
+[19]
+Overfull \hbox (9.65744pt too wide) in paragraph at lines 519--519
+[]\OT1/phv/b/n/14.4 Study In-for-ma-tion Sheet for Health Care Pro-
+ []
+
+File: ipfjes-onepager.pdf Graphic file (type QTm)
+<use  "ipfjes-onepager.pdf" >
+File: ipfjes-onepager.pdf Graphic file (type QTm)
+ <use  "ipfjes-onepager.pdf" >
+File: ipfjes-onepager.pdf Graphic file (type QTm)
+
+<use  "ipfjes-onepager.pdf"  page1>
+File: ipfjes-onepager.pdf Graphic file (type QTm)
+ <use  "ipfjes-onepager.pdf"  page1>
+[20]
+File: ipfjes-onepager.pdf Graphic file (type QTm)
+ <use  "ipfjes-onepager.pdf"  page1>
+File: ipfjes-onepager.pdf Graphic file (type QTm)
+ <use  "ipfjes-onepager.pdf"  page1>
+File: ipfjes-onepager.pdf Graphic file (type QTm)
+
+<use  "ipfjes-onepager.pdf"  page1> [21]
+File: ipfjes-pis.pdf Graphic file (type QTm)
+ <use  "ipfjes-pis.pdf" >
+File: ipfjes-pis.pdf Graphic file (type QTm)
+
+<use  "ipfjes-pis.pdf" >
+File: ipfjes-pis.pdf Graphic file (type QTm)
+ <use  "ipfjes-pis.pdf"  page1>
+File: ipfjes-pis.pdf Graphic file (type QTm)
+
+<use  "ipfjes-pis.pdf"  page1> [22]
+File: ipfjes-pis.pdf Graphic file (type QTm)
+ <use  "ipfjes-pis.pdf"  page1>
+File: ipfjes-pis.pdf Graphic file (type QTm)
+
+<use  "ipfjes-pis.pdf"  page1>
+File: ipfjes-pis.pdf Graphic file (type QTm)
+ <use  "ipfjes-pis.pdf"  page1> [23]
+File: ipfjes-pis.pdf Graphic file (type QTm)
+
+<use  "ipfjes-pis.pdf"  page2>
+File: ipfjes-pis.pdf Graphic file (type QTm)
+ <use  "ipfjes-pis.pdf"  page2>
+File: ipfjes-pis.pdf Graphic file (type QTm)
+
+<use  "ipfjes-pis.pdf"  page2> [24]
+File: ipfjes-pis.pdf Graphic file (type QTm)
+ <use  "ipfjes-pis.pdf"  page3>
+File: ipfjes-pis.pdf Graphic file (type QTm)
+
+<use  "ipfjes-pis.pdf"  page3>
+File: ipfjes-pis.pdf Graphic file (type QTm)
+ <use  "ipfjes-pis.pdf"  page3> [25]
+File: ipfjes-pis.pdf Graphic file (type QTm)
+
+<use  "ipfjes-pis.pdf"  page4>
+File: ipfjes-pis.pdf Graphic file (type QTm)
+ <use  "ipfjes-pis.pdf"  page4>
+File: ipfjes-pis.pdf Graphic file (type QTm)
+
+<use  "ipfjes-pis.pdf"  page4> [26]
+File: ipfjes-consent.pdf Graphic file (type QTm)
+ <use  "ipfjes-consent.pdf" >
+File: ipfjes-consent.pdf Graphic file (type QTm)
+
+<use  "ipfjes-consent.pdf" >
+File: ipfjes-consent.pdf Graphic file (type QTm)
+ <use  "ipfjes-consent.pdf"  page1>
+File: ipfjes-consent.pdf Graphic file (type QTm)
+
+<use  "ipfjes-consent.pdf"  page1> [27]
+File: ipfjes-consent.pdf Graphic file (type QTm)
+ <use  "ipfjes-consent.pdf"  page1>
+File: ipfjes-consent.pdf Graphic file (type QTm)
+
+<use  "ipfjes-consent.pdf"  page1>
+File: ipfjes-consent.pdf Graphic file (type QTm)
+ <use  "ipfjes-consent.pdf"  page1> [28]
+Overfull \hbox (8.41214pt too wide) in paragraph at lines 530--530
+[]\OT1/phv/b/n/14.4 Hospital spe-cial-ist cover let-ter (case re-cruit-
+ []
+
+File: ipfjes-coverletter-cons-case.pdf Graphic file (type QTm)
+<use  "ipfjes-coverletter-cons-case.pdf" >
+File: ipfjes-coverletter-cons-case.pdf Graphic file (type QTm)
+
+<use  "ipfjes-coverletter-cons-case.pdf" >
+File: ipfjes-coverletter-cons-case.pdf Graphic file (type QTm)
+
+<use  "ipfjes-coverletter-cons-case.pdf"  page1>
+File: ipfjes-coverletter-cons-case.pdf Graphic file (type QTm)
+
+<use  "ipfjes-coverletter-cons-case.pdf"  page1> [29]
+File: ipfjes-coverletter-cons-case.pdf Graphic file (type QTm)
+
+<use  "ipfjes-coverletter-cons-case.pdf"  page1>
+File: ipfjes-coverletter-cons-case.pdf Graphic file (type QTm)
+
+<use  "ipfjes-coverletter-cons-case.pdf"  page1>
+File: ipfjes-coverletter-cons-case.pdf Graphic file (type QTm)
+
+<use  "ipfjes-coverletter-cons-case.pdf"  page1> [30]
+File: ipfjes-coverletter-cons-control.pdf Graphic file (type QTm)
+
+<use  "ipfjes-coverletter-cons-control.pdf" >
+File: ipfjes-coverletter-cons-control.pdf Graphic file (type QTm)
+
+<use  "ipfjes-coverletter-cons-control.pdf" >
+File: ipfjes-coverletter-cons-control.pdf Graphic file (type QTm)
+
+<use  "ipfjes-coverletter-cons-control.pdf"  page1>
+File: ipfjes-coverletter-cons-control.pdf Graphic file (type QTm)
+
+<use  "ipfjes-coverletter-cons-control.pdf"  page1> [31]
+File: ipfjes-coverletter-cons-control.pdf Graphic file (type QTm)
+
+<use  "ipfjes-coverletter-cons-control.pdf"  page1>
+File: ipfjes-coverletter-cons-control.pdf Graphic file (type QTm)
+
+<use  "ipfjes-coverletter-cons-control.pdf"  page1>
+File: ipfjes-coverletter-cons-control.pdf Graphic file (type QTm)
+
+<use  "ipfjes-coverletter-cons-control.pdf"  page1> [32]
+File: ipfjes-coverletter-pt.pdf Graphic file (type QTm)
+
+<use  "ipfjes-coverletter-pt.pdf" >
+File: ipfjes-coverletter-pt.pdf Graphic file (type QTm)
+ <use  "ipfjes-coverletter-pt.pdf" >
+File: ipfjes-coverletter-pt.pdf Graphic file (type QTm)
+
+<use  "ipfjes-coverletter-pt.pdf"  page1>
+File: ipfjes-coverletter-pt.pdf Graphic file (type QTm)
+
+<use  "ipfjes-coverletter-pt.pdf"  page1> [33]
+File: ipfjes-coverletter-pt.pdf Graphic file (type QTm)
+
+<use  "ipfjes-coverletter-pt.pdf"  page1>
+File: ipfjes-coverletter-pt.pdf Graphic file (type QTm)
+
+<use  "ipfjes-coverletter-pt.pdf"  page1>
+File: ipfjes-coverletter-pt.pdf Graphic file (type QTm)
+
+<use  "ipfjes-coverletter-pt.pdf"  page1> [34]
+File: ipfjes-coverletter-gp.pdf Graphic file (type QTm)
+
+<use  "ipfjes-coverletter-gp.pdf" >
+File: ipfjes-coverletter-gp.pdf Graphic file (type QTm)
+ <use  "ipfjes-coverletter-gp.pdf" >
+File: ipfjes-coverletter-gp.pdf Graphic file (type QTm)
+
+<use  "ipfjes-coverletter-gp.pdf"  page1>
+File: ipfjes-coverletter-gp.pdf Graphic file (type QTm)
+
+<use  "ipfjes-coverletter-gp.pdf"  page1> [35]
+File: ipfjes-coverletter-gp.pdf Graphic file (type QTm)
+
+<use  "ipfjes-coverletter-gp.pdf"  page1>
+File: ipfjes-coverletter-gp.pdf Graphic file (type QTm)
+
+<use  "ipfjes-coverletter-gp.pdf"  page1>
+File: ipfjes-coverletter-gp.pdf Graphic file (type QTm)
+
+<use  "ipfjes-coverletter-gp.pdf"  page1> [36]
+File: ipfjes-sop.pdf Graphic file (type QTm)
+ <use  "ipfjes-sop.pdf" >
+File: ipfjes-sop.pdf Graphic file (type QTm)
+
+<use  "ipfjes-sop.pdf" >
+File: ipfjes-sop.pdf Graphic file (type QTm)
+ <use  "ipfjes-sop.pdf"  page1>
+File: ipfjes-sop.pdf Graphic file (type QTm)
+
+<use  "ipfjes-sop.pdf"  page1> [37]
+File: ipfjes-sop.pdf Graphic file (type QTm)
+ <use  "ipfjes-sop.pdf"  page1>
+File: ipfjes-sop.pdf Graphic file (type QTm)
+
+<use  "ipfjes-sop.pdf"  page1>
+File: ipfjes-sop.pdf Graphic file (type QTm)
+ <use  "ipfjes-sop.pdf"  page1> [38]
+File: ipfjes-sop.pdf Graphic file (type QTm)
+
+<use  "ipfjes-sop.pdf"  page2>
+File: ipfjes-sop.pdf Graphic file (type QTm)
+ <use  "ipfjes-sop.pdf"  page2>
+File: ipfjes-sop.pdf Graphic file (type QTm)
+
+<use  "ipfjes-sop.pdf"  page2> [39]
+File: ipfjes-sop.pdf Graphic file (type QTm)
+ <use  "ipfjes-sop.pdf"  page3>
+File: ipfjes-sop.pdf Graphic file (type QTm)
+
+<use  "ipfjes-sop.pdf"  page3>
+File: ipfjes-sop.pdf Graphic file (type QTm)
+ <use  "ipfjes-sop.pdf"  page3> [40]
+File: ipfjes-sop.pdf Graphic file (type QTm)
+
+<use  "ipfjes-sop.pdf"  page4>
+File: ipfjes-sop.pdf Graphic file (type QTm)
+ <use  "ipfjes-sop.pdf"  page4>
+File: ipfjes-sop.pdf Graphic file (type QTm)
+
+<use  "ipfjes-sop.pdf"  page4> [41]
+File: ipfjes-sop.pdf Graphic file (type QTm)
+ <use  "ipfjes-sop.pdf"  page5>
+File: ipfjes-sop.pdf Graphic file (type QTm)
+
+<use  "ipfjes-sop.pdf"  page5>
+File: ipfjes-sop.pdf Graphic file (type QTm)
+ <use  "ipfjes-sop.pdf"  page5> [42]
+File: ipfjes-sop.pdf Graphic file (type QTm)
+
+<use  "ipfjes-sop.pdf"  page6>
+File: ipfjes-sop.pdf Graphic file (type QTm)
+ <use  "ipfjes-sop.pdf"  page6>
+File: ipfjes-sop.pdf Graphic file (type QTm)
+
+<use  "ipfjes-sop.pdf"  page6> [43] (./ipfjes-protocol.bbl
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 13.
+LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
+(Font)              scaled to size 8.99994pt on input line 13.
+ [44] [45] [46])
+
+AED: lastpage setting LastPage
+[47]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 564.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 564.
+ (./ipfjes-protocol.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 564.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 564.
+ ) 
+Here is how much of TeX's memory you used:
+ 22069 strings out of 495579
+ 351670 string characters out of 6187321
+ 483673 words of memory out of 5000000
+ 24999 multiletter control sequences out of 15000+600000
+ 30436 words of font info for 71 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 53i,18n,92p,1941b,602s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on ipfjes-protocol.pdf (47 pages).
