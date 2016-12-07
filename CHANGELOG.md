@@ -8,7 +8,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ### Added
 - question about current medication and serious illness to standard operating procedure to capture if controls have relevant co-morbid disease e.g pleural mesothelioma, asbestosis, lung cancer
-- detail that frequency matching will be on age catergories 
+- detail that frequency matching will be on age categories 
 
 ### Changed
 - 'job exposure' replaced with 'workplace environment' in patient information sheet to improve readability 
