@@ -137,7 +137,9 @@ Chief Investigator: Carl Reynolds
 
 Co-investigators: Paul Cullinan, Chris Barber, Sara De Matteis
 
-Statistician: Cosetta Minelli
+Statistical Supervisor: Cosetta Minelli
+
+Statistician: Carl Reynolds
 
 Study Management: Paul Cullinan, Chris Barber, Sara De Matteis, Carl Reynolds
 
@@ -226,8 +228,8 @@ This protocol describes the Idiopathic Pulmonary Fibrosis Job Exposures Study (I
 \paragraph{Title:} Idiopathic Pulmonary Fibrosis Job Exposures Study (IPF JES).
 \paragraph{Design:} Hospital case-control study.
 \paragraph{Aim:} To characterize and measure asbestos exposure as an occupational determinant of IPF.
-\paragraph{Outcome measures:} 1. Association between asbestos exposure and IPF estimated using unconditional logistic regression for ‘any’ vs ‘no’ asbestos exposure and categories of cumulative exposure and adjusting for age and smoking status. 2. Gene-environment interaction (for MUC5B rs35705950 and asbestos exposure) odds ratio.
-\paragraph{Population:} Male patients with a new diagnosis of IPF and age-matched controls who have a new outpatient appointment during the study period.
+\paragraph{Outcome measures:} 1. Association between asbestos exposure and IPF estimated using conditional logistic regression for ‘any’ vs ‘no’ asbestos exposure and categories of cumulative exposure and adjusting for age and smoking status. 2. Gene-environment interaction (for MUC5B rs35705950 and asbestos exposure) odds ratio.
+\paragraph{Population:} Male patients with a new diagnosis of IPF and age-matched controls who have a new outpatient clinic appointment during the study period.
 \paragraph{Eligibility:} Meets population definition, able to give informed consent, has never worked outside of the UK.
 \paragraph{Duration:} Three years.
 
@@ -246,7 +248,7 @@ Identification of occupational asbestos fibre exposure as an under-recognized ca
 
 In preparing this protocol, I examined mortality trends in England and Wales for IPF and asbestos-related diseases. UK age-standardized mortality rates from 1974 to 2012 continued to rise with marked sex and regional variations, consistent with occupational exposure being an under-recognized cause of IPF.\cite{Reynolds2014} I analysed European age-standardised mortality rates for mesothelioma and IPF for 27 countries for which data was available and found a positive correlation (r = 0.51, p = 0.007). I collated 13 case-control studies of IPF and occupational dust exposure; eight reported significant associations with metal dust exposure \cite{Scott1990}\cite{Iwai1994}\cite{Hubbard1996}\cite{Hubbard2000}\cite{Miyake2005}\cite{Pinheiro2008}, four with wood dust \cite{Hubbard1996a}\cite{Gustafson2007}\cite{Pinheiro2008}\cite{Awadalla2012} and two with stone dust.\cite{Baumgartner2000}\cite{Mullen1998}
 
-Finally, I analysed the limited occupational information in a recent case-control study, designed to examine the role of thrombosis.\cite{Navaratnam2011} Using an approach from a large mesothelioma study\cite{Rake2009} I estimated the odds ratio (OR) associated with ever having had a job with probable asbestos exposure was 2.8 (95\% CI: 1.42-5.75, p = 0.001) adding further weight to the argument that occupational asbestos exposure in IPF should be properly investigated. Supplementary figures and a table of previous case-control studies are provided in Appendix B. 
+Finally, I analysed the limited occupational information in a recent case-control study, designed to examine the role of thrombosis in IPF.\cite{Navaratnam2011} Using an approach from a large mesothelioma study based on proportional mortality ratios\cite{Rake2009} I estimated the odds ratio (OR) associated with ever having had a job with probable asbestos exposure was 2.8 (95\% CI: 1.42-5.75, p = 0.001) adding further weight to the argument that occupational asbestos exposure in IPF should be properly investigated. Supplementary figures and a table of previous case-control studies are provided in Appendix B. 
 
 In addition to its epidemiological and clinical plausibility there are several additional reasons why study of this area is needed. First, most previous work relied on self-reported workplace exposure information, an approach that is open to recall bias and deals poorly with confounding; for example, studies have described strong associations between metal work and IPF and specify sheet metal workers\cite{Iwai1994}\cite{Scott1990}\cite{Hubbard2000}, a group who are frequently exposed to dust containing asbestos fibres\cite{Welch1994} and who in a recent UK study, had the highest risk of mesothelioma.\cite{Rake2009} Lifetime occupational histories are more accurately recalled than self-reported workplace exposures and can be combined with measures such as proportionate mortality (PMR) estimates and job-process assessments to minimize recall bias and more accurately characterise cumulative exposures. \cite{Teschke2002}\cite{Bourgkard2013}\cite{Cherrie1999}\cite{Rake2009} This allows too the examination of `exposure-response' relationships, entirely lacking in the published literature. 
 
@@ -268,7 +270,7 @@ My specific research questions are:
 \section{Study design}
 \subsection{Study outcome measures}
 \paragraph{Primary outcome}
-Association between asbestos exposure and IPF estimated using unconditional logistic regression for ‘any’ vs ‘no’ asbestos exposure and categories of cumulative exposure and adjusting for age and smoking status.
+Association between asbestos exposure and IPF estimated using conditional logistic regression for ‘any’ vs ‘no’ asbestos exposure and categories of cumulative exposure and adjusting for age and smoking status.
 
 \paragraph{Secondary outcome}
 Gene-environment interaction odds ratio (for MUC5B rs35705950 and asbestos exposure)
@@ -278,7 +280,7 @@ Gene-environment interaction odds ratio (for MUC5B rs35705950 and asbestos expos
 Pre-registration evaluation will include screening for eligibility using inclusion and exclusion criteria.
 
 \subsection{Sampling}
-Cases and controls will be frequency matched on age.
+Cases and controls will be frequency matched on age categories.
 
 \subsection{Inclusion criteria}
 \begin{itemize}
@@ -320,12 +322,11 @@ Research participants will be withdrawn from the study upon their request or if 
 \paragraph{Adverse Event (AE):}any untoward medical occurrence in a patient or clinical study subject.  
 
 \paragraph{Serious Adverse Event (SAE):}any untoward and unexpected medical occurrence or effect that: \begin{itemize}
-                                                                                                        \item Results in death
 	\item Is life-threatening – refers to an event in which the subject was at risk of death at the time of the event; it does not refer to an event which hypothetically might have caused death if it were more severe
 	\item Requires hospitalisation, or prolongation of existing inpatients’ hospitalisation
     \item Results in persistent or significant disability or incapacity
 	\item Is a congenital anomaly or birth defect
-                                                                                                       \end{itemize}
+                                                                                              \end{itemize}
 
 
 Medical judgement should be exercised in deciding whether an AE is serious in other situations. Important AEs that are not immediately life-threatening or do not result in death or hospitalisation but may jeopardise the subject or may require intervention to prevent one of the other outcomes listed in the definition above, should also be considered serious.
@@ -368,7 +369,7 @@ Tel: 07737 904 807
 Research participants will complete an interview and a blood test. The study will end when analysis of the last research participant is complete.
 
 \section{Statistics and data analysis}
-For the primary analysis unconditional logistic regression will be used to analyse ‘any’ vs ‘no’ asbestos exposure and
+For the primary analysis conditional logistic regression will be used to analyse ‘any’ vs ‘no’ asbestos exposure and
 categories of cumulative exposure adjusting for age and smoking status. Prior data indicate that the probability of
 exposure among controls is 0.63. If the true OR for disease in exposed subjects relative to unexposed subjects is 1.5,
 I will need to recruit 460 case patients and 460 control patients to be able to reject the null hypothesis that this odds
@@ -452,7 +453,7 @@ measures.
 
 \begin{figure}[htp]
 \centering
-\includegraphics[width=12cm,height=10cm]{fig/uk-ipf-meso-asb-mortality-trends.png}
+\includegraphics[width=12cm,height=10cm]{fig/european-meso-ipf-assoc.png}
 \caption{ERS Whitebook data. Age standardised mortality rate per 100,000 for 27 European Union member countries (data not available for Greece). Pearson correlation coefficient = 0.51, p = 0.007. https://github.com/drcjar/pypf/blob/master/notebooks/ERS\_whitebook\_ipf\_meso.ipynb}
 \end{figure}
 
