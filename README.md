@@ -10,4 +10,5 @@ Here you will find the IPF JES study documents including:
 - Cover letters ([GP](https://github.com/drcjar/ipfjes/blob/master/ipfjes-coverletter-gp.pdf), [ILD Consultant](https://github.com/drcjar/ipfjes/blob/master/ipfjes-coverletter-cons-case.pdf), [Other Consultant](https://github.com/drcjar/ipfjes/blob/master/ipfjes-coverletter-cons-control.pdf), [Patient](https://github.com/drcjar/ipfjes/blob/master/ipfjes-coverletter-pt.pdf))
 - [Consent form](https://github.com/drcjar/ipfjes/blob/master/ipfjes-consent.pdf)
 - [Standard operating procedure](https://github.com/drcjar/ipfjes/blob/master/ipfjes-sop.pdf)
+- [Change log](https://github.com/drcjar/ipfjes/blob/master/CHANGELOG.md)
 
