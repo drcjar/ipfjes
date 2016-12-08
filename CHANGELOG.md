@@ -18,4 +18,4 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Fixed
 - several errors in text and figures in relation to study start date and ratio of cases to controls
 - error in calculation for monthly sample size per center 
-
+- address for Chris Barber
