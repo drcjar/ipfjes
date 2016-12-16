@@ -4,6 +4,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/) 
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+
+## [0.3.0] - 2016-12-16
+
+### Changed
+- start date from January to February 2017 because of advice from Imperial College London research support team "Study start date is listed as 01/01/17, however as the study is yet to be submitted for HRA review and with the Christmas break this is not realistic. As a result can I ask for this to be amended to allow at least 40 days from date of submission otherwise the study will be flagging as red for missing the metric on Recruitment to time and target from the first day it opens. Subsequently the study end date will also need to be adjusted accordingly."
+
+
+
 ## [0.3.0] - 2016-12-07
 
 ### Added
