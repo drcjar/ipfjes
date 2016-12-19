@@ -13,6 +13,7 @@
 \setkomavar{fromemail}{carl.reynolds@imperial.ac.uk}
 \setkomavar{fromurl}{http://www.ipfjes.org}
 \setkomavar{signature}{Dr Carl Reynolds, Chief Investigator, on behalf of the IPF JES team}
+\setkomavar{frombank}{(IPF JES - version 0.3 - 19/12/16)}
 % ==============================================
 %  FORMATTING STUFF
 % ==============================================
