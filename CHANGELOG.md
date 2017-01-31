@@ -5,6 +5,13 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
 
+## [0.3.0] - 2017-01-10
+
+### Changed
+
+- GP cover letter to be explicit that study involves patients with and without IPF.
+- GP cover letter to say "idiopathic pulmonary fibrosis (IPF)" rather than just IPF.
+
 ## [0.3.0] - 2016-12-16
 
 ### Changed
