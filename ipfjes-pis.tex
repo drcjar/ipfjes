@@ -20,14 +20,15 @@
 %\usepackage{minted}
 
 %headers
+\usepackage{lastpage}
 \usepackage{fancyhdr}
 \pagestyle{fancy} 
 \lhead{IRAS Project ID: 203355}
 \chead{}
 \rhead{clinicaltrials.gov reference}
 \lfoot{IPF JES}
-\cfoot{Participant Information Sheet v0.3}
-\rfoot{\today}
+\cfoot{Participant Information Sheet v0.3 \hspace{1cm} \today}
+\rfoot{\thepage\ of \pageref{LastPage}}
 
 
 %display URLS
@@ -71,10 +72,11 @@
 %\author{Carl Reynolds \\
 %\small National Heart \& Lung Institute, Imperial College London }
 
-%\pagenumbering{gobble}
-
 \begin{document}
 \pagestyle{fancy} 
+
+
+\pagenumbering{arabic}
 
 %\pagestyle{empty}
 
@@ -83,9 +85,9 @@
 \section*{Participant Information Sheet}
 
 \subsection*{Idiopathic Pulmonary Fibrosis Job Exposure Study (IPF JES)}
-\subsection*{A case-control study to investigate whether workplace environments are an under-recognized cause of idiopathic pulmonary fibrosis (IPF) using an interview to collect information about previous
-jobs and a blood test to investigate genetic susceptibility.}
+\subsection*{IPF JES is a research study that aims to discover if workplaces are a cause of idiopathic pulmonary fibrosis (IPF)}
 
+The lead researcher is Dr Carl Reynolds, clinical research fellow at Imperial College London.
 
 \section*{PART 1}
 \subsection*{Can you help with a research study?}
@@ -128,11 +130,10 @@ jobs and a blood test to investigate genetic susceptibility.}
 \subsection*{Who are the researchers?}
 The research will be conducted by a team based at Imperial College London, Imperial College Healthcare NHS Hospitals, and Sheffield Foundation Trust NHS Hospitals. The research is funded by the Wellcome Trust. The main investigators are:
 \begin{itemize}
- \item Dr Carl Reynolds, Wellcome Trust Clinical Research Training Fellow, Imperial College London. (Chief Investigator)
- \item Professor Paul Cullinan, Professor, Honorary consultant physician (respiratory medicine). Occupational and Environmental Medicine, NHLI (Imperial College London), Royal Brompton Hospital, London.
-Joint appointment; tenured. (Co-Investigator)
- \item Dr Chris Barber, Consultant physician (respiratory medicine), Brearley Outpatients, Northern General Hospital, Herries Road, Sheffield, S5 7AU. (Co-Investigator)
- \item Dr Sara De Matteis, Clinical Lecturer, Imperial College London. (Co-Investigator)
+    \item Dr Carl Reynolds, Wellcome Trust Clinical Research Training Fellow, NHLI (Imperial College London). (Chief investigator)
+ \item Professor Paul Cullinan, Professor, Honorary consultant physician (respiratory medicine). Occupational and Environmental Medicine, NHLI (Imperial College London), Royal Brompton Hospital, London. Joint appointment; tenured. (Co-Investigator)
+ \item Dr Chris Barber, Consultant physician (respiratory medicine), Northern General Hospital, Sheffield. (Co-Investigator)
+ \item Dr Sara De Matteis, Clinical Lecturer, NHLI (Imperial College London). (Co-Investigator)
 \end{itemize}
 
 \section*{PART 2}
@@ -161,13 +162,17 @@ Certain genetic differences, such as a small change that affects mucus in our ai
 
 \subsection*{Are there any benefits to taking part?}
 
-We cannot promise that the study will help you, but the information we get from this research will help to understand the causes of IPF, make sure people get the right treatment and compensation they are entitled to, and ensure that the controls on chemicals at work are right so that we protect workers and prevent disease in the future.
+We cannot promise that the study will help you, but the information we get from this research may help to understand the causes of IPF, make sure people get the right treatment and compensation they are entitled to, and ensure that the controls on chemicals at work are right so that we protect workers and prevent disease in the future.
+
+Diseases that are discovered to be caused by work might get compensation. Currently, patients with IPF are unlikely to get compensation because it is not known to be caused by work. If we find that workplace environments do cause IPF for some people then this may change for patients in the future.   
 
 \subsection*{Are there any risks to taking part?}
 
 The greatest risk to you of participation in this study is an inadvertent disclosure of your private identifiable information. To minimize the risk of loss of confidentiality your interview response (and blood sample) will not be labelled with your private identifiable information. Interview response information will be kept encrypted on a computer in a locked office. Blood samples will be stored in a secure facility. You will not be identified in any report or publication of this study or its results.
 
 There is a risk that we will find something that is important to your health. This could be distressing to you. If we find anything that we think could be important to your health we will inform your GP and hospital doctors. 
+
+The study has been reviewed by the Nottingham 1 Research Ethics Committee.
 
 \subsection*{What will happen when the research is finished?}
 
