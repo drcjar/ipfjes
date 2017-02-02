@@ -4,6 +4,19 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/) 
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [0.4.0] - 2017-02-01
+
+
+### Added 
+- add page numbers, details of why a blood test is requested, details regarding the role of compensation in the study, to participant information sheet
+- leader stems for questions regarding occupational and residential history added to interview schedule and sop
+- new citation to protocol in background section (Gilham2015) in support of mesothelioma PMR for asbestos exposure estimation
+
+### Changed
+- Participant information sheet changed to include lead researchers name on first page 
+- Participant information sheet short description of the study 
+
+
 
 ## [0.3.0] - 2017-01-10
 

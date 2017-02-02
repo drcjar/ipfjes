@@ -10,8 +10,7 @@
 \setkomavar{fromaddress}{Title Name \\ Address1 \\ Address2 \\ Address3 \\ Postcode}
 \setkomavar{fromphone}{+44 (X)XX XXXX XXXX}
 \setkomavar{fromemail}{name@email.nhs.uk}
-\setkomavar{signature}{Name, Respiratory Consultant at Hospital and Principle Investigator, on behalf of the IPF JES team}
-\setkomavar{frombank}{(IPF JES - version 0.3 - 19/12/16)}
+\setkomavar{signature}{Name, Principle Investigator, on behalf of the IPF JES team}
 % ==============================================
 %  FORMATTING STUFF
 % ==============================================
@@ -39,7 +38,7 @@
         \renewcommand{\\}{\ {\large\textperiodcentered}\ }
 	\usekomavar{fromaddress} 
         }\\  
-	{\Large\Letter} \usekomavar{fromemail} \ {\Large\Telefon} \usekomavar{fromphone} \\ \usekomavar{frombank}
+	{\Large\Letter} \usekomavar{fromemail} \ {\Large\Telefon} \usekomavar{fromphone} \\ 
   
 }
 
