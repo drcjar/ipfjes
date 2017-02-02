@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - add page numbers, details of why a blood test is requested, details regarding the role of compensation in the study, to participant information sheet
 - leader stems for questions regarding occupational and residential history added to interview schedule and sop
 - new citation to protocol in background section (Gilham2015) in support of mesothelioma PMR for asbestos exposure estimation
+- new detail regarding trigger occupations added to standard operating procedure
 
 ### Changed
 - Participant information sheet changed to include lead researchers name on first page 
