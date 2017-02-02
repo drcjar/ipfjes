@@ -1,4 +1,4 @@
-% This file was created with JabRef 2.10b2.
+% This file was created with JabRef 2.10.
 % Encoding: UTF-8
 
 
@@ -912,6 +912,16 @@
   Owner                    = {sam},
   Review                   = {critique of criteria},
   Timestamp                = {2015.09.29}
+}
+
+@Article{Gilham2015,
+  Title                    = {Pleural mesothelioma and lung cancer risks in relation to occupational history and asbestos lung burden},
+  Author                   = {Gilham, Clare and Rake, Christine and Burdett, Garry and Nicholson, Andrew G and Davison, Leslie and Franchini, Angelo and Carpenter, James and Hodgson, John and Darnton, Andrew and Peto, Julian},
+  Journal                  = {Occupational and environmental medicine},
+  Year                     = {2015},
+  Pages                    = {oemed--2015},
+
+  Publisher                = {BMJ Publishing Group Ltd}
 }
 
 @Article{Glazer2009,
