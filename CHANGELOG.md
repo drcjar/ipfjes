@@ -15,7 +15,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Changed
 - Participant information sheet changed to include lead researchers name on first page 
 - Participant information sheet short description of the study 
-
+- Recruitment of controls in standard operating procedure simplified. Objective is to randomly sample new outpatient department attendees of a similar age to cases. List of clinics is provided only once. Once acceptable control clinic is identified it can be used for the duration of the study. 
 
 
 ## [0.3.0] - 2017-01-10
