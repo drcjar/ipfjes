@@ -1,4 +1,3 @@
-% This file was created with JabRef 2.10.
 % Encoding: UTF-8
 
 
@@ -340,28 +339,25 @@
 }
 
 @Article{Bourgkard2013,
-  Title                    = {Comparison of exposure assessment methods in a lung cancer case-control study: performance of a lifelong task-based questionnaire for asbestos and PAHs.},
-  Author                   = {Bourgkard, Eve and Wild, Pascal and Gonzalez, Maria and F{\'{e}}votte, Jo{\"{e}}lle and Penven, Emmanuelle and Paris, Christophe},
-  Journal                  = {Occup. Environ. Med.},
-  Year                     = {2013},
-
-  Month                    = {Dec},
-  Number                   = {12},
-  Pages                    = {884--891},
-  Volume                   = {70},
-
-  __markedentry            = {[sam:]},
-  Abstract                 = {To describe the performance of a lifelong task-based questionnaire (TBQ) in estimating exposures compared with other approaches in the context of a case-control study.A sample of 93 subjects was randomly selected from a lung cancer case-control study corresponding to 497 jobs. For each job, exposure assessments for asbestos and polycyclic aromatic hydrocarbons (PAHs) were obtained by expertise (TBQ expertise) and by algorithm using the TBQ (TBQ algorithm) as well as by expert appraisals based on all available occupational data (REFERENCE expertise) considered to be the gold standard. Additionally, a Job Exposure Matrix (JEM)-based evaluation for asbestos was also obtained. On the 497 jobs, the various evaluations were contrasted using Cohen's κ coefficient of agreement. Additionally, on the total case-control population, the asbestos dose-response relationship based on the TBQ algorithm was compared with the JEM-based assessment.Regarding asbestos, the TBQ-exposure estimates agreed well with the REFERENCE estimate (TBQ expertise: level-weighted κ (lwk)=0.68; TBQ algorithm: lwk=0.61) but less so with the JEM estimate (TBQ expertise: lwk=0.31; TBQ algorithm: lwk=0.26). Regarding PAHs, the agreements between REFERENCE expertise and TBQ were less good (TBQ expertise: lwk=0.43; TBQ algorithm: lwk=0.36). In the case-control study analysis, the dose-response relationship between lung cancer and cumulative asbestos based on the JEM is less steep than with the TBQ-algorithm exposure assessment and statistically non-significant.Asbestos-exposure estimates based on the TBQ were consistent with the REFERENCE expertise and yielded a steeper dose-response relationship than the JEM. For PAHs, results were less clear.},
-  Doi                      = {10.1136/oemed-2013-101467},
-  Institution              = {Département Epidémiologie en Entreprise, Institut National de Recherche et de Sécurité (INRS), Vandœuvre-lès-Nancy, France.},
-  Keywords                 = {Adult; Aged; Aged, 80 and over; Asbestos, analysis/toxicity; Carcinogens, toxicity; Case-Control Studies; France, epidemiology; Humans; Lung Neoplasms, epidemiology/etiology; Male; Middle Aged; Occupational Diseases, epidemiology/etiology; Occupational Exposure, adverse effects/analysis; Questionnaires, standards; Reference Standards},
-  Language                 = {eng},
-  Medline-pst              = {ppublish},
-  Owner                    = {sam},
-  Pii                      = {oemed-2013-101467},
-  Pmid                     = {24142972},
-  Timestamp                = {2015.09.07},
-  Url                      = {http://dx.doi.org/10.1136/oemed-2013-101467}
+  author      = {Bourgkard, Eve and Wild, Pascal and Gonzalez, Maria and F{\'{e}}votte, Jo{\"{e}}lle and Penven, Emmanuelle and Paris, Christophe},
+  title       = {Comparison of exposure assessment methods in a lung cancer case-control study: performance of a lifelong task-based questionnaire for asbestos and PAHs.},
+  journal     = {Occup. Environ. Med.},
+  year        = {2013},
+  language    = {eng},
+  volume      = {70},
+  number      = {12},
+  month       = {Dec},
+  pages       = {884--891},
+  doi         = {10.1136/oemed-2013-101467},
+  url         = {http://dx.doi.org/10.1136/oemed-2013-101467},
+  abstract    = {To describe the performance of a lifelong task-based questionnaire (TBQ) in estimating exposures compared with other approaches in the context of a case-control study.A sample of 93 subjects was randomly selected from a lung cancer case-control study corresponding to 497 jobs. For each job, exposure assessments for asbestos and polycyclic aromatic hydrocarbons (PAHs) were obtained by expertise (TBQ expertise) and by algorithm using the TBQ (TBQ algorithm) as well as by expert appraisals based on all available occupational data (REFERENCE expertise) considered to be the gold standard. Additionally, a Job Exposure Matrix (JEM)-based evaluation for asbestos was also obtained. On the 497 jobs, the various evaluations were contrasted using Cohen's κ coefficient of agreement. Additionally, on the total case-control population, the asbestos dose-response relationship based on the TBQ algorithm was compared with the JEM-based assessment.Regarding asbestos, the TBQ-exposure estimates agreed well with the REFERENCE estimate (TBQ expertise: level-weighted κ (lwk)=0.68; TBQ algorithm: lwk=0.61) but less so with the JEM estimate (TBQ expertise: lwk=0.31; TBQ algorithm: lwk=0.26). Regarding PAHs, the agreements between REFERENCE expertise and TBQ were less good (TBQ expertise: lwk=0.43; TBQ algorithm: lwk=0.36). In the case-control study analysis, the dose-response relationship between lung cancer and cumulative asbestos based on the JEM is less steep than with the TBQ-algorithm exposure assessment and statistically non-significant.Asbestos-exposure estimates based on the TBQ were consistent with the REFERENCE expertise and yielded a steeper dose-response relationship than the JEM. For PAHs, results were less clear.},
+  institution = {Département Epidémiologie en Entreprise, Institut National de Recherche et de Sécurité (INRS), Vandœuvre-lès-Nancy, France.},
+  keywords    = {Adult; Aged; Aged, 80 and over; Asbestos, analysis/toxicity; Carcinogens, toxicity; Case-Control Studies; France, epidemiology; Humans; Lung Neoplasms, epidemiology/etiology; Male; Middle Aged; Occupational Diseases, epidemiology/etiology; Occupational Exposure, adverse effects/analysis; Questionnaires, standards; Reference Standards},
+  medline-pst = {ppublish},
+  owner       = {sam},
+  pii         = {oemed-2013-101467},
+  pmid        = {24142972},
+  timestamp   = {2015.09.07},
 }
 
 @Article{Burstyn2011,
@@ -428,28 +424,25 @@
 }
 
 @Article{Cariaso2012,
-  Title                    = {SNPedia: a wiki supporting personal genome annotation, interpretation and analysis.},
-  Author                   = {Cariaso, Michael and Lennon, Greg},
-  Journal                  = {Nucleic Acids Res.},
-  Year                     = {2012},
-
-  Month                    = {Jan},
-  Number                   = {Database issue},
-  Pages                    = {D1308--D1312},
-  Volume                   = {40},
-
-  __markedentry            = {[sam:6]},
-  Abstract                 = {SNPedia (http://www.SNPedia.com) is a wiki resource of the functional consequences of human genetic variation as published in peer-reviewed studies. Online since 2006 and freely available for personal use, SNPedia has focused on the medical, phenotypic and genealogical associations of single nucleotide polymorphisms. Entries are formatted to allow associations to be assigned to single genotypes as well as sets of genotypes (genosets). In this article, we discuss the growth of this resource and its use by affiliated software to create personal genome reports.},
-  Doi                      = {10.1093/nar/gkr798},
-  Institution              = {River Road Bio, LLC, 9812 Falls Road \#114-237, Potomac, Maryland, MD 20854, USA.},
-  Keywords                 = {Databases, Nucleic Acid; Genome, Human; Genotype; Humans; Internet; Molecular Sequence Annotation; Polymorphism, Single Nucleotide; Software},
-  Language                 = {eng},
-  Medline-pst              = {ppublish},
-  Owner                    = {sam},
-  Pii                      = {gkr798},
-  Pmid                     = {22140107},
-  Timestamp                = {2015.09.29},
-  Url                      = {http://dx.doi.org/10.1093/nar/gkr798}
+  author      = {Cariaso, Michael and Lennon, Greg},
+  title       = {SNPedia: a wiki supporting personal genome annotation, interpretation and analysis.},
+  journal     = {Nucleic Acids Res.},
+  year        = {2012},
+  language    = {eng},
+  volume      = {40},
+  number      = {Database issue},
+  month       = {Jan},
+  pages       = {D1308--D1312},
+  doi         = {10.1093/nar/gkr798},
+  url         = {http://dx.doi.org/10.1093/nar/gkr798},
+  abstract    = {SNPedia (http://www.SNPedia.com) is a wiki resource of the functional consequences of human genetic variation as published in peer-reviewed studies. Online since 2006 and freely available for personal use, SNPedia has focused on the medical, phenotypic and genealogical associations of single nucleotide polymorphisms. Entries are formatted to allow associations to be assigned to single genotypes as well as sets of genotypes (genosets). In this article, we discuss the growth of this resource and its use by affiliated software to create personal genome reports.},
+  institution = {River Road Bio, LLC, 9812 Falls Road \#114-237, Potomac, Maryland, MD 20854, USA.},
+  keywords    = {Databases, Nucleic Acid; Genome, Human; Genotype; Humans; Internet; Molecular Sequence Annotation; Polymorphism, Single Nucleotide; Software},
+  medline-pst = {ppublish},
+  owner       = {sam},
+  pii         = {gkr798},
+  pmid        = {22140107},
+  timestamp   = {2015.09.29},
 }
 
 @Article{Chen2014,
@@ -3592,3 +3585,28 @@
   Timestamp                = {2014.05.19}
 }
 
+@Article{Koo2017,
+  author        = {Koo, J-W and Myong, J-P and Yoon, H-K and Rhee, C K and Kim, Y and Kim, J S and Jo, B S and Cho, Y and Byun, J and Choi, M and Kim, H-R and Kim, E-A},
+  title         = {Occupational exposure and idiopathic pulmonary fibrosis: a multicentre case-control study in Korea.},
+  journal       = {The international journal of tuberculosis and lung disease : the official journal of the International Union against Tuberculosis and Lung Disease},
+  year          = {2017},
+  volume        = {21},
+  issue         = {1},
+  month         = jan,
+  pages         = {107--112},
+  issn          = {1815-7920},
+  doi           = {10.5588/ijtld.16.0167},
+  __markedentry = {[drcjar:6]},
+  abstract      = {Multicentred hospital-based cases and control subjects in Korea. To evaluate the association between idiopathic pulmonary fibrosis (IPF) and hazardous materials to which people are occupationally exposed. A multicentre, hospital-based, matched case-control study was performed. The ratio of IPF cases to controls was 1:1 (n = 78 in each group). IPF cases and controls were matched in terms of age group, sex and place of residence. Conditional logistic regression analysis was performed. In simple logistic regression analysis, exposure to metal dust and any exposure for >1 year in an occupational setting were significantly associated with IPF (metal dust OR 4.00, 95%CI 1.34-11.97; any exposure OR 3.67, 95%CI 1.02-13.14). After adjustment for environmental and military exposures and smoking history, the OR for metal dust exposure was 4.97 (95%CI 1.36-18.17) in multiple logistic regression analysis. Metal dust was associated with incident IPF in Seoul and Gyeonggi Provinces in Korea. This information will be used to support a tailored preventive strategy in specific industries or occupations.},
+  country       = {France},
+  created       = {2017-02-03},
+  issn-linking  = {1027-3719},
+  nlm-id        = {9706389},
+  owner         = {NLM},
+  pmid          = {28157473},
+  pubmodel      = {Print},
+  pubstatus     = {ppublish},
+  revised       = {2017-02-03},
+}
+
+@Comment{jabref-meta: databaseType:biblatex;}
