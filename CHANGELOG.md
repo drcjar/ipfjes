@@ -4,6 +4,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/) 
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [0.4.0] - 2017-05-02
+
+### Added
+- Welsh patient materials
+- sponsorship documentation
+
+### Changed
+- identification and recruitment of controls further simplified
 
 ## [0.4.0] - 2017-03-06
 
