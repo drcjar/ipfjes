@@ -7,7 +7,7 @@ Here you will find the IPF JES study documents including:
 - [Study protocol](https://github.com/drcjar/ipfjes/raw/master/ipfjes-protocol.pdf)
 - Participant information sheet [English](https://github.com/drcjar/ipfjes/blob/master/ipfjes-pis.pdf), [Welsh](https://github.com/drcjar/ipfjes/blob/master/ipfjes-pis-welsh.pdf)
 - [Healthcare professional information sheet](https://github.com/drcjar/ipfjes/blob/master/ipfjes-onepager.pdf)
-- Cover letters ([GP](https://github.com/drcjar/ipfjes/blob/master/ipfjes-coverletter-gp.pdf), [Control Clinic Consultant](https://github.com/drcjar/ipfjes/blob/master/ipfjes-coverletter-cons-control.pdf)
+- Cover letters ([GP](https://github.com/drcjar/ipfjes/blob/master/ipfjes-coverletter-gp.pdf), [Control Clinic Consultant](https://github.com/drcjar/ipfjes/blob/master/ipfjes-coverletter-cons-control.pdf))
 - [Standard operating procedure](https://github.com/drcjar/ipfjes/blob/master/ipfjes-sop.pdf)
 - [Interview schedule](https://github.com/drcjar/ipfjes/blob/master/ipfjes-interview.pdf)
 - [Case report form (CRF)](https://github.com/drcjar/ipfjes/blob/master/ipfjes-crf.pdf)
