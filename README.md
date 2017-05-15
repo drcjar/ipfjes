@@ -16,6 +16,7 @@ Here you will find the IPF JES study documents including:
 - [Case report form (CRF)](https://github.com/drcjar/ipfjes/blob/master/ipfjes-crf.pdf)
 - [Participant job history sheet](https://github.com/drcjar/ipfjes/blob/master/ipfjes-jobs.pdf)
 - Recruitment bundle (participant information sheet, consent form, job history sheet, case report form) [Regular](https://github.com/drcjar/ipfjes/blob/master/ipfjes-bundle-regular-edition.pdf), [Duplex](https://github.com/drcjar/ipfjes/blob/master/ipfjes-bundle-duplex-edition.pdf) 
+- Local site file pack: [contents](https://github.com/drcjar/ipfjes/blob/master/ipfjes-site-file.pdf), documents from this page + [participation log](https://github.com/drcjar/ipfjes/blob/master/ipfjes-plog.csv), [sample log](https://github.com/drcjar/ipfjes/blob/master/ipfjes-slog.csv), [adverse event log](https://github.com/drcjar/ipfjes/blob/master/ipfjes-alog.csv), [general notes](https://github.com/drcjar/ipfjes/blob/master/ipfjes-general-notes.txt)
 - [Sponsorship](https://github.com/drcjar/ipfjes/blob/master/16SM3627%20Sponsorship.pdf)
 - [Statment of activities](https://github.com/drcjar/ipfjes/blob/master/ipfjes-statement-activities.docx), [Schedule of events](https://github.com/drcjar/ipfjes/blob/master/ipfjes-hra-schedule-events.xls), and [IRAS]( https://github.com/drcjar/ipfjes/blob/master/ipfjes-iras-form.pdf)
 - [REC approval](https://github.com/drcjar/ipfjes/blob/master/2017.02.11%2017-0021%20FIFO-3.pdf) and [HRA approval](https://github.com/drcjar/ipfjes/blob/master/IRAS_203355_Letter_of_HRA_Approval_3March2017-1.pdf)
