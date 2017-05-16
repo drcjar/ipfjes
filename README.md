@@ -2,7 +2,7 @@
 
 ### A case-control study to investigate whether job exposures are an under-recognized cause of idiopathic pulmonary fibrosis (IPF) using an interview to collect information about previous jobs and a blood test to investigate genetic susceptibility.
 
-Here you will find the IPF JES study documents. ** It may be necessary to right-click and select 'save link as' to download some files. **
+Here you will find the IPF JES study documents. **It may be necessary to right-click and select 'save link as' to download some files.**
 
 - [Study protocol](https://github.com/drcjar/ipfjes/raw/master/ipfjes-protocol.pdf)
 - Participant information sheet [English](https://github.com/drcjar/ipfjes/blob/master/ipfjes-pis.pdf), [Welsh](https://github.com/drcjar/ipfjes/blob/master/ipfjes-pis-welsh.pdf)
