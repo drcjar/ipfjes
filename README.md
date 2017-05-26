@@ -11,6 +11,7 @@ Here you will find the IPF JES study documents. **It may be necessary to right-c
 - [Participant consent form](https://github.com/drcjar/ipfjes/blob/master/ipfjes-consent.pdf)
 - [Standard operating procedure](https://github.com/drcjar/ipfjes/blob/master/ipfjes-sop.pdf)
 - Consent form [English](https://github.com/drcjar/ipfjes/blob/master/ipfjes-consent.pdf), [Welsh](https://github.com/drcjar/ipfjes/blob/master/ipfjes-consent-welsh.pdf)
+- [5-year age bands](https://github.com/drcjar/ipfjes/blob/master/5-year-age-bands.csv)
 - [Centre IDs](https://github.com/drcjar/ipfjes/blob/master/ipfjes-centre-ids.csv)
 - [Interview schedule](https://github.com/drcjar/ipfjes/blob/master/ipfjes-interview.pdf)
 - [Case report form (CRF)](https://github.com/drcjar/ipfjes/blob/master/ipfjes-crf.pdf)
