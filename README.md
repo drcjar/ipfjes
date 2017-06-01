@@ -7,7 +7,7 @@ Here you will find the IPF JES study documents. **It may be necessary to right-c
 - [Study protocol](https://github.com/drcjar/ipfjes/raw/master/ipfjes-protocol.pdf)
 - Participant information sheet [English](https://github.com/drcjar/ipfjes/blob/master/ipfjes-pis.pdf), [Welsh](https://github.com/drcjar/ipfjes/blob/master/ipfjes-pis-welsh.pdf)
 - [Healthcare professional information sheet](https://github.com/drcjar/ipfjes/blob/master/ipfjes-onepager.pdf)
-- Cover letters ([GP](https://github.com/drcjar/ipfjes/blob/master/ipfjes-coverletter-gp.pdf), [Control Clinic Consultant](https://github.com/drcjar/ipfjes/blob/master/ipfjes-coverletter-cons-control.pdf)), [Control Clinic Consultant word version](https://github.com/drcjar/ipfjes/blob/master/ipfjes-coverletter-cons-control.doc)
+- Cover letters ([GP](https://github.com/drcjar/ipfjes/blob/master/ipfjes-coverletter-gp.pdf), [Control Clinic Consultant](https://github.com/drcjar/ipfjes/blob/master/ipfjes-coverletter-cons-control.pdf)), ([Control Clinic Consultant word version](https://github.com/drcjar/ipfjes/blob/master/ipfjes-coverletter-cons-control.doc))
 - [Participant consent form](https://github.com/drcjar/ipfjes/blob/master/ipfjes-consent.pdf)
 - [Standard operating procedure](https://github.com/drcjar/ipfjes/blob/master/ipfjes-sop.pdf)
 - Consent form [English](https://github.com/drcjar/ipfjes/blob/master/ipfjes-consent.pdf), [Welsh](https://github.com/drcjar/ipfjes/blob/master/ipfjes-consent-welsh.pdf)
