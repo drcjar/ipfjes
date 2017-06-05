@@ -14,6 +14,7 @@ Here you will find the IPF JES study documents. **It may be necessary to right-c
 - [Randomization](https://github.com/drcjar/ipfjes/blob/master/RANDOMIZATION.MD)
 - [5-year age bands](https://github.com/drcjar/ipfjes/blob/master/5-year-age-bands.csv)
 - [Centre IDs](https://github.com/drcjar/ipfjes/blob/master/ipfjes-centre-ids.csv)
+- [Participant IDs](https://github.com/drcjar/ipfjes/blob/master/RESEARCHID.md)
 - [Interview schedule](https://github.com/drcjar/ipfjes/blob/master/ipfjes-interview.pdf)
 - [Case report form (CRF)](https://github.com/drcjar/ipfjes/blob/master/ipfjes-crf.pdf)
 - [Participant job history sheet](https://github.com/drcjar/ipfjes/blob/master/ipfjes-jobs.pdf)
