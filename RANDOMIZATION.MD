@@ -6,7 +6,7 @@
 
 For example, if I have 100 clinics locally that the research team can get to recruit from then using [random.org](https://www.random.org/integers/) I would:
 
-> Generate 5 random integers (maximum 10,000).ndom integers (maximum 10,000).
+> Generate 5 random integers (maximum 10,000).
 > Each integer should have a value between 1 and 100 (both inclusive; limits ±1,000,000,000).
 > Format in 1 column(s).
 > Click 'get numbers'
