@@ -13,6 +13,9 @@
  \usepackage{pslatex}
  \usepackage{pstricks}
  
+ %colour
+ \usepackage{color}
+
  %math equations
  \usepackage{amsmath}
  
@@ -20,14 +23,19 @@
  %\usepackage{minted}
  
  %headers
- \usepackage{fancyhdr}
- \pagestyle{fancy}
- \lhead{Rhif adnabod y prosiect: 203355}
+\usepackage{lastpage}
+\usepackage{fancyhdr}
+\setlength{\headheight}{43pt} 
+\pagestyle{fancy} 
+ \lhead{IRAS Project ID: 203355 PIS v0.4 22/6/17}
  \chead{}
- \rhead{clinicaltrials.gov reference}
- \lfoot{Astudiaeth ymchwil}
- \cfoot{Ffurflen Gydsynio y sawl sy'n cymryd rhan  f0.4}
- \rfoot{\today}
+ \rhead{\includegraphics[width=5cm]{fig/wales-logo.jpg}}
+ \lfoot{}
+ \cfoot{Bwrdd Iechyd Prifysgol ABM yw enw gweithredu Bwrdd Iechyd Lleol Prifysgol Abertawe Bro Morgannwg
+ABM University Health Board is the operational name of Abertawe Bro Morgannwg University Local Health Board
+Pencadlys ABM / ABM Headquarters, 1 Talbot Gateway, Port Talbot, SA12 7BR. Ffôn / Tel: (01656) 752752
+www.abm.wales.nhs.uk}
+\rfoot{\thepage}
  
  
  %display URLS
@@ -69,7 +77,7 @@
 
  \begin{document}
 
- \newpage\title{\bf FFURFLEN GYDSYNIO AR SAIL GWYBODAETH I  BOBL SY'N GALLU CYDSYNIO}
+ \newpage\title{\bf INFORMED CONSENT FORM FOR SUBJECTS ABLE TO GIVE CONSENT}
  \date{}
  %\author{Carl Reynolds \\
  %\small National Heart \& Lung Institute, Imperial College London }
@@ -82,29 +90,35 @@
  
 % \maketitle
  \begin{centering} 
- \section*{FFURFLEN GYDSYNIO AR SAIL GWYBODAETH\\ I BOBL SY'N GALLU CYDSYNIO}
+ \section*{INFORMED CONSENT FORM \\ FOR SUBJECTS ABLE TO GIVE CONSENT}
  \end{centering}
- \subsection*{Astudiaeth ar y Cysylltiad rhwng Ffibrosis Idiopathig yr Ysgyfaint \^{a} Swyddi (Astudiaeth IPF)}
+
+ \subsection*{Idiopathic Pulmonary Fibrosis Job Exposure Study (IPF JES)}
 
  \vspace{0.2cm}
 
- \subsubsection*{Enw'r Prif Ymchwilydd: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_}
+ \subsubsection*{Name of Principle Investigator: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_}
 
  \vspace{0.5cm}
 
- \hfill \textbf{Llofnodwch y bocs}
+ \hfill \textbf{Please initial box}
 
  \begin{enumerate}
-  \item Rwy'n cadarnhau fy mod wedi darllen a deall y daflen wybodaeth wedi'i dyddio
-	\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ fersiwn \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ ar gyfer yr astudiaeth uchod, a fy mod wedi cael cyfle i holi cwestiynau sydd wedi'u hateb yn llawn.\hfill \framebox(20,12){}
-  \item Rwy'n deall fy mod yn cymryd rhan o'm gwirfodd, a bod gen i'r hawl i dynnu'n \^{o}l ar ryw adeg. heb roi unrhyw reswm, heb fod hyn yn effeithio ar fy ngofal meddygol na fy hawliau cyfreithiol.\hfill \framebox(20,12){}
-  \item Rwy'n deall efallai y bydd unigolion o'r Coleg, neu o awdurdodau rheoleiddio, yn edrych ar ddarnau o unrhyw o fy nodiadau meddygol ble bo hynny'n berthnasol i mi'n cymryd rhan yn y prosiect. Rwy'n rhoi caniat\^{a}d i'r unigolion hyn edrych ar fy nghofnodion sy'n berthnasol i'r gwaith ymchwil  hwn.\hfill \framebox(20,12){}
-  \item Rwy'n cydsynio i'r t\^{i}m ymchwil gysylltu \^{a} mi.\hfill \framebox(20,12){}
-  \item Rwy'n cydsynio i fy nghyfweliad gael ei recordio.    \hfill Ydw \framebox(20,12){} Nac ydw \framebox(20,12){}
-  \item Rwy'n cydsynio i brofion genetig fel rhan o'r ymchwil.\hfill \framebox(20,12){}
-  \item  Rwy'n cydsynio i wybodaeth a samplau gwaed gennyf gael eu storio ar gyfer ymchwil yn y dyfodol. 
-      \hfill Nac ydw \framebox(20,12){} Ydw \framebox(20,12){}
-  \item Rwy'n cydsynio bod fy meddyg teulu a'r timau gofal yn yr ysbyty yn cael gwybod fy mod i'n cymryd rhan yn yr ymchwil a, gyda fy nghaniat\^{a}d i, yn cael gwybod am unrhyw ganfyddiadau clinigol arwyddocaol sy'n codi o'r ymchwil.
+  \item I confirm that I have read and understand the subject information sheet dated
+	\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ version \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ for the  above study and have had the opportunity to ask questions which have been answered fully.\hfill \framebox(20,12){}
+  \item I understand that my participation is voluntary and I am free to withdraw at any time,	
+	without giving any reason, without my medical care or legal rights being affected.\hfill \framebox(20,12){}
+  \item I understand that sections of any of my medical notes may be looked at by responsible
+	individuals from Imperial College London or from regulatory authorities where 
+	it is relevant to my taking part in this research. I give permission for these individuals to 
+	access my records that are relevant to this research.\hfill \framebox(20,12){}
+  \item I consent to being contacted by the research team.\hfill \framebox(20,12){}
+  \item I consent to my interview being recorded.  
+      \hfill No \framebox(20,12){} Yes \framebox(20,12){}
+  \item I consent to genetic testing as part of the research.\hfill \framebox(20,12){}
+  \item I consent to storage of information and blood samples collected from me for future research.
+      \hfill No \framebox(20,12){} Yes \framebox(20,12){}
+  \item I consent to my GP and hospital care teams being informed of my participation in the research and, with my permission, of any clinically significant findings arising from the research.
       \begin{flushright} \framebox(20,12){} \end{flushright}
 	
  \end{enumerate}
@@ -113,28 +127,28 @@
 
  \begin{tabular}{p{4cm}p{4cm}p{4cm}}
     \rule{10em}{.3pt} & \rule{10em}{.3pt} & \rule{10em}{.3pt} \\
-     Enw'r gwrthrych  & Llofnod  & Dyddiad \\
+     Name of subject  & Signature  & Date \\
  \end{tabular}
 
 \vspace{0.5cm}
 
  \begin{tabular}{p{4cm}p{4cm}p{4cm}}
     \rule{10em}{.3pt} & &  \\
-     Dyddiad geni'r gwrthrych  & &  \\
+     Subject's date of birth  & &  \\
  \end{tabular}
 
 \vspace{0.5cm}
 
  \begin{tabular}{p{4cm}p{4cm}p{4cm}}
     \rule{10em}{.3pt} & \rule{10em}{.3pt} & \rule{10em}{.3pt} \\
-     Enw'r sawl sy'n cymryd y cydsyniad (os yn wahanol i'r Prif Ymchwilydd) & Llofnod &  Dyddiad \\
+     Name of person taking consent (if different from Principle Investigator) & Signature &  Date \\
 \end{tabular}
 
 \vspace{0.5cm}
 
  \begin{tabular}{p{4cm}p{4cm}p{4cm}}
     \rule{10em}{.3pt} & \rule{10em}{.3pt} & \rule{10em}{.3pt} \\
-     Prif Ymchwilydd & Llofnod & Dyddiad \\
+     Principle Investigator & Signature &  Date \\
  \end{tabular}
 
 
