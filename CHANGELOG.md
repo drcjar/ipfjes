@@ -8,6 +8,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ### Changed
 - CRF form. Details about PMH and DHx removed. GP details added.
+- Interview schedule. Residential history removed. Family history and drug history simplified.
+
 ### Added
 - Localised document versions (same documents with different logos in headers)
 
