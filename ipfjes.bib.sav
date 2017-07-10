@@ -3925,4 +3925,22 @@
   revised         = {2016-01-27},
 }
 
+@Article{Travis2013,
+  author    = {Travis, William D and Costabel, Ulrich and Hansell, David M and King Jr, Talmadge E and Lynch, David A and Nicholson, Andrew G and Ryerson, Christopher J and Ryu, Jay H and Selman, Mois{\'e}s and Wells, Athol U and others},
+  title     = {An official American Thoracic Society/European Respiratory Society statement: update of the international multidisciplinary classification of the idiopathic interstitial pneumonias},
+  journal   = {American journal of respiratory and critical care medicine},
+  year      = {2013},
+  volume    = {188},
+  number    = {6},
+  pages     = {733--748},
+  publisher = {Am Thoracic Soc},
+}
+
+@Misc{Paolocci2013,
+  author    = {Paolocci, Giulia and Nicolic, Veronica and Folletti, Ilenia and Tor{\'e}n, Kjell and Gambelunghe, Angela and dell'Omo, Marco and Muzi, Giacomo and Abbritti, Giuseppe and Murgia, Nicola},
+  title     = {Risk factors for idiopathic pulmonary fibrosis in Southern Europe: A case-control study},
+  year      = {2013},
+  publisher = {Eur Respiratory Soc},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
