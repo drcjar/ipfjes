@@ -4,6 +4,7 @@
 
 Here you will find the IPF JES study documents. **It may be necessary to right-click and select 'save link as' to download some files.**
 
+Related open source code also lives at https://github.com/drcjar/pypf and https://github.com/drcjar/ipfjes-interview/.
 
 - [Site visit photos](https://github.com/drcjar/ipfjes/blob/master/photos/photos.md)
 - [Study protocol](https://github.com/drcjar/ipfjes/raw/master/docs/ipfjes-protocol.pdf)
