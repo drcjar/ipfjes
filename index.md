@@ -17,7 +17,7 @@ Find the most updtodate version of the study documents [here](https://github.com
 
 ### Site visit photos
 
-We've visited several centres now in England, Scotland, and Wales. Obligatory site visit photos are [here]
+We've visited several centres now in England, Scotland, and Wales. Obligatory site visit photos are [here](https://github.com/drcjar/ipfjes/blob/master/photos/photos.md)
 
 ### Getting involved
 
