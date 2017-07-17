@@ -1,0 +1,207 @@
+ \documentclass[a4paper,10pt]{article}
+ 
+ %set font to Arial
+ %\usepackage{fontspec}
+ %\setmainfont{Arial}
+ \usepackage{helvet}
+ \renewcommand{\familydefault}{\sfdefault}
+ 
+ %graphics
+ \usepackage{graphicx}
+ %\usepackage{subfigure}
+ \usepackage{pslatex}
+ \usepackage{pstricks}
+ 
+ %math equations
+ \usepackage{amsmath}
+ 
+ %python code
+ %\usepackage{minted}
+ 
+ %headers
+ \usepackage{fancyhdr}
+ \pagestyle{fancy}
+ \lhead{IRAS Project ID: 203355}
+ \chead{}
+ \rhead{clinicaltrials.gov reference}
+ \lfoot{IPF JES}
+ \cfoot{Interview Schedule v0.4}
+ \rfoot{\today}
+ 
+ 
+ %display URLS
+ \usepackage{url}
+ 
+ %hyperlinks
+ \usepackage{hyperref}
+ 
+ %comments
+ \usepackage{verbatim}
+ 
+ %nice tables
+ \usepackage{booktabs}
+ \newcommand{\ra}[1]{\renewcommand{\arraystretch}{#1}}
+ 
+ %multi rows for the nice tables
+ %\usepackage{multirow} 
+ 
+ %nice diplay of code
+ %\usepackage{minted}
+
+%nice references
+ \usepackage[super]{natbib}
+ 
+ %some maths
+ \usepackage{amsmath}
+ 
+ %margins
+ %\usepackage{geometry}
+ %\geometry{verbose,a4paper,tmargin=60mm,bmargin=25mm,lmargin=25mm,rmargin=25mm}
+ 
+ %in line citations
+ %\usepackage{bibentry}
+ 
+ %\hyphenpenalty=10000
+ 
+ %\nobibliography*
+
+
+%ability to continue an enumerated list
+\usepackage{enumitem}
+
+ 
+ \begin{document}
+
+ %\author{Carl Reynolds \\
+ %\small National Heart \& Lung Institute, Imperial College London }
+ 
+ %\pagenumbering{gobble}
+ 
+ \pagestyle{fancy}
+ 
+ %\pagestyle{empty}
+ 
+% \maketitle
+
+
+\section*{Interview Schedule for the Idiopathic Pulmonary Fibrosis Job Exposure Study (IPF JES)}
+
+
+\section{Introduction}
+
+Hello, my name is \textbf{name of researcher}. I am a doctor/nurse/research assistant calling as part of the IPF Job Exposure Study. Is this \textbf{name of participant}? 
+
+I would like to ask you some questions about the jobs you have had, where you have lived, and your lifetime smoking history. I would also like to record this call for our research if that's ok with you.  
+
+Your answers will help us to understand the causes of IPF, make sure people get the right treatment, and ensure that controls of exposures at work are right so that we protect workers and prevent disease in the future.  
+
+The interview should take about 30 minutes. Is now a good time to talk?
+
+\section{Occupational and residential history} 
+
+I want you to think about all of the jobs you've had. I know this can be hard, we'll try one at a time. 
+
+Do you remember the first job that you had after school?
+
+\begin{enumerate}
+\item  What was the name of your job?
+\item  What did you do in this job?
+\item  What did the company make (if applicable)?
+\item  Do you remember how old you were or what year you started the job?
+\item  Do you remember how old you were or what year you finished the job?
+\item  Do you remember where you lived when you had that job?
+\item  Do you remember what job you had next?
+\end{enumerate}
+
+(1 through 7 repeats until lifetime occupational history is complete. Standard occupational classification is used to code occupations)
+
+ `Trigger' jobs (see Table ~\ref{table:top15pmr}) prompt more detailed questioning regarding job process(es), materials used, and control measures (according to a validated structured subjective  assessment of past concentrations developed by John Cherrie). Interviewers will receive training from John Cherrie on how to perform this assessment.
+
+ \begin{table}
+         \begin{tabular}{llr}
+                 \textbf{SOC90} &                                     \textbf{Occupation} &    \textbf{PMR} \\
+                     \midrule
+                             541 &                      Coach \& vehicle body builders &  528.18 \\
+                                     534 &          Metal plate workers, shipwrights, riveters &  416.64 \\
+                                             532 &         Plumbers, heating \& ventilating engineers  &  388.67 \\
+                                                     570 &                               Carpenters \& joiners &  382.34 \\ 
+                                                             896 &                  Construction \& related operatives &  359.23 \\
+                                                                     311 &                                 Building inspectors &  317.83 \\  
+                                                                             520 &           Production fitters (electical/electronic) &  300.15 \\
+                                                                                     521 &        Electricians, electrical maintenance fitters &  264.12 \\
+                                                                                             893 &  Electrical, energy, boiler \& related              &  252.09 \\
+                                                                                                     533 &                                 Sheet metal workers &  245.71 \\
+                                                                                                             301 &    Engineering technicians                          &  232.22 \\
+                                                                                                                     506 &            Floorers, floor coverers, carpet fitters &  232.05 \\
+                                                                                                                             913 &        Mates to metal/electrical \& related fitters &  230.89 \\
+                                                                                                                                     211 &                                Mechanical engineers &  217.44 \\
+                                                                                                                                             571 &                                      Cabinet makers &  215.36 \\ 
+                                                                                                                                                     \bottomrule
+                                                                                                                                                         \end{tabular}
+                                                                                                                                                             \caption{Standard Occupational Classification 1990 code, Occupation, and Mesothelioma Proportional Mortality Ratio (PMR) for the top 15 significant (95\% CI does not include 100) PMRs. HSE data.}
+                                                                                                                                                                 \label{table:top15pmr}
+ \end{table}
+
+I'm going to ask you about places that you've lived now. I know it might be difficult to remember, don't worry.
+
+\begin{enumerate}[resume]
+\item What country were you born in? 
+\item What place were you born in?
+\item Do you remember the places you lived when you were growing up? (until you finished school) 
+\item When you were growing up who lived at home with you?
+\item How long for?
+\item Do you remember what their job was?
+\end{enumerate}
+
+\section{Smoking history}
+
+\begin{enumerate}
+\item Have you ever smoked?
+\item What old were you when you started smoking?
+\item Do you still smoke?
+\item How old were you, or when, did you stop smoking?
+\item How many, on average, a day do you/did you smoke?
+\item What do you/did you smoke?
+\end{enumerate}
+
+\section{mMRC dyspnoea questions} 
+
+I would like to ask you some questions about being short of breath.
+
+Are you:
+
+\begin{enumerate}
+\item Not troubled by breathless except on strenuous exercise?
+\item Short of breath when hurrying on a level or when walking up a slight hill?
+\end{enumerate}
+
+Are you someone who:
+
+\begin{enumerate}[resume]
+\item Walks slower than most people on the level, stops after a mile or so, or stops after 15 minutes walking at own pace?
+\item Stops for breath after walking about 100 yds or after a few minutes on level ground?
+\end{enumerate}
+
+Are you:
+
+\begin{enumerate}[resume]
+\item Too breathless to leave the house, or breathless when dressing/undressing?
+\end{enumerate}
+
+\section{Drug and medical history}
+
+\begin{enumerate}
+\item Do you take any regular medications?
+\item What do you take these for?
+\item Do you have any other serious illnesses?
+\end{enumerate}
+
+\section{(for cases only) how were you diagnosed}
+
+\begin{enumerate}
+\item What took you to the doctor at the beginning of the illness? 
+\end{enumerate}
+
+
+\end{document}
+

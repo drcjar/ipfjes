@@ -1,4 +1,7 @@
 %based on imperial example provided + hra example at http://www.hra-decisiontools.org.uk/consent/examples.html 
+%DIF LATEXDIFF DIFFERENCE FILE
+%DIF DEL ipfjes-pis.tex      Tue Jul 11 10:33:21 2017
+%DIF ADD ../ipfjes-pis.tex   Tue Jul 11 09:53:15 2017
 \documentclass[a4paper,10pt]{article}
 
 %set font to Arial
@@ -25,9 +28,17 @@
 \pagestyle{fancy} 
 \lhead{IRAS Project ID: 203355}
 \chead{}
-\rhead{clinicaltrials.gov: NCT03211507}
+%DIF 28c28
+%DIF < \rhead{clinicaltrials.gov reference}
+%DIF -------
+\rhead{clinicaltrials.gov: NCT03211507} %DIF > 
+%DIF -------
 \lfoot{IPF JES}
-\cfoot{Participant Information Sheet v0.5 \hspace{1cm} \today}
+%DIF 30c30
+%DIF < \cfoot{Participant Information Sheet v0.4 \hspace{1cm} \today}
+%DIF -------
+\cfoot{Participant Information Sheet v0.5 \hspace{1cm} \today} %DIF > 
+%DIF -------
 \rfoot{\thepage\ of \pageref{LastPage}}
 
 
@@ -71,6 +82,30 @@
 \date{}
 %\author{Carl Reynolds \\
 %\small National Heart \& Lung Institute, Imperial College London }
+%DIF PREAMBLE EXTENSION ADDED BY LATEXDIFF
+%DIF UNDERLINE PREAMBLE %DIF PREAMBLE
+\RequirePackage[normalem]{ulem} %DIF PREAMBLE
+\RequirePackage{color}\definecolor{RED}{rgb}{1,0,0}\definecolor{BLUE}{rgb}{0,0,1} %DIF PREAMBLE
+\providecommand{\DIFaddtex}[1]{{\protect\color{blue}\uwave{#1}}} %DIF PREAMBLE
+\providecommand{\DIFdeltex}[1]{{\protect\color{red}\sout{#1}}}                      %DIF PREAMBLE
+%DIF SAFE PREAMBLE %DIF PREAMBLE
+\providecommand{\DIFaddbegin}{} %DIF PREAMBLE
+\providecommand{\DIFaddend}{} %DIF PREAMBLE
+\providecommand{\DIFdelbegin}{} %DIF PREAMBLE
+\providecommand{\DIFdelend}{} %DIF PREAMBLE
+%DIF FLOATSAFE PREAMBLE %DIF PREAMBLE
+\providecommand{\DIFaddFL}[1]{\DIFadd{#1}} %DIF PREAMBLE
+\providecommand{\DIFdelFL}[1]{\DIFdel{#1}} %DIF PREAMBLE
+\providecommand{\DIFaddbeginFL}{} %DIF PREAMBLE
+\providecommand{\DIFaddendFL}{} %DIF PREAMBLE
+\providecommand{\DIFdelbeginFL}{} %DIF PREAMBLE
+\providecommand{\DIFdelendFL}{} %DIF PREAMBLE
+%DIF END PREAMBLE EXTENSION ADDED BY LATEXDIFF
+%DIF PREAMBLE EXTENSION ADDED BY LATEXDIFF
+%DIF HYPERREF PREAMBLE %DIF PREAMBLE
+\providecommand{\DIFadd}[1]{\texorpdfstring{\DIFaddtex{#1}}{#1}} %DIF PREAMBLE
+\providecommand{\DIFdel}[1]{\texorpdfstring{\DIFdeltex{#1}}{}} %DIF PREAMBLE
+%DIF END PREAMBLE EXTENSION ADDED BY LATEXDIFF
 
 \begin{document}
 \pagestyle{fancy} 
@@ -92,18 +127,18 @@ The lead researcher is Dr Carl Reynolds, clinical research fellow at Imperial Co
 \section*{PART 1}
 \subsection*{Can you help with a research study?}
 
-\begin{itemize}
+ \begin{itemize} 
  \item We would like to invite you to take part in a research study. Before you decide we would like you to understand why the research is being carried out and what it would involve for you.  
  \item One of our team will go through this information sheet with you and answer any questions you have. This should take about 10--15 minutes.
  \item Please talk to others about the study if you wish and ask us if anything is not clear.
-\end{itemize}
+ \end{itemize} 
 
 \subsection*{What is the purpose of the study?}
-\begin{itemize}
+ \begin{itemize} 
  \item Idiopathic pulmonary fibrosis (also called IPF) is a disease that causes scarring of the lungs. The scarring damages the air sacs that allow oxygen to be transferred to the blood and transported to vital organs. IPF is a serious illness that causes cough, shortness of breath, and fatigue.
  \item We don't know what causes IPF but it is becoming more common in England, Scotland and Wales where it affects over 4000 people each year. People who get IPF are usually older than 40; the disease is more common in men and in parts of the country with a history of heavy industry.  
  \item This study will help to find out how much IPF can be attributed to workplace environments in England, Scotland and Wales. This will help us to better understand the causes of IPF, make sure people get the right treatment and compensation they are entitled to, and ensure that the controls at work are right so that we protect workers and prevent disease in the future.
-\end{itemize}
+ \end{itemize} 
 
 
 \includegraphics[width=2.5cm]{fig/wellcome-logo-black.jpg}
@@ -113,44 +148,47 @@ The lead researcher is Dr Carl Reynolds, clinical research fellow at Imperial Co
 \includegraphics[width=4cm]{fig/imperial-logo.jpg}
 
 \subsection*{Why have I been chosen?}
-\begin{itemize}
+ \begin{itemize} 
  \item The study works by comparing people with IPF (cases) to people who are similar but do not have IPF (controls). Both groups are essential for the study.
  \item You have been chosen to take part in the study as a \textbf{case} if you have a new diagnosis of IPF\@.
  \item You have been chosen to take part in the study as a \textbf{control} if you do not have IPF but recently had a hospital outpatient appointment and are of a similar age to patients who are newly diagnosed with IPF\@.  
-\end{itemize}
+ \end{itemize} 
 
 \subsection*{Do I have to take part?}
-\begin{itemize}
+ \begin{itemize} 
  \item It is up to you to decide if you want to take part in the research. We will describe the study and go through this information booklet with you.
  \item If you agree to take part we will ask you to read and sign a consent form.
  \item You are free to withdraw at any time, without giving a reason. This will not affect any of the care you receive.
-\end{itemize}
+ \end{itemize} 
 
  
 \subsection*{Who are the researchers?}
 The research will be conducted by a team based at Imperial College London, Imperial College Healthcare NHS Hospitals, and Sheffield Foundation Trust NHS Hospitals. The research is funded by the Wellcome Trust. The main investigators are:
-\begin{itemize}
+ \begin{itemize} 
     \item Dr Carl Reynolds, Wellcome Trust Clinical Research Training Fellow, NHLI (Imperial College London). (Chief investigator)
  \item Professor Paul Cullinan, Professor, Honorary consultant physician (respiratory medicine). Occupational and Environmental Medicine, NHLI (Imperial College London), Royal Brompton Hospital, London. Joint appointment; tenured. (Co-Investigator)
  \item Dr Chris Barber, Consultant physician (respiratory medicine), Northern General Hospital, Sheffield. (Co-Investigator)
  \item Dr Sara De Matteis, Clinical Lecturer, NHLI (Imperial College London). (Co-Investigator)
-\end{itemize}
+ \end{itemize} 
 
 \section*{PART 2}
 
 \subsection*{What will happen to you if you take part?}
-\begin{itemize}
+ \begin{itemize} 
  \item If you agree to take part the researcher will contact you to arrange a telephone interview at a time that is convenient for you.
  \item The telephone interview will last no longer than one hour.
- \item During the interview you will be asked questions about \begin{itemize}
+ \item During the interview you will be asked questions about  \begin{itemize} 
                                                                 \item All of the jobs you have had since leaving school; we may also ask about the jobs of people you have lived with
-                                                                \item Your lifetime smoking history
-                                                               \end{itemize}
+                                                                \item \DIFdelbegin \DIFdel{Where you have lived 
+                                                                }%DIFDELCMD < \item %%%
+\item%DIFAUXCMD
+\DIFdelend Your lifetime smoking history
+                                                                \end{itemize} 
 \item You will be contacted to arrange a blood test to investigate genetic susceptibility to IPF\@. If possible the blood test will be taken when you next have blood tests to avoid an extra test. If this is
 not possible it will be arranged at a time and place that is convenient for you. We will cover any reasonable travel expenses incurred due to participation in the study and agreed in advance.
 \item With your permission, we will write to your GP to inform them that you are participating.
 \item We will tell you what we find. What we find might not contain any helpful information for you. If we find anything we think is important we will, with your permission, inform your clinical team.
-\end{itemize}
+ \end{itemize} 
 
 \subsection*{Why are you requesting a blood test?}
 
@@ -201,7 +239,7 @@ Email: pals@imperial.nhs.uk\\
 \end{flushleft}
 
 Imperial College London holds insurance policies which apply to this study. If you experience serious and enduring harm or injury as a result of taking part in this study, you may be eligible to claim compensation without having to prove that Imperial College is at fault. This does not affect your legal rights to seek compensation.
- 
+
 If you are harmed due to someone’s negligence, then you may have grounds for a legal action. Regardless of this, if you wish to complain, or have any concerns about any aspect of the way you have been treated during the course of this study then you should immediately inform the Investigator (Carl Reynolds, contact details below). The normal National Health Service complaints mechanisms are also available to you. If you are still not satisfied with the response, you may contact the
 Imperial AHSC Joint Research Compliance Office. 
 

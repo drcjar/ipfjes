@@ -1,4 +1,7 @@
 \documentclass[a4paper,10pt]{article}
+%DIF LATEXDIFF DIFFERENCE FILE
+%DIF DEL ipfjes-protocol.tex      Tue Jul 11 10:33:51 2017
+%DIF ADD ../ipfjes-protocol.tex   Tue Jul 11 09:46:01 2017
 
 %set font to Arial
 %\usepackage{fontspec}
@@ -31,9 +34,15 @@
 \pagestyle{fancy} 
 \lhead{IRAS Project ID: 203355}
 \chead{}
-\rhead{clinicaltrials.gov: NCT03211507}
-\lfoot{IPFJES}
-\cfoot{Study Protocol v0.5 \hspace{2cm} \today}
+%DIF 34-36c34-36
+%DIF < \rhead{clinicaltrials.gov reference}
+%DIF < \lfoot{IPF JES}
+%DIF < \cfoot{Study Protocol v0.4 \hspace{2cm} \today}
+%DIF -------
+\rhead{clinicaltrials.gov: NCT03211507} %DIF > 
+\lfoot{IPFJES} %DIF > 
+\cfoot{Study Protocol v0.5 \hspace{2cm} \today} %DIF > 
+%DIF -------
 \rfoot{\thepage\ of \pageref{LastPage}} 
 
 
@@ -89,6 +98,30 @@
 %don't have to change study dates everywhere
 \newcommand{\studystart}{February 2017 }
 \newcommand{\studyend}{October 2019 }
+%DIF PREAMBLE EXTENSION ADDED BY LATEXDIFF
+%DIF UNDERLINE PREAMBLE %DIF PREAMBLE
+\RequirePackage[normalem]{ulem} %DIF PREAMBLE
+\RequirePackage{color}\definecolor{RED}{rgb}{1,0,0}\definecolor{BLUE}{rgb}{0,0,1} %DIF PREAMBLE
+\providecommand{\DIFaddtex}[1]{{\protect\color{blue}\uwave{#1}}} %DIF PREAMBLE
+\providecommand{\DIFdeltex}[1]{{\protect\color{red}\sout{#1}}}                      %DIF PREAMBLE
+%DIF SAFE PREAMBLE %DIF PREAMBLE
+\providecommand{\DIFaddbegin}{} %DIF PREAMBLE
+\providecommand{\DIFaddend}{} %DIF PREAMBLE
+\providecommand{\DIFdelbegin}{} %DIF PREAMBLE
+\providecommand{\DIFdelend}{} %DIF PREAMBLE
+%DIF FLOATSAFE PREAMBLE %DIF PREAMBLE
+\providecommand{\DIFaddFL}[1]{\DIFadd{#1}} %DIF PREAMBLE
+\providecommand{\DIFdelFL}[1]{\DIFdel{#1}} %DIF PREAMBLE
+\providecommand{\DIFaddbeginFL}{} %DIF PREAMBLE
+\providecommand{\DIFaddendFL}{} %DIF PREAMBLE
+\providecommand{\DIFdelbeginFL}{} %DIF PREAMBLE
+\providecommand{\DIFdelendFL}{} %DIF PREAMBLE
+%DIF END PREAMBLE EXTENSION ADDED BY LATEXDIFF
+%DIF PREAMBLE EXTENSION ADDED BY LATEXDIFF
+%DIF HYPERREF PREAMBLE %DIF PREAMBLE
+\providecommand{\DIFadd}[1]{\texorpdfstring{\DIFaddtex{#1}}{#1}} %DIF PREAMBLE
+\providecommand{\DIFdel}[1]{\texorpdfstring{\DIFdeltex{#1}}{}} %DIF PREAMBLE
+%DIF END PREAMBLE EXTENSION ADDED BY LATEXDIFF
 
 \begin{document}
 \pagestyle{fancy} 
@@ -105,7 +138,7 @@ asbestos exposure and a blood test to investigate genetic susceptibility.}
 
 
 \begin{centering}
-\subsection*{Version 0.5 \\ \today}
+\subsection*{Version \DIFdelbegin \DIFdel{0.4 }\DIFdelend \DIFaddbegin \DIFadd{0.5 }\DIFaddend \\ \today}
 \end{centering}
 
 \begin{flushleft}
@@ -167,7 +200,7 @@ Clinical queries should be directed to Dr Carl Reynolds who will direct the quer
 \subsection*{Sponsor}
 
 Imperial College London is the main research Sponsor for this study. For further information regarding the sponsorship conditions, please contact the Head of Regulatory Compliance at:\vspace{0.5cm}
-		
+
 Joint Research Compliance Office
 
 Imperial College London \& Imperial College Healthcare NHS Trust
@@ -192,7 +225,7 @@ Wellcome Trust (Ref 201291/Z/16/Z) \vspace{0.5cm}
 This protocol describes the Idiopathic Pulmonary Fibrosis Job Exposures Study (IPF JES) and provides information about procedures for entering participants. Every care was taken in its drafting, but corrections or amendments may be necessary. These will be circulated to investigators in the study. Problems relating to this study should be referred, in the first instance, to the Chief Investigator. This study will adhere to the principles outlined in the NHS Research Governance Framework for Health and Social Care (2nd edition). It will be conducted in compliance with the protocol, the Data Protection Act and other regulatory requirements as appropriate. 
 
 \newpage
- 
+
 \tableofcontents
 
 \newpage
@@ -264,10 +297,10 @@ I propose a new case-control study that systematically collects lifetime occupat
 My overall aim is to characterize and measure asbestos exposure as an occupational determinant of IPF; additionally, I will determine host-exposure interactions mediated by candidate susceptibility polymorphisms (in particular MUC5B promoter polymorphism rs35705950). 
 
 My specific research questions are:
-\begin{enumerate}
+ \begin{enumerate} 
  \item Does a dose-response relationship exist for occupational asbestos exposure and IPF? 
  \item Does the presence of asbestos exposure modify the association between IPF and rs35705950? 
-\end{enumerate}
+ \end{enumerate} 
 
 \section{Study design}
 \subsection{Study outcome measures}
@@ -285,33 +318,33 @@ Pre-registration evaluation will include screening for eligibility using inclusi
 Cases and controls will be frequency matched on age categories.
 
 \subsection{Inclusion criteria}
-\begin{itemize}
- \item Cases \begin{itemize}
+ \begin{itemize} 
+ \item Cases  \begin{itemize} 
         \item Male
         \item New diagnosis of IPF between \studystart and \studyend 
-       \end{itemize}
-       
-  \item Controls \begin{itemize}
+        \end{itemize} 
+
+  \item Controls  \begin{itemize} 
         \item Male
         \item New outpatient department attendee between \studystart and \studyend
-       \end{itemize}
+        \end{itemize} 
 
-\end{itemize}
+ \end{itemize} 
 
 
 \subsection{Exclusion criteria}
-\begin{itemize}
- \item Cases \begin{itemize}
+ \begin{itemize} 
+ \item Cases  \begin{itemize} 
         \item Unable to give informed consent
-        \item Ever worked outside of the UK (does not include work outside the UK by memember of the armed forces or merchant navy)
-       \end{itemize}
-       
-  \item Controls \begin{itemize}
-        \item Unable to give informed consent
-        \item Ever worked outside of the UK (does not include work outside the UK by memember of the armed forces or merchant navy)
-       \end{itemize}
+        \item Ever worked outside of the UK \DIFaddbegin \DIFadd{(does not include work outside the UK by memember of the armed forces or merchant navy)
+       }\DIFaddend  \end{itemize} 
 
-\end{itemize}
+  \item Controls  \begin{itemize} 
+        \item Unable to give informed consent
+        \item Ever worked outside of the UK \DIFaddbegin \DIFadd{(does not include work outside the UK by memember of the armed forces or merchant navy)
+       }\DIFaddend  \end{itemize} 
+
+ \end{itemize} 
 
 
 \subsection{Withdrawal criteria} 
@@ -323,12 +356,12 @@ Research participants will be withdrawn from the study upon their request or if 
 
 \paragraph{Adverse Event (AE):}any untoward medical occurrence in a patient or clinical study subject.  
 
-\paragraph{Serious Adverse Event (SAE):}any untoward and unexpected medical occurrence or effect that: \begin{itemize}
+\paragraph{Serious Adverse Event (SAE):}any untoward and unexpected medical occurrence or effect that:  \begin{itemize} 
 	\item Is life-threatening – refers to an event in which the subject was at risk of death at the time of the event; it does not refer to an event which hypothetically might have caused death if it were more severe
 	\item Requires hospitalisation, or prolongation of existing inpatients’ hospitalisation
     \item Results in persistent or significant disability or incapacity
 	\item Is a congenital anomaly or birth defect
-                                                                                              \end{itemize}
+                                                                                               \end{itemize} 
 
 
 Medical judgement should be exercised in deciding whether an AE is serious in other situations. Important AEs that are not immediately life-threatening or do not result in death or hospitalisation but may jeopardise the subject or may require intervention to prevent one of the other outcomes listed in the definition above, should also be considered serious.
@@ -339,10 +372,10 @@ All adverse events should be reported. Depending on the nature of the event the 
 \subsubsection{Non serious AEs}
 An SAE form should be completed and emailed to the Chief Investigator within 24 hours. However, relapse and death due to IPF, and hospitalisations for elective treatment of a pre-existing condition do not need reporting as SAEs.
 
-All SAEs should be reported to the Imperial College London where in the opinion of the Chief Investigator, the event was: \begin{itemize}
+All SAEs should be reported to the Imperial College London where in the opinion of the Chief Investigator, the event was:  \begin{itemize} 
                                                                                                                            \item ‘related’, ie resulted from the administration of any of the research procedures; and
 					   \item ‘unexpected’, ie an event that is not listed in the protocol as an expected occurrence
-                                                                                                                         \end{itemize}
+                                                                                                                          \end{itemize} 
 
                                                                                                                           
 Reports of related and unexpected SAEs should be submitted within 15 days of the Chief Investigator becoming aware of the event, using the NRES SAE form for non-IMP studies. The Chief Investigator must also notify the Sponsor of all SAEs.
@@ -351,7 +384,7 @@ Local investigators should report any SAEs as required by their Local Research E
 
 \begin{center}
 \textbf{Contact details for reporting SAEs:}
- 
+
 Email: carl.reynolds@imperial.ac.uk
 
 Please send SAE forms to: 
@@ -421,7 +454,7 @@ All research findings will be published in accordance with the Wellcome Trust an
 
 There will be three main outputs of the study:
 
-\begin{enumerate}
+ \begin{enumerate} 
  \item Data from the study, including anonymised raw data, will be communicated to the wider academic community,
 and policy-makers, by publication and presentation at national and international respiratory and epidemiology
 meetings.
@@ -434,7 +467,7 @@ and the NHS England Specialist Respiratory Clinical Reference Group to communica
 NHS patients with IPF due to occult occupational asbestos exposure may be entitled to compensation and our
 work may lead to reconsideration of current restrictions on disease modifying anti-fibrotic therapies for patients
 with asbestosis.
-\end{enumerate}
+ \end{enumerate} 
 
 An estimated 125 million people around the world work in environments in which they are exposed to asbestos,
 and at least 107,000 people die from occupational exposure to asbestos every year\cite{Concha-Barrientos2004}. Understanding the role of
@@ -523,27 +556,44 @@ Ekstrom 2014 & Sweden & 171 & Smoking has dose related association with increase
  \newpage
 
 \section{Participant Information Sheet}
-\includepdf[pages={1-4}]{ipfjes-pis.pdf}	
+\includepdf[pages={1-4}]{ipfjes-pis-diff.pdf}	
 
 \section{Participant consent form}
 \includepdf[pages={1}]{ipfjes-consent.pdf}
 \newpage
 
-\section{Hospital specialist cover letter (control recruitment)}
+\DIFdelbegin \section{\DIFdel{Hospital specialist cover letter (case recruitment)}}
+%DIFAUXCMD
+\addtocounter{section}{-1}%DIFAUXCMD
+%DIFDELCMD < \includepdf[pages={1}]{ipfjes-coverletter-cons-case.pdf}
+%DIFDELCMD < \newpage
+%DIFDELCMD < 
+
+%DIFDELCMD < %%%
+\DIFdelend \section{Hospital specialist cover letter (control recruitment)}
 \includepdf[pages={1}]{ipfjes-coverletter-cons-control.pdf}
-\newpage
+\DIFdelbegin %DIFDELCMD < \newpage
+%DIFDELCMD < 
+
+%DIFDELCMD < %%%
+\section{\DIFdel{Participant cover letter}}
+%DIFAUXCMD
+\addtocounter{section}{-1}%DIFAUXCMD
+%DIFDELCMD < \includepdf[pages={1}]{ipfjes-coverletter-pt.pdf}
+%DIFDELCMD < %%%
+\DIFdelend \newpage
 
 \section{GP cover letter}
 \includepdf[pages={1}]{ipfjes-coverletter-gp.pdf}
 \newpage
 
 \section{Study standard operating procedure}
-\includepdf[pages={1-6}]{ipfjes-sop.pdf}
+\includepdf[pages={1-6}]{ipfjes-sop-diff.pdf}
 \newpage
 
 
 \end{appendices}
-     
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 \makeatletter
  \def\@biblabel#1{#1}
