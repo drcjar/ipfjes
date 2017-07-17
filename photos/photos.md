@@ -1,7 +1,6 @@
 # Site visit photos
 
-
-
+We've been on several site visits now. At some sites, like Imperial, Bristol, Birmingham, Aberdeen, Liverpool we haven't managed to get a snap of the whole team yet. But I'm sure we will. 
 
 ![wales](https://github.com/drcjar/ipfjes/blob/master/photos/20170516_134521.jpg)
 Wales site visit
