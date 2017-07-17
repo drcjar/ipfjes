@@ -6,15 +6,15 @@ A case-control study to investigate whether job exposures are an under-recognize
 
 #### Find the most updtodate version of the study documents [here](https://github.com/drcjar/ipfjes/blob/master/README.md)
 
-### Recruitment
+### Recruitment (data for active sites as of 17/7/17)
 
-|   | Principle Investigator | Organisation                                      | Participants Recruited |
-|---|------------------------|---------------------------------------------------|------------------------|
-| 0 | Lisa Spencer           | Aintree University Hospitals NHS Foundation Trust | 15                     |
-| 1 | Carl Reynolds          | Imperial College Healthcare NHS Trust             | 4                      |
-| 2 | Nazia Chaudhuri        | University Hospital of South Manchester           | 4                      |
-| 3 | Owen Dempsey           | Aberdeen Royal Infirmary                          | 1                      |
-|   | Principle Investigator | Organisation                                      | Participants Recruited |
+| Principle Investigator | Organisation                                      | Participants Recruited |
+|------------------------|---------------------------------------------------|------------------------|
+| Lisa Spencer           | Aintree University Hospitals NHS Foundation Trust | 15                     |
+| Carl Reynolds          | Imperial College Healthcare NHS Trust             | 4                      |
+| Nazia Chaudhuri        | University Hospital of South Manchester           | 4                      |
+| Owen Dempsey           | Aberdeen Royal Infirmary                          | 1                      |
+
 
 ### Site visit photos
 
