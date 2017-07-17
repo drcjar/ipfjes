@@ -27,7 +27,7 @@ Bristol site visit
 Glasgow site visit
 
 ![birmingham](https://github.com/drcjar/ipfjes/blob/master/photos/GWBirmingham.jpg)
-Birmingham site visit
+Birmingham site visit team photo pending (here's a picture I found on the internet)
 
 ![taunton](https://github.com/drcjar/ipfjes/blob/master/photos/20170710_140205.jpg)
 Taunton site visit
