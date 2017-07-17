@@ -1,15 +1,10 @@
 # Site visit photos
 
-![imperial](https://github.com/drcjar/ipfjes/blob/master/photos/Carl3.jpg)
 
-photo of Imperial team pending; here's me making cherry tea in Tasuj, Iran
 
-![aberdeen](https://github.com/drcjar/ipfjes/blob/master/photos/20170503_182235.jpg)
-photo of Aberdeen team pending; here's me standing by a advert for a battered mars bar
 
 ![wales](https://github.com/drcjar/ipfjes/blob/master/photos/20170516_134521.jpg)
 Wales site visit
-
 
 ![southampton](https://github.com/drcjar/ipfjes/blob/master/photos/IMG_0859.jpg)
 Southampton site visit
@@ -19,6 +14,9 @@ Liverpool site visit
 
 ![manchester](https://github.com/drcjar/ipfjes/blob/master/photos/IMG_0879.jpg)
 Manchester site visit
+
+![imperial](https://github.com/drcjar/ipfjes/blob/master/photos/Carl3.jpg)
+photo of Imperial team pending; here's me making cherry tea in Tasuj, Iran
 
 ![bristol](https://github.com/drcjar/ipfjes/blob/master/photos/20170524_140546.jpg)
 Bristol site visit
@@ -31,6 +29,9 @@ Birmingham site visit team photo pending (here's a picture I found on the intern
 
 ![taunton](https://github.com/drcjar/ipfjes/blob/master/photos/20170710_140205.jpg)
 Taunton site visit
+
+![aberdeen](https://github.com/drcjar/ipfjes/blob/master/photos/20170503_182235.jpg)
+photo of Aberdeen team pending; here's me standing by a advert for a battered mars bar
 
 ![nottingham](https://github.com/drcjar/ipfjes/blob/master/photos/20170713_150124.jpg)
 Nottingham site visit
