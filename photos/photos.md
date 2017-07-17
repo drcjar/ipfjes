@@ -1,7 +1,8 @@
 # Site visit photos
 
 ![imperial](https://github.com/drcjar/ipfjes/blob/master/photos/Carl3.jpg)
-photo of Imperial team pending; here's me making cherry tea in Tasuj
+
+photo of Imperial team pending; here's me making cherry tea in Tasuj, Iran
 
 ![aberdeen](https://github.com/drcjar/ipfjes/blob/master/photos/20170503_182235.jpg)
 photo of Aberdeen team pending; here's me standing by a advert for a battered mars bar
