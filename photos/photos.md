@@ -32,7 +32,7 @@ Taunton site visit
 ![aberdeen](https://github.com/drcjar/ipfjes/blob/master/photos/20170503_182235.jpg)
 photo of Aberdeen team pending; here's me standing by a advert for a battered mars bar
 
-![nottingham](https://github.com/drcjar/ipfjes/blob/master/photos/20170713_150124.jpg)
-Nottingham site visit
+![exeter](https://github.com/drcjar/ipfjes/blob/master/photos/20170720_151412.jpg)
+Exeter site visit, unfortunately Mike had to dash to clinic
 
-Exeter, Edinburgh, Cambridge, Leeds, Newcastle, Portsmouth, Worcester, Birmingham (part 2) to follow!
+Edinburgh, Cambridge, Leeds, Newcastle, Portsmouth, Worcester, Birmingham (part 2) to follow!
