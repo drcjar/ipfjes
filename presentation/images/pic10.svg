@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by diasvg.py -->
+<svg width="15.188cm" height="23.941cm" viewBox="0.140 0.037 15.328 23.978"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect x="1.013" y="4.726" width="3.335" height="1.857" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="1.013" y="4.726" width="3.335" height="1.857" fill="none" stroke="#000000" stroke-width="0.010" />
+<text x="2.681" y="5.436"  fill="#000000" text-anchor="middle" font-size="0.28" font-family="Arial" font-style="normal" font-weight="400">
+4800 new diagnoses</text>
+<text x="2.681" y="5.718"  fill="#000000" text-anchor="middle" font-size="0.28" font-family="Arial" font-style="normal" font-weight="400">
+of IPF per year at </text>
+<text x="2.681" y="6.000"  fill="#000000" text-anchor="middle" font-size="0.28" font-family="Arial" font-style="normal" font-weight="400">
+25 specialist centres</text>
+<line x1="2.695" y1="6.588" x2="2.705" y2="7.248" stroke="#000000" stroke-width="0.010" />
+<polygon fill="#000000" stroke="none" stroke-width="0.010" points="2.710,7.623 2.453,7.127 2.705,7.248 2.953,7.119 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.010"  points="2.710,7.623 2.453,7.127 2.705,7.248 2.953,7.119 "/>
+<rect x="0.145" y="7.639" width="5.188" height="3.832" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="0.145" y="7.639" width="5.188" height="3.832" fill="none" stroke="#000000" stroke-width="0.010" />
+<text x="2.739" y="8.349"  fill="#000000" text-anchor="middle" font-size="0.28" font-family="Arial" font-style="normal" font-weight="400">
+Possible cases (N = 600) sampled</text>
+<text x="2.739" y="8.631"  fill="#000000" text-anchor="middle" font-size="0.28" font-family="Arial" font-style="normal" font-weight="400">
+from ILD MDT* of 6 specialist </text>
+<text x="2.739" y="8.913"  fill="#000000" text-anchor="middle" font-size="0.28" font-family="Arial" font-style="normal" font-weight="400">
+centres and contacted by</text>
+<text x="2.739" y="9.196"  fill="#000000" text-anchor="middle" font-size="0.28" font-family="Arial" font-style="normal" font-weight="400">
+telephone </text>
+<text x="2.739" y="9.478"  fill="#000000" text-anchor="middle" font-size="0.28" font-family="Arial" font-style="normal" font-weight="400">
+(Birmingham, Sheffield,</text>
+<text x="2.739" y="9.760"  fill="#000000" text-anchor="middle" font-size="0.28" font-family="Arial" font-style="normal" font-weight="400">
+Swansea, London, </text>
+<text x="2.739" y="10.042"  fill="#000000" text-anchor="middle" font-size="0.28" font-family="Arial" font-style="normal" font-weight="400">
+Manchester, Nottingham)</text>
+<text x="2.739" y="10.607"  fill="#000000" text-anchor="middle" font-size="0.28" font-family="Arial" font-style="normal" font-weight="400">
+*NICE guidance recommends all new</text>
+<text x="2.739" y="10.889"  fill="#000000" text-anchor="middle" font-size="0.28" font-family="Arial" font-style="normal" font-weight="400">
+diagnoses of IPF are made at MDT</text>
+<rect x="3.805" y="13.214" width="4.430" height="2.199" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="3.805" y="13.214" width="4.430" height="2.199" fill="none" stroke="#000000" stroke-width="0.010" />
+<text x="6.020" y="13.954"  fill="#000000" text-anchor="middle" font-size="0.28" font-family="Arial" font-style="normal" font-weight="400">
+Exclusion criteria:</text>
+<text x="6.020" y="14.236"  fill="#000000" text-anchor="middle" font-size="0.28" font-family="Arial" font-style="normal" font-weight="400">
+Unable to consent</text>
+<text x="6.020" y="14.518"  fill="#000000" text-anchor="middle" font-size="0.28" font-family="Arial" font-style="normal" font-weight="400">
+Ever worked outside of the UK</text>
+<line x1="2.739" y1="11.471" x2="2.785" y2="16.741" stroke="#000000" stroke-width="0.010" />
+<polygon fill="#000000" stroke="none" stroke-width="0.010" points="2.789,17.116 2.534,16.618 2.785,16.741 3.034,16.614 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.010"  points="2.789,17.116 2.534,16.618 2.785,16.741 3.034,16.614 "/>
+<line x1="2.764" y1="14.299" x2="3.419" y2="14.308" stroke="#000000" stroke-width="0.010" />
+<polygon fill="#000000" stroke="none" stroke-width="0.010" points="3.794,14.313 3.291,14.556 3.419,14.308 3.297,14.056 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.010"  points="3.794,14.313 3.291,14.556 3.419,14.308 3.297,14.056 "/>
+<rect x="1.699" y="17.127" width="2.180" height="1.292" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="1.699" y="17.127" width="2.180" height="1.292" fill="none" stroke="#000000" stroke-width="0.010" />
+<text x="2.789" y="17.837"  fill="#000000" text-anchor="middle" font-size="0.28" font-family="Arial" font-style="normal" font-weight="400">
+120 Cases</text>
+<rect x="8.491" y="17.144" width="2.440" height="1.292" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="8.491" y="17.144" width="2.440" height="1.292" fill="none" stroke="#000000" stroke-width="0.010" />
+<text x="9.711" y="17.854"  fill="#000000" text-anchor="middle" font-size="0.28" font-family="Arial" font-style="normal" font-weight="400">
+480 Controls</text>
+<rect x="0.603" y="19.775" width="12.273" height="1.574" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="0.603" y="19.775" width="12.273" height="1.574" fill="none" stroke="#000000" stroke-width="0.010" />
+<text x="6.739" y="20.485"  fill="#000000" text-anchor="middle" font-size="0.28" font-family="Arial" font-style="normal" font-weight="400">
+Telephone interview. Form in the post for blood test at next outpatient appointment that is having a</text>
+<text x="6.739" y="20.767"  fill="#000000" text-anchor="middle" font-size="0.28" font-family="Arial" font-style="normal" font-weight="400">
+routine blood test.</text>
+<line x1="2.789" y1="18.420" x2="3.460" y2="19.451" stroke="#000000" stroke-width="0.010" />
+<polygon fill="#000000" stroke="none" stroke-width="0.010" points="3.665,19.765 3.182,19.483 3.460,19.451 3.601,19.210 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.010"  points="3.665,19.765 3.182,19.483 3.460,19.451 3.601,19.210 "/>
+<line x1="9.711" y1="18.436" x2="9.779" y2="19.390" stroke="#000000" stroke-width="0.010" />
+<polygon fill="#000000" stroke="none" stroke-width="0.010" points="9.806,19.764 9.521,19.283 9.779,19.390 10.020,19.247 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.010"  points="9.806,19.764 9.521,19.283 9.779,19.390 10.020,19.247 "/>
+<line x1="6.739" y1="21.349" x2="6.721" y2="21.993" stroke="#000000" stroke-width="0.010" />
+<polygon fill="#000000" stroke="none" stroke-width="0.010" points="6.711,22.368 6.475,21.861 6.721,21.993 6.975,21.875 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.010"  points="6.711,22.368 6.475,21.861 6.721,21.993 6.975,21.875 "/>
+<rect x="7.004" y="7.694" width="5.373" height="3.800" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="7.004" y="7.694" width="5.373" height="3.800" fill="none" stroke="#000000" stroke-width="0.010" />
+<text x="9.690" y="8.671"  fill="#000000" text-anchor="middle" font-size="0.28" font-family="Arial" font-style="normal" font-weight="400">
+4 age and </text>
+<text x="9.690" y="8.953"  fill="#000000" text-anchor="middle" font-size="0.28" font-family="Arial" font-style="normal" font-weight="400">
+sex-matched</text>
+<text x="9.690" y="9.235"  fill="#000000" text-anchor="middle" font-size="0.28" font-family="Arial" font-style="normal" font-weight="400">
+controls for each case</text>
+<text x="9.690" y="9.517"  fill="#000000" text-anchor="middle" font-size="0.28" font-family="Arial" font-style="normal" font-weight="400">
+recruited by telephone from source </text>
+<text x="9.690" y="9.799"  fill="#000000" text-anchor="middle" font-size="0.28" font-family="Arial" font-style="normal" font-weight="400">
+hospital of case. </text>
+<text x="9.690" y="10.082"  fill="#000000" text-anchor="middle" font-size="0.28" font-family="Arial" font-style="normal" font-weight="400">
+Randomised sampling from list of </text>
+<text x="9.690" y="10.364"  fill="#000000" text-anchor="middle" font-size="0.28" font-family="Arial" font-style="normal" font-weight="400">
+new outptient attendances occuring in</text>
+<text x="9.690" y="10.646"  fill="#000000" text-anchor="middle" font-size="0.28" font-family="Arial" font-style="normal" font-weight="400">
+the same month. </text>
+<line x1="9.690" y1="11.495" x2="9.709" y2="16.758" stroke="#000000" stroke-width="0.010" />
+<polygon fill="#000000" stroke="none" stroke-width="0.010" points="9.711,17.133 9.459,16.634 9.709,16.758 9.959,16.632 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.010"  points="9.711,17.133 9.459,16.634 9.709,16.758 9.959,16.632 "/>
+<rect x="10.893" y="13.240" width="4.430" height="2.139" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="10.893" y="13.240" width="4.430" height="2.139" fill="none" stroke="#000000" stroke-width="0.010" />
+<text x="13.108" y="13.950"  fill="#000000" text-anchor="middle" font-size="0.28" font-family="Arial" font-style="normal" font-weight="400">
+Exclusion criteria:</text>
+<text x="13.108" y="14.232"  fill="#000000" text-anchor="middle" font-size="0.28" font-family="Arial" font-style="normal" font-weight="400">
+Unable to consent</text>
+<text x="13.108" y="14.515"  fill="#000000" text-anchor="middle" font-size="0.28" font-family="Arial" font-style="normal" font-weight="400">
+Ever worked outside of the UK</text>
+<text x="13.108" y="14.797"  fill="#000000" text-anchor="middle" font-size="0.28" font-family="Arial" font-style="normal" font-weight="400">
+Diagnosis of IPF</text>
+<line x1="9.701" y1="14.319" x2="10.507" y2="14.313" stroke="#000000" stroke-width="0.010" />
+<polygon fill="#000000" stroke="none" stroke-width="0.010" points="10.882,14.310 10.384,14.564 10.507,14.313 10.380,14.064 "/>
+<polygon fill="none" stroke="#000000" stroke-width="0.010"  points="10.882,14.310 10.384,14.564 10.507,14.313 10.380,14.064 "/>
+<rect x="6.994" y="1.657" width="4.739" height="2.529" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="6.994" y="1.657" width="4.739" height="2.529" fill="none" stroke="#000000" stroke-width="0.010" />
+<text x="9.363" y="2.421"  fill="#000000" text-anchor="middle" font-size="0.28" font-family="Arial" font-style="normal" font-weight="400">
+Inclusion criteria:</text>
+<text x="9.363" y="2.704"  fill="#000000" text-anchor="middle" font-size="0.28" font-family="Arial" font-style="normal" font-weight="400">
+Male</text>
+<text x="9.363" y="2.986"  fill="#000000" text-anchor="middle" font-size="0.28" font-family="Arial" font-style="normal" font-weight="400">
+New outpatient department </text>
+<text x="9.363" y="3.268"  fill="#000000" text-anchor="middle" font-size="0.28" font-family="Arial" font-style="normal" font-weight="400">
+attendee </text>
+<text x="9.363" y="3.550"  fill="#000000" text-anchor="middle" font-size="0.28" font-family="Arial" font-style="normal" font-weight="400">
+between 07.17 and 07.19</text>
+<rect x="5.347" y="22.379" width="2.727" height="1.594" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="5.347" y="22.379" width="2.727" height="1.594" fill="none" stroke="#000000" stroke-width="0.010" />
+<text x="6.711" y="23.240"  fill="#000000" text-anchor="middle" font-size="0.28" font-family="Arial" font-style="normal" font-weight="400">
+Analysis</text>
+<rect x="0.300" y="1.686" width="4.750" height="2.483" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<rect x="0.300" y="1.686" width="4.750" height="2.483" fill="none" stroke="#000000" stroke-width="0.010" />
+<text x="2.675" y="2.569"  fill="#000000" text-anchor="middle" font-size="0.28" font-family="Arial" font-style="normal" font-weight="400">
+Inclusion criteria:</text>
+<text x="2.675" y="2.851"  fill="#000000" text-anchor="middle" font-size="0.28" font-family="Arial" font-style="normal" font-weight="400">
+Male</text>
+<text x="2.675" y="3.133"  fill="#000000" text-anchor="middle" font-size="0.28" font-family="Arial" font-style="normal" font-weight="400">
+New diagnosis of IPF at </text>
+<text x="2.675" y="3.415"  fill="#000000" text-anchor="middle" font-size="0.28" font-family="Arial" font-style="normal" font-weight="400">
+MDT 07.17 and 07.19</text>
+<text x="2.133" y="1.620"  fill="#000000" text-anchor="start" font-size="0.49" font-family="Arial" font-style="normal" font-weight="400">
+Cases</text>
+<text x="8.706" y="1.632"  fill="#000000" text-anchor="start" font-size="0.49" font-family="Arial" font-style="normal" font-weight="400">
+Controls</text>
+<text x="1.177" y="0.397"  fill="#000000" text-anchor="start" font-size="0.49" font-family="Arial" font-style="normal" font-weight="400">
+IPF Asbestos Exposure Study (IPF-AES) Flow Chart</text>
+</svg>
