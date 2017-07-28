@@ -24,7 +24,10 @@ Bristol site visit
 Glasgow site visit
 
 ![birmingham](https://github.com/drcjar/ipfjes/blob/master/photos/GWBirmingham.jpg)
-Birmingham site visit team photo pending (here's a picture I found on the internet)
+Birmingham site visit team photo part one
+
+![birmingham](https://github.com/drcjar/ipfjes/blob/master/photos/image001.jpg)
+Birmingham site visit team photo part one, no biscuits to see here
 
 ![taunton](https://github.com/drcjar/ipfjes/blob/master/photos/20170710_140205.jpg)
 Taunton site visit
@@ -35,4 +38,7 @@ photo of Aberdeen team pending; here's me standing by a advert for a battered ma
 ![exeter](https://github.com/drcjar/ipfjes/blob/master/photos/20170720_151412.jpg)
 Exeter site visit, unfortunately Mike had to dash to clinic
 
-Edinburgh, Cambridge, Leeds, Newcastle, Portsmouth, Worcester, Birmingham (part 2) to follow!
+![edinburgh](https://github.com/drcjar/ipfjes/blob/master/photos/20170728_104008.jpg)
+Edinburgh site visit
+
+Cambridge, Leeds, Newcastle, Portsmouth, Worcester, Birmingham (part 2) to follow!
