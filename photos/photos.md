@@ -27,13 +27,13 @@ Glasgow site visit
 Birmingham site visit team photo part one
 
 ![birmingham](https://github.com/drcjar/ipfjes/blob/master/photos/image001.jpg)
-Birmingham site visit team photo part one, no biscuits to see here
+Birmingham site visit team photo part two, definitely no biscuits to see here
 
 ![taunton](https://github.com/drcjar/ipfjes/blob/master/photos/20170710_140205.jpg)
 Taunton site visit
 
 ![aberdeen](https://github.com/drcjar/ipfjes/blob/master/photos/20170503_182235.jpg)
-photo of Aberdeen team pending; here's me standing by a advert for a battered mars bar
+photo of Aberdeen team pending; here's me standing by an advert for a battered mars bar
 
 ![exeter](https://github.com/drcjar/ipfjes/blob/master/photos/20170720_151412.jpg)
 Exeter site visit, unfortunately Mike had to dash to clinic
