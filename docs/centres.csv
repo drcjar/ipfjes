@@ -1,17 +1,17 @@
 Organisation,Centre ID,SIV,C&C,Recruiting
 Heart of England NHS Foundation Trust,1,Y,Y,N
-Morriston Hospital,2,Y,N,N
+Morriston Hospital,2,Y,Y,N
 Imperial College Healthcare NHS Trust,10,Y,Y,Y
 Nottingham University Hospitals NHS Trust,3,Y,Y,N
 Southampton University Hospitals NHS Trust,4,Y,N,N
 University Hospital of South Manchester,5,Y,Y,Y
 Papworth Hospital NHS Foundation Trust,6,N,N,N
-Royal Devon and Exeter NHS Foundation Trust,7,N,Y,N
+Royal Devon and Exeter NHS Foundation Trust,7,Y,Y,N
 Aintree University Hospitals NHS Foundation Trust,8,Y,Y,Y
 North Bristol NHS Trust,9,Y,Y,Y
 Aberdeen Royal Infirmary,11,Y,Y,Y
 Glasgow Royal Infirmary,12,Y,Y,N
-Royal Infirmary of Edinburgh,13,N,Y,N
+Royal Infirmary of Edinburgh,13,Y,Y,N
 The Newcastle Upon Tyne Hospitals NHS Foundation Trust ,14,N,N,N
 Taunton and Somerset NHS Foundation Trust,15,Y,Y,N
 Leeds Teaching Hospitals NHS Trust,16,N,N,N
