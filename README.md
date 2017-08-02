@@ -28,6 +28,7 @@ Related open source code also lives at https://github.com/drcjar/pypf and https:
 - [Statment of activities](https://github.com/drcjar/ipfjes/blob/master/docs/ipfjes-statement-activities.docx), [Schedule of events](https://github.com/drcjar/ipfjes/blob/master/docs/ipfjes-hra-schedule-events.xls), and [IRAS]( https://github.com/drcjar/ipfjes/blob/master/docs/ipfjes-iras-form.pdf)
 - [REC approval](https://github.com/drcjar/ipfjes/blob/master/docs/2017.02.11%2017-0021%20FIFO-3.pdf) and [HRA approval](https://github.com/drcjar/ipfjes/blob/master/docs/IRAS_203355_Letter_of_HRA_Approval_3March2017-1.pdf)
 - [Site Initiation Visit](http://carlreynolds.net/ipfjes-siv/)
+- [Centre status as of 2/8/17](https://github.com/drcjar/ipfjes/blob/master/docs/centres.csv)
 - [Recruitment performance by site as of 17/7/17](https://github.com/drcjar/ipfjes/blob/master/docs/ipfjes-recruitment-17-07-2017.csv)
 - [Change log](https://github.com/drcjar/ipfjes/blob/master/docs/CHANGELOG.md)
 
