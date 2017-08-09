@@ -32,7 +32,7 @@ Birmingham site visit team photo part two, definitely no biscuits to see here
 ![taunton](https://github.com/drcjar/ipfjes/blob/master/photos/20170710_140205.jpg)
 Taunton site visit
 
-![aberdeen](https://github.com/drcjar/ipfjes/blob/master/photos/IMG_8966.JPG)
+![aberdeen](https://github.com/drcjar/ipfjes/blob/master/photos/IMG_8966.jpg)
 Aberdeen site visit selfie. And [more](https://github.com/drcjar/ipfjes/blob/master/photos/20170503_182235.jpg).
 
 ![exeter](https://github.com/drcjar/ipfjes/blob/master/photos/20170720_151412.jpg)
