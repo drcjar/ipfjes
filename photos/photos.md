@@ -41,7 +41,7 @@ Exeter site visit, unfortunately Mike had to dash to clinic
 ![edinburgh](https://github.com/drcjar/ipfjes/blob/master/photos/20170728_104008.jpg)
 Edinburgh site visit
 
-![cambridge](https://github.com/drcjar/ipfjes/raw/master/photos/20170905_120707.jpg)
+![cambridge](https://github.com/drcjar/ipfjes/blob/master/photos/20170905_120707.jpg)
 Cambridge site visit
 
 Leeds, Newcastle, Portsmouth, Worcester, Birmingham (part 2) to follow!
