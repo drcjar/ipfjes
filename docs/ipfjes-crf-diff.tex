@@ -1,4 +1,7 @@
 %based on imperial example provided + hra example at http://www.hra-decisiontools.org.uk/consent/        examples.html 
+%DIF LATEXDIFF DIFFERENCE FILE
+%DIF DEL ipfjes-crf.tex       Mon Sep 18 10:55:37 2017
+%DIF ADD ipfjes-crf-new.tex   Mon Sep 18 10:43:34 2017
  \documentclass[a4paper,10pt]{article}
  
  %set font to Arial
@@ -26,7 +29,11 @@
  \chead{}
  \rhead{clinicaltrials.gov: NCT03211507}
  \lfoot{IPF JES}
- \cfoot{Case Report Form v0.6}
+%DIF 29c29
+%DIF <  \cfoot{Case Report Form v0.5}
+%DIF -------
+ \cfoot{Case Report Form v0.6} %DIF > 
+%DIF -------
  \rfoot{\today}
  
  
@@ -67,19 +74,45 @@
  %\nobibliography*
 
 
- \begin{document}
+ 
+%DIF PREAMBLE EXTENSION ADDED BY LATEXDIFF
+%DIF UNDERLINE PREAMBLE %DIF PREAMBLE
+\RequirePackage[normalem]{ulem} %DIF PREAMBLE
+\RequirePackage{color}\definecolor{RED}{rgb}{1,0,0}\definecolor{BLUE}{rgb}{0,0,1} %DIF PREAMBLE
+\providecommand{\DIFaddtex}[1]{{\protect\color{blue}\uwave{#1}}} %DIF PREAMBLE
+\providecommand{\DIFdeltex}[1]{{\protect\color{red}\sout{#1}}}                      %DIF PREAMBLE
+%DIF SAFE PREAMBLE %DIF PREAMBLE
+\providecommand{\DIFaddbegin}{} %DIF PREAMBLE
+\providecommand{\DIFaddend}{} %DIF PREAMBLE
+\providecommand{\DIFdelbegin}{} %DIF PREAMBLE
+\providecommand{\DIFdelend}{} %DIF PREAMBLE
+%DIF FLOATSAFE PREAMBLE %DIF PREAMBLE
+\providecommand{\DIFaddFL}[1]{\DIFadd{#1}} %DIF PREAMBLE
+\providecommand{\DIFdelFL}[1]{\DIFdel{#1}} %DIF PREAMBLE
+\providecommand{\DIFaddbeginFL}{} %DIF PREAMBLE
+\providecommand{\DIFaddendFL}{} %DIF PREAMBLE
+\providecommand{\DIFdelbeginFL}{} %DIF PREAMBLE
+\providecommand{\DIFdelendFL}{} %DIF PREAMBLE
+%DIF END PREAMBLE EXTENSION ADDED BY LATEXDIFF
+%DIF PREAMBLE EXTENSION ADDED BY LATEXDIFF
+%DIF HYPERREF PREAMBLE %DIF PREAMBLE
+\providecommand{\DIFadd}[1]{\texorpdfstring{\DIFaddtex{#1}}{#1}} %DIF PREAMBLE
+\providecommand{\DIFdel}[1]{\texorpdfstring{\DIFdeltex{#1}}{}} %DIF PREAMBLE
+%DIF END PREAMBLE EXTENSION ADDED BY LATEXDIFF
+
+\begin{document}
 
  \newpage\title{\bf IPF JES Case Report Form}
  \date{}
  %\author{Carl Reynolds \\
  %\small National Heart \& Lung Institute, Imperial College London }
- 
+
  %\pagenumbering{gobble}
- 
+
  \pagestyle{fancy}
- 
+
  %\pagestyle{empty}
- 
+
 % \maketitle
   \begin{centering} 
  \section*{CASE REPORT FORM}
@@ -93,7 +126,7 @@
 
  \vspace{0.5cm}
 
- \begin{enumerate}
+  \begin{enumerate} 
   \item Centre 
 	\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
   \item Case or Control (circle one)       
@@ -158,10 +191,11 @@
 	\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
 	\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
 
-\item I confirm that informed consent has been obtained (circle one)\\
-      yes, no
-        
- \end{enumerate}
+\DIFaddbegin \item \DIFadd{I confirm that informed consent has been obtained (circle one) }\\
+    \DIFadd{yes, no
+}
+
+ \DIFaddend  \end{enumerate} 
 
  \begin{tabular}{p{4cm}p{4cm}p{4cm}}
     \rule{10em}{.3pt} & \rule{10em}{.3pt} & \rule{10em}{.3pt} \\
@@ -177,6 +211,5 @@
 
 
 \end{document}
-
 
 
