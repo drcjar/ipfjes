@@ -18,7 +18,7 @@ A case-control study to investigate whether job exposures are an under-recognize
 
 ### Study documents
 
-Find the most up to date version of the study documents [here](https://github.com/drcjar/ipfjes/blob/master/README.md).
+Find the most up to date version of the study documents [here](https://github.com/drcjar/ipfjes/).
 
 ### Site visit photos
 
