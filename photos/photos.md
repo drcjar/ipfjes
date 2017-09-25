@@ -44,5 +44,7 @@ Edinburgh site visit
 ![cambridge](https://github.com/drcjar/ipfjes/blob/master/photos/20170905_120707.jpg)
 Cambridge site visit
 
+![portsmouth](https://github.com/drcjar/ipfjes/blob/master/photos/20170925_105011.jpg)
+Portsmouth site visit
 
-Leeds, Newcastle, Portsmouth, Worcester, Birmingham (part 2) to follow!
+Leeds, Newcastle, Worcester, Birmingham (part 2) to follow!
