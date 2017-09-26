@@ -22,7 +22,7 @@
 \setkomavar{fromphone}{+44 (0)77 3790 4807}
 \setkomavar{fromemail}{carl.reynolds@imperial.ac.uk}
 \setkomavar{fromurl}{http://www.carlreynolds.net}
-\setkomavar{frombank}{version 0.4}
+\setkomavar{frombank}{version 0.5}
 \setkomavar{signature}{Dr Carl Reynolds }
 \setkomavar{fromlogo}{\adjustbox{valign=t}{\includegraphics[width=5cm]{fig/imperial-logo.jpg}}}
 
