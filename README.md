@@ -8,6 +8,7 @@ Related open source code also lives at https://github.com/drcjar/pypf and https:
 
 - [Site visit photos](https://github.com/drcjar/ipfjes/blob/master/photos/photos.md)
 - [Study protocol](https://github.com/drcjar/ipfjes/raw/master/docs/ipfjes-protocol.pdf)
+- [A note of versions and dates](https://github.com/drcjar/ipfjes/blob/master/docs/VERSIONSANDDATES.md)
 - Participant information sheet [English](https://github.com/drcjar/ipfjes/blob/master/docs/ipfjes-pis.pdf), [Welsh](https://github.com/drcjar/ipfjes/blob/master/docs/ipfjes-pis-welsh.pdf)
 - [Healthcare professional information sheet](https://github.com/drcjar/ipfjes/blob/master/docs/ipfjes-onepager.pdf)
 - Cover letters ([GP](https://github.com/drcjar/ipfjes/blob/master/docs/ipfjes-coverletter-gp.pdf), [Control Clinic Consultant](https://github.com/drcjar/ipfjes/blob/master/docs/ipfjes-coverletter-cons-control.pdf)), ([.doc version](https://github.com/drcjar/ipfjes/blob/master/docs/ipfjes-coverletter-cons-control.doc))
