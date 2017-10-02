@@ -1,7 +1,7 @@
 \documentclass[a4paper,10pt]{article}
 %DIF LATEXDIFF DIFFERENCE FILE
-%DIF DEL ipfjes-protocol.tex           Mon Aug  7 13:01:07 2017
-%DIF ADD ../docs/ipfjes-protocol.tex   Mon Aug  7 13:02:21 2017
+%DIF DEL ipfjes-protocol.tex           Fri Sep 29 10:54:15 2017
+%DIF ADD ../docs/ipfjes-protocol.tex   Fri Sep 29 10:59:12 2017
 
 %set font to Arial
 %\usepackage{fontspec}
@@ -36,7 +36,7 @@
 \chead{}
 \rhead{clinicaltrials.gov: NCT03211507}
 \lfoot{IPFJES}
-\cfoot{Study Protocol v0.5 \hspace{2cm} 7th August, 2017}
+\cfoot{Study Protocol v0.6 \hspace{2cm} 29th September, 2017}
 \rfoot{\thepage\ of \pageref{LastPage}} 
 
 
@@ -132,7 +132,7 @@ asbestos exposure and a blood test to investigate genetic susceptibility.}
 
 
 \begin{centering}
-\subsection*{Version 0.5 \\ 7th August, 2017}
+\subsection*{Version 0.6 \\ 29th September, 2017}
 \end{centering}
 
 \begin{flushleft}
@@ -320,7 +320,7 @@ Cases and controls will be frequency matched on age categories.
 
   \item Controls  \begin{itemize} 
         \item Male
-        \item \DIFdelbegin \DIFdel{New outpatient }\DIFdelend \DIFaddbegin \DIFadd{Outpatient }\DIFaddend department attendee between \studystart and \studyend
+        \item Outpatient department attendee between \studystart and \studyend
         \end{itemize} 
 
  \end{itemize} 
@@ -330,12 +330,12 @@ Cases and controls will be frequency matched on age categories.
  \begin{itemize} 
  \item Cases  \begin{itemize} 
         \item Unable to give informed consent
-        \item Ever worked outside of the UK (does not include work outside the UK by memember of the armed forces or merchant navy)
+        \item \DIFdelbegin \DIFdel{Ever worked }\DIFdelend \DIFaddbegin \DIFadd{Worked }\DIFaddend outside of the UK \DIFaddbegin \DIFadd{for one year or more }\DIFaddend (does not include work outside the UK by \DIFdelbegin \DIFdel{memember }\DIFdelend \DIFaddbegin \DIFadd{member }\DIFaddend of the armed forces or merchant navy)
         \end{itemize} 
 
   \item Controls  \begin{itemize} 
         \item Unable to give informed consent
-        \item Ever worked outside of the UK (does not include work outside the UK by memember of the armed forces or merchant navy)
+        \item \DIFdelbegin \DIFdel{Ever worked }\DIFdelend \DIFaddbegin \DIFadd{Worked }\DIFaddend outside of the UK \DIFaddbegin \DIFadd{for one year or more }\DIFaddend (does not include work outside the UK by member of the armed forces or merchant navy)
         \end{itemize} 
 
  \end{itemize} 
@@ -556,6 +556,8 @@ Ekstrom 20.5 & Sweden & 171 & Smoking has dose related association with increase
 \includepdf[pages={1}]{ipfjes-consent.pdf}
 \newpage
 
+\section{Participant job sheet}
+\includepdf[pages={4}]{ipfjes-jobs.pdf}
 \section{Hospital specialist cover letter (control recruitment)}
 \includepdf[pages={1}]{ipfjes-coverletter-cons-control.pdf}
 \newpage
