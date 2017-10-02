@@ -4,7 +4,17 @@ A case-control study to investigate whether job exposures are an under-recognize
 
 ### Recruitment (data for active sites as of 29/9/17)
 
-| Principle Investigator | Organisation                                      | Participants Recruited ||------------------------|---------------------------------------------------|------------------------|| Lisa Spencer           | Aintree University Hospitals NHS Foundation Trust | 29                     || Nazia Chaudhuri        | University Hospital of South Manchester           | 14                     || Gareth Walters         | Heart of England NHS Foundation Trust             | 14                     || Kim Harrison           | Morriston Hospital                                | 6                      || Gauri Saini            | Nottingham University Hospitals NHS Trust         | 5                      || Michael Gibbons        | Royal Devon and Exeter NHS Foundation Trust       | 5                      || Huzaifa Adamali        | North Bristol NHS Trust                           | 4                      || Carl Reynolds          | Imperial College Healthcare NHS Trust             | 4                      || Owen Dempsey           | Aberdeen Royal Infirmary                          | 3                      |
+| Principle Investigator | Organisation                                      | Participants Recruited |
+|------------------------|---------------------------------------------------|------------------------|
+| Lisa Spencer           | Aintree University Hospitals NHS Foundation Trust | 29                     |
+| Nazia Chaudhuri        | University Hospital of South Manchester           | 14                     |
+| Gareth Walters         | Heart of England NHS Foundation Trust             | 14                     |
+| Kim Harrison           | Morriston Hospital                                | 6                      |
+| Gauri Saini            | Nottingham University Hospitals NHS Trust         | 5                      |
+| Michael Gibbons        | Royal Devon and Exeter NHS Foundation Trust       | 5                      |
+| Huzaifa Adamali        | North Bristol NHS Trust                           | 4                      |
+| Carl Reynolds          | Imperial College Healthcare NHS Trust             | 4                      |
+| Owen Dempsey           | Aberdeen Royal Infirmary                          | 3                      |
 
 ### Study documents
 
