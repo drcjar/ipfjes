@@ -2,19 +2,9 @@
 
 A case-control study to investigate whether job exposures are an under-recognized cause of idiopathic pulmonary fibrosis (IPF) using an interview to collect information about previous jobs and a blood test to investigate genetic susceptibility. ([clinicaltrials.gov NCT03211507](https://clinicaltrials.gov/ct2/show/NCT03211507))
 
-### Recruitment (data for active sites as of 10/9/17)
+### Recruitment (data for active sites as of 29/9/17)
 
-| Principle Investigator | Organisation                                      | Participants Recruited |
-|------------------------|---------------------------------------------------|------------------------|
-| Lisa Spencer           | Aintree University Hospitals NHS Foundation Trust | 26                     |
-| Nazia Chaudhuri        | University Hospital of South Manchester           | 12                     |
-| Gareth Walters         | Heart of England NHS Foundation Trust             | 8                      |
-| Huzaifa Adamali        | North Bristol NHS Trust                           | 4                      |
-| Gauri Saini            | Nottingham University Hospitals NHS Trust         | 4                      |
-| Carl Reynolds          | Imperial College Healthcare NHS Trust             | 4                      |
-| Owen Dempsey           | Aberdeen Royal Infirmary                          | 3                      |
-| Kim Harrison           | Morriston Hospital                                | 3                      |
-| Michael Gibbons        | Royal Devon and Exeter NHS Foundation Trust       | 3                      |
+| Principle Investigator | Organisation                                      | Participants Recruited ||------------------------|---------------------------------------------------|------------------------|| Lisa Spencer           | Aintree University Hospitals NHS Foundation Trust | 29                     || Nazia Chaudhuri        | University Hospital of South Manchester           | 14                     || Gareth Walters         | Heart of England NHS Foundation Trust             | 14                     || Kim Harrison           | Morriston Hospital                                | 6                      || Gauri Saini            | Nottingham University Hospitals NHS Trust         | 5                      || Michael Gibbons        | Royal Devon and Exeter NHS Foundation Trust       | 5                      || Huzaifa Adamali        | North Bristol NHS Trust                           | 4                      || Carl Reynolds          | Imperial College Healthcare NHS Trust             | 4                      || Owen Dempsey           | Aberdeen Royal Infirmary                          | 3                      |
 
 ### Study documents
 
