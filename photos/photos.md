@@ -50,4 +50,7 @@ Portsmouth site visit
 ![worcester](https://github.com/drcjar/ipfjes/blob/master/photos/IMG_0977.JPG)
 Worcester site visit
 
-Leeds, Newcastle, Birmingham (part 2) to follow!
+![newcastle](https://github.com/drcjar/ipfjes/blob/master/photos/20170928_145416.jpg)
+Newcastle site visit 
+
+Leeds and Birmingham to follow!
