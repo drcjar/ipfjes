@@ -1,0 +1,33 @@
+digraph {
+	graph [bgcolor=white fontcolor=black fontsize=14 label="Control recruitment" rankdir=TB]
+	node [color=black fillcolor="" fontcolor=black fontname=Helvetica shape=square style=""]
+	edge [arrowhead=open color=black fontcolor=black fontname=Courier fontsize=12 style=""]
+	H [label="Inclusion criteria:
+ Male 
+ Outpatient department
+ attendee between
+ 02.17 and 10.19"]
+	I [label="A control clinic is
+ randomly selected
+ (from all clinics, 
+ not limited to respiratory)"]
+	J [label="Local team
+ write to clinic lead clinician
+ to obtain permission to recruit
+ from clinic"]
+	K [label="Exclusion criteria:
+ Unable to consent
+ Ever worked outside
+ the UK
+(does not include work 
+ outside the UK 
+ by members of the 
+ armed forces
+ or merchant navy
+ Diagnosis of IPF)"]
+	L [label="460 controls"]
+	H -> I [label=""]
+	I -> J [label=""]
+	J -> L [label=""]
+	J -> K [label=""]
+}

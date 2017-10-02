@@ -1,0 +1,7 @@
+digraph {
+	graph [bgcolor=white fontcolor=black fontsize=14 label="Case recruitment" rankdir=TB]
+	node [color=black fillcolor="" fontcolor=black fontname=Helvetica shape=square style=""]
+	edge [arrowhead=open color=black fontcolor=black fontname=Courier fontsize=12 style=""]
+	D [label="Central research team updated
+ monthly"]
+}

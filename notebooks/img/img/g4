@@ -1,0 +1,40 @@
+digraph {
+	graph [bgcolor=white fontcolor=black fontsize=16 label="Case recruitment" rankdir=TB]
+	node [color=black fillcolor="" fontcolor=black fontname=Helvetica shape=square style=""]
+	edge [arrowhead=open color=black fontcolor=black fontname=Courier fontsize=12 style=""]
+	A [label="Inclusion criteria:
+ Male 
+ Diagnosis of IPF between
+ 02.17 and 10.19"]
+	{
+		graph [bgcolor=white fontcolor=black fontsize=16 label="" rank=same]
+		node [color=black fillcolor="" fontcolor=black fontname=Helvetica shape=square style=""]
+		edge [arrowhead=open color=black fontcolor=black fontname=Courier fontsize=12 style=""]
+		B [label="Patients provided with:
+ Participant information sheet
+ Participant job history sheet
+ and enrolled at 
+ outpatient department attendance.
+ Blood drawn and
+ Case Report Form completed"]
+		C [label="Exclusion criteria:
+ Unable to consent
+ Ever worked outside
+ the UK
+(does not include work 
+ outside the UK 
+ by members of the 
+ armed forces
+ or merchant navy)"]
+		B -> C [label=""]
+	}
+	A -> B
+	{
+		graph [bgcolor=white fontcolor=black fontsize=16 label="Case recruitment" rankdir=TB]
+		node [color=black fillcolor="" fontcolor=black fontname=Helvetica shape=square style=""]
+		edge [arrowhead=open color=black fontcolor=black fontname=Courier fontsize=12 style=""]
+		D [label="Central research team updated
+ monthly"]
+	}
+	B -> D
+}
