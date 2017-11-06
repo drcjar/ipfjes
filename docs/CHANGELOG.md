@@ -9,13 +9,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Changed
 - Changes exclusion criteria for cases and controls from:
       “Ever worked outside of the UK (does not include work outside the
-      UK by member of the armed forces or merchant navy)”
-      
-      to
-      
-      “Worked outside of the UK for one year or more (does not include
-      work outside the UK by member of the armed forces or merchant
-      navy)”
+      UK by member of the armed forces or merchant navy)” to “Worked outside of the UK for one year or more (does not include work outside the UK by member of the armed forces or merchant navy)”
 - Increments the version number of the study documents to 0.6 and updates the date to 29/09/17
 
 ### Added
