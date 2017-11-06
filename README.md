@@ -30,7 +30,7 @@ Related open source code also lives at https://github.com/drcjar/pypf and https:
 - Notification of minor amendment: [1](https://github.com/drcjar/ipfjes/blob/master/docs/notification-non-substantialminor-amendmentss-nhs-studies-1.docx), [2](https://github.com/drcjar/ipfjes/blob/master/docs/notification-non-substantialminor-amendmentss-nhs-studies-2.docx), [3](https://github.com/drcjar/ipfjes/blob/master/docs/notification-non-substantialminor-amendmentss-nhs-studies-3.docx)
 - HRA approval for minor amendment: [1](https://github.com/drcjar/ipfjes/blob/master/docs/hra-minor-amendment-approval1.pdf), [2](https://github.com/drcjar/ipfjes/blob/master/docs/hra-minor-amendment-approval2.pdf), [3](https://github.com/drcjar/ipfjes/blob/master/docs/hra-minor-amendment-approval3.pdf)
 - Notification of major amendment: [1](https://github.com/drcjar/ipfjes/blob/master/docs/iras-notice-major-amendment1.pdf)
-- REC approval for major amendment: [1](https://github.com/drcjar/ipfjes/blob/master/docs/iras203355-major-amendment-rec-validation1.pdf)
+- REC approval for major amendment: [1](https://github.com/drcjar/ipfjes/blob/master/docs/203355%2017.EM.0021%20Substantial%20Amendment%20FO.pdf)
 - HRA approval for minor amendment: [1](https://github.com/drcjar/ipfjes/blob/master/docs/hra-major-amendment-approval1.pdf)
 - [Site Initiation Visit](http://carlreynolds.net/ipfjes-siv/)
 - [Overview of participating centres](https://github.com/drcjar/ipfjes/blob/master/notebooks/centre_overview.ipynb)
