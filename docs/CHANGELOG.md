@@ -4,6 +4,17 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/) 
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [0.6.0] - 2017-11-01
+
+### Changed
+- Changes exclusion criteria for cases and controls from:
+      “Ever worked outside of the UK (does not include work outside the
+      UK by member of the armed forces or merchant navy)” to “Worked outside of the UK for one year or more (does not include work outside the UK by member of the armed forces or merchant navy)”
+- Increments the version number of the study documents to 0.6 and updates the date to 29/09/17
+
+### Added
+- Formally adds jobs sheet to be provided to participants at the time of recruitment for them to write down their jobs (if they wish) as an aide-memoire for the telephone interview. 
+
 ## [0.4.0] - 2017-06-29
 
 ### Changed
