@@ -3,7 +3,6 @@
 A case-control study to investigate whether job exposures are an under-recognized cause of idiopathic pulmonary fibrosis (IPF) using an interview to collect information about previous jobs and a blood test to investigate genetic susceptibility. ([clinicaltrials.gov NCT03211507](https://clinicaltrials.gov/ct2/show/NCT03211507))
 
 ### Recruitment (data for active sites as of 29/11/17)
-
 | Principle Investigator | Organisation                                           | Participants Recruited | |------------------------|--------------------------------------------------------|------------------------| 
 | Lisa Spencer           | Aintree University Hospitals NHS Foundation Trust      | 44                     | 
 | Gareth Walters         | Heart of England NHS Foundation Trust                  | 30                     | 
@@ -21,7 +20,6 @@ A case-control study to investigate whether job exposures are an under-recognize
 | David Thickett         | University Hospitals Birmingham NHS Foundation Trust   | 1                      | 
 | Ian Forrest            | The Newcastle Upon Tyne Hospitals NHS Foundation Trust | 1                      |
 | Justin Pepperell       | Taunton and Somerset NHS Foundation Trust              | 1                      | 
-
 
 ### Study documents
 
