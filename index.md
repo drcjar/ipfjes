@@ -19,7 +19,7 @@ A case-control study to investigate whether job exposures are an under-recognize
 | Steve O’Hickey         | Worcestershire Acute Hospitals NHS Trust               | 4                      |
 | Suresh Babu            | Portsmouth Hospitals NHS Trush                         | 3                      |
 | Nik Hirani             | Royal Infirmary of Edinburgh                           | 3                      |
-| David Thickett         | University Hospitals Birmingham NHS Foundation Trust   | 1                      |
+| Dhruv Parekh           | University Hospitals Birmingham NHS Foundation Trust   | 1                      |
 | Ian Forrest            | The Newcastle Upon Tyne Hospitals NHS Foundation Trust | 1                      |
 | Justin Pepperell       | Taunton and Somerset NHS Foundation Trust              | 1                      |
 
