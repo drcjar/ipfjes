@@ -21,7 +21,7 @@ A case-control study to investigate whether job exposures are an under-recognize
 | Ian Forrest            | The Newcastle Upon Tyne Hospitals NHS Foundation Trust | 3                      |
 | Suresh Babu            | Portsmouth Hospitals NHS Trush                         | 3                      |
 | Justin Pepperell       | Taunton and Somerset NHS Foundation Trust              | 2                      |
-| David Thickett         | University Hospitals Birmingham NHS Foundation Trust   | 1                      |
+| Dhruv	 Parekh          | University Hospitals Birmingham NHS Foundation Trust   | 1                      |
 
 ### Study documents
 
