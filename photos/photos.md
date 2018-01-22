@@ -53,4 +53,7 @@ Worcester site visit
 ![newcastle](https://github.com/drcjar/ipfjes/blob/master/photos/20170928_145416.jpg)
 Newcastle site visit 
 
-Leeds and Birmingham to follow!
+![leeds](https://github.com/drcjar/ipfjes/blob/master/photos/20180118_114620.jpg)
+Leeds site visit
+
+Birmingham to follow!
