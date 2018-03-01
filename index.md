@@ -2,26 +2,26 @@
 
 A case-control study to investigate whether job exposures are an under-recognized cause of idiopathic pulmonary fibrosis (IPF) using an interview to collect information about previous jobs and a blood test to investigate genetic susceptibility. ([clinicaltrials.gov NCT03211507](https://clinicaltrials.gov/ct2/show/NCT03211507))
 
-### Recruitment (data for active sites as of 31/01/18)
+### Recruitment (data for active sites as of 01/03/18)
 
 | Principle Investigator | Organisation                                           | Participants Recruited |
 |------------------------|--------------------------------------------------------|------------------------|
-| Lisa Spencer           | Aintree University Hospitals NHS Foundation Trust      | 51                     |
-| Nazia Chaudhuri        | University Hospital of South Manchester                | 34                     |
-| Gareth Walters         | Heart of England NHS Foundation Trust                  | 33                     |
-| Gauri Saini            | Nottingham University Hospitals NHS Trust              | 33                     |
-| Huzaifa Adamali        | North Bristol NHS Trust                                | 27                     |
-| Carl Reynolds          | Imperial College Healthcare NHS Trust                  | 15                     |
-| Sophie Fletcher        | Southampton University Hospitals NHS Trust             | 15                     |
-| Ian Forrest            | The Newcastle Upon Tyne Hospitals NHS Foundation Trust | 9                      |
-| Kim Harrison           | Morriston Hospital                                     | 9                      |
-| Owen Dempsey           | Aberdeen Royal Infirmary                               | 7                      |
+| Lisa Spencer           | Aintree University Hospitals NHS Foundation Trust      | 54                     |
+| Gauri Saini            | Nottingham University Hospitals NHS Trust              | 38                     |
+| Nazia Chaudhuri        | University Hospital of South Manchester                | 35                     |
+| Gareth Walters         | Heart of England NHS Foundation Trust                  | 35                     |
+| Huzaifa Adamali        | North Bristol NHS Trust                                | 33                     |
+| Sophie Fletcher        | Southampton University Hospitals NHS Trust             | 18                     |
+| Carl Reynolds          | Imperial College Healthcare NHS Trust                  | 16                     |
+| Ian Forrest            | The Newcastle Upon Tyne Hospitals NHS Foundation Trust | 16                     |
+| Kim Harrison           | Morriston Hospital                                     | 11                     |
+| Owen Dempsey           | Aberdeen Royal Infirmary                               | 10                     |
+| Steve O’Hickey         | Worcestershire Acute Hospitals NHS Trust               | 6                      |
+| Justin Pepperell       | Taunton and Somerset NHS Foundation Trust              | 6                      |
 | Michael Gibbons        | Royal Devon and Exeter NHS Foundation Trust            | 6                      |
 | Nik Hirani             | Royal Infirmary of Edinburgh                           | 5                      |
-| Steve O’Hickey         | Worcestershire Acute Hospitals NHS Trust               | 4                      |
-| Justin Pepperell       | Taunton and Somerset NHS Foundation Trust              | 4                      |
 | Suresh Babu            | Portsmouth Hospitals NHS Trush                         | 3                      |
-| Dhruv Parekh           | University Hospitals Birmingham NHS Foundation Trust   | 1                      |
+| Dhruv Parekh           | University Hospitals Birmingham NHS Foundation Trust   | 2                      |
 
 ### Study documents
 
