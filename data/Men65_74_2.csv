@@ -1,0 +1,144 @@
+Cause,jobcode,Occupation,Observed,Exp_Adj,PMR_Adj,Lower_Adj,Upper_Adj
+Pulmonary fibrosis,10,Lawyers,20,14.57,137,84,212
+Pulmonary fibrosis,20,Accountants and Financial Managers,52,59.38,88,65,115
+Pulmonary fibrosis,30,Personnel Managers etc,15,11.11,135,76,223
+Pulmonary fibrosis,40,Economists & statisticians,7,7.03,100,40,205
+Pulmonary fibrosis,50,Computer Programmers and Managers,26,22.46,116,76,170
+Pulmonary fibrosis,60,Sales Managers etc.,101,94.79,107,87,129
+Pulmonary fibrosis,70,Government Inspectors,10,7.73,129,62,238
+Pulmonary fibrosis,80,Government administrators,3,9.02,33,7,97
+Pulmonary fibrosis,90,Other Administrators,118,101.31,116,96,140
+Pulmonary fibrosis,100,Teachers in Higher Education,37,34.76,106,75,147
+Pulmonary fibrosis,110,School Teachers,43,56.13,77,55,103
+Pulmonary fibrosis,120,"Vocational Trainers, Social Scientists etc.",23,16.40,140,89,210
+Pulmonary fibrosis,130,Welfare Workers,19,18.42,103,62,161
+Pulmonary fibrosis,140,Clergy,14,12.93,108,59,182
+Pulmonary fibrosis,150,Doctors,19,15.31,124,75,194
+Pulmonary fibrosis,160,Dentists,5,3.54,141,46,330
+Pulmonary fibrosis,170,Nurses,11,11.73,94,47,168
+Pulmonary fibrosis,180,Pharmacists/Pharmacologists,2,5.20,38,5,139
+Pulmonary fibrosis,190,Medical Radiographers,0,0.61,0,0,604
+Pulmonary fibrosis,200,Physiotherapists,1,0.54,185,6,1029
+Pulmonary fibrosis,210,Other Health Professions,10,10.09,99,48,182
+Pulmonary fibrosis,220,Veterinarians,2,1.03,195,23,704
+Pulmonary fibrosis,230,Driving Instructors,6,8.64,69,25,151
+Pulmonary fibrosis,240,Literary and Artistic Occupations,54,56.82,95,71,124
+Pulmonary fibrosis,250,"Professional athletes, sports officials",1,4.16,24,1,134
+Pulmonary fibrosis,260,Biological scientists,3,5.84,51,11,150
+Pulmonary fibrosis,270,Chemical Engineers and Scientists,11,12.89,85,43,153
+Pulmonary fibrosis,280,Physical Scientists & mathematicians,6,9.27,65,24,141
+Pulmonary fibrosis,290,Electrical and Electronic Engineers (professional),5,4.65,108,35,251
+Pulmonary fibrosis,300,Other Professional Engineers,81,85.80,94,75,117
+Pulmonary fibrosis,310,Draughtspersons,21,21.87,96,59,147
+Pulmonary fibrosis,320,Laboratory Technicians,9,11.88,76,35,144
+Pulmonary fibrosis,330,Architects and Surveyors,28,32.42,86,57,125
+Pulmonary fibrosis,340,Aircraft Flight Deck Officers,1,3.25,31,1,171
+Pulmonary fibrosis,350,Air Traffic Controllers,1,1.09,92,3,513
+Pulmonary fibrosis,360,Seafarers,18,28.29,64,38,101
+Pulmonary fibrosis,370,Other Technicians,38,29.70,128,91,176
+Pulmonary fibrosis,380,Production and maintenance managers,97,79.73,122,99,148
+Pulmonary fibrosis,390,Managers in Construction,26,28.34,92,60,134
+Pulmonary fibrosis,400,"Managers in Transport, Mining and Energy Industries",57,52.69,108,82,140
+Pulmonary fibrosis,410,General and office managers,45,46.69,96,70,129
+Pulmonary fibrosis,420,Butchers,29,18.82,154,103,221
+Pulmonary fibrosis,430,"Fishmongers, Poultry Dressers",2,2.06,97,12,350
+Pulmonary fibrosis,440,Retailers and Dealers,135,135.16,100,84,118
+Pulmonary fibrosis,450,Publicans and Bar staff,36,45.78,79,55,109
+Pulmonary fibrosis,460,Caterers,21,26.64,79,49,120
+Pulmonary fibrosis,471,Farming and fishing,125,162.79,77,64,92
+Pulmonary fibrosis,480,Armed Forces,40,47.67,84,60,114
+Pulmonary fibrosis,490,Police,41,36.10,114,81,154
+Pulmonary fibrosis,500,Fire Service Personnel,15,8.89,169,95,278
+Pulmonary fibrosis,510,"Launderers, Dry Cleaners, Pressers",4,3.37,119,32,304
+Pulmonary fibrosis,520,Hairdressers,8,4.99,160,69,316
+Pulmonary fibrosis,530,Office Workers and Cashiers,222,210.96,105,92,120
+Pulmonary fibrosis,540,"Postal Workers, Mail Sorters",56,55.31,101,76,131
+Pulmonary fibrosis,560,Roundsmen/women & Van Salespersons,12,12.51,96,50,168
+Pulmonary fibrosis,570,Sales Representatives,47,58.92,80,59,106
+Pulmonary fibrosis,580,Security Workers,75,84.00,89,70,112
+Pulmonary fibrosis,590,Cooks,19,28.92,66,40,103
+Pulmonary fibrosis,600,Other Service Personnel,110,105.73,104,86,125
+Pulmonary fibrosis,601,Call centre workers,1,0.21,485,15,2702
+Pulmonary fibrosis,610,Hospital Porters and Ward Orderlies,29,25.18,115,77,165
+Pulmonary fibrosis,620,Ambulance Staff,17,8.11,210,122,336
+Pulmonary fibrosis,631,Rail travel assistants,3,6.11,49,10,143
+Pulmonary fibrosis,640,Undertakers,9,4.70,191,88,363
+Pulmonary fibrosis,650,Forestry Workers,0,3.83,0,0,96
+Pulmonary fibrosis,671,Leather and related trades,6,6.30,95,35,207
+Pulmonary fibrosis,711,Weavers and knitters,5,4.84,103,34,241
+Pulmonary fibrosis,740,Other Textile Processing Operatives,12,8.14,147,76,258
+Pulmonary fibrosis,750,Chemical workers,30,31.77,94,64,135
+Pulmonary fibrosis,760,Bakers,13,10.52,124,66,211
+Pulmonary fibrosis,780,"Other Food, Drink & Tobacco Process Operatives n.e.c.",35,29.48,119,83,165
+Pulmonary fibrosis,791,Paper and wood machine operatives,29,16.97,171,114,245
+Pulmonary fibrosis,800,Bookbinders,2,3.00,67,8,241
+Pulmonary fibrosis,821,Glass and ceramics workers,20,14.20,141,86,218
+Pulmonary fibrosis,850,Rubber Manufacturers,1,6.12,16,0,91
+Pulmonary fibrosis,881,Coal miners,107,91.95,116,95,141
+Pulmonary fibrosis,930,Plastic goods makers,5,7.43,67,22,157
+Pulmonary fibrosis,940,Compositors,1,7.18,14,0,78
+Pulmonary fibrosis,960,Printing Machine Minders & Assistants,7,5.99,117,47,241
+Pulmonary fibrosis,970,Printers,42,33.98,124,89,167
+Pulmonary fibrosis,980,Tailors & Dressmakers,8,5.14,156,67,307
+Pulmonary fibrosis,990,Clothing cutter,0,1.40,0,0,263
+Pulmonary fibrosis,1000,Sewers & embroiderers,7,5.01,140,56,288
+Pulmonary fibrosis,1010,Upholsterers,7,6.28,111,45,230
+Pulmonary fibrosis,1020,Floorers and wall tilers,7,8.05,87,35,179
+Pulmonary fibrosis,1030,Other workers with fabrics,0,1.40,0,0,264
+Pulmonary fibrosis,1040,Carpenters & Joiners,90,98.30,92,74,113
+Pulmonary fibrosis,1050,Cabinet Makers,11,11.28,98,49,174
+Pulmonary fibrosis,1070,Pattern Makers (moulds),3,3.24,93,19,270
+Pulmonary fibrosis,1140,Smiths & Forge Workers,6,5.06,119,43,258
+Pulmonary fibrosis,1160,"Moulders, Core Makers, Die Casters",10,5.58,179,86,329
+Pulmonary fibrosis,1170,Electroplater,4,2.58,155,42,397
+Pulmonary fibrosis,1200,Other Metal Manufacturers,36,22.79,158,111,219
+Pulmonary fibrosis,1211,Metal machining setters and setter-operators,34,27.17,125,87,175
+Pulmonary fibrosis,1241,Metal working machine operatives,143,130.95,109,92,129
+Pulmonary fibrosis,1290,"Tool Makers, Tool Fitters & Markers-Out",31,23.65,131,89,186
+Pulmonary fibrosis,1300,Precision Instrument Makers & Repairers,15,12.39,121,68,200
+Pulmonary fibrosis,1320,Production fitters,150,131.45,114,97,134
+Pulmonary fibrosis,1330,"Motor Mechanics, Auto Engineers (including road patrol engineers)",53,54.51,97,73,127
+Pulmonary fibrosis,1370,"Electricians, Electrical Maintenance Fitters",123,114.56,107,89,128
+Pulmonary fibrosis,1390,Telephone Fitters,30,29.91,100,68,143
+Pulmonary fibrosis,1400,"Cable Jointers, Lines Repairers",7,5.19,135,54,278
+Pulmonary fibrosis,1410,"Radio, TV & Video Engineers",8,6.60,121,52,239
+Pulmonary fibrosis,1420,Other Electrical/Electronic Trades n.e.c.,11,7.64,144,72,258
+Pulmonary fibrosis,1430,Electrical Engineers (not professional),26,22.96,113,74,166
+Pulmonary fibrosis,1440,"Plumbers, Heating & Ventilating Engineers & Related Trades",76,70.66,108,85,135
+Pulmonary fibrosis,1450,Sheet Metal Workers,16,16.25,98,56,160
+Pulmonary fibrosis,1460,"Metal Plate Workers, Shipwrights, Riveters",18,12.97,139,82,219
+Pulmonary fibrosis,1470,Steel Erectors,6,10.24,59,21,128
+Pulmonary fibrosis,1480,"Scaffolders, Stagers, Steeplejacks, Riggers",10,12.59,79,38,146
+Pulmonary fibrosis,1490,Welding Trades,34,36.53,93,64,130
+Pulmonary fibrosis,1510,Jewellery workers,4,2.67,150,41,383
+Pulmonary fibrosis,1530,Coach & Vehicle Body Builders,9,10.05,90,41,170
+Pulmonary fibrosis,1540,"Oilers, Greasers, Lubricators",51,36.64,139,104,183
+Pulmonary fibrosis,1580,Coach Painters,6,4.30,140,51,304
+Pulmonary fibrosis,1600,Painters & Decorators,86,87.91,98,78,121
+Pulmonary fibrosis,1610,Assemblers/Lineworkers (electrical/electronic goods),5,7.02,71,23,166
+Pulmonary fibrosis,1630,Assemblers/Lineworkers (vehicles & other metal goods),17,21.16,80,47,129
+Pulmonary fibrosis,1640,"Packers, Sorters and Testers",46,45.98,100,73,133
+Pulmonary fibrosis,1650,"Bricklayers, Masons",39,41.58,94,67,128
+Pulmonary fibrosis,1670,Plasterers,17,18.11,94,55,150
+Pulmonary fibrosis,1680,Roofers and Glaziers,17,18.90,90,52,144
+Pulmonary fibrosis,1700,Rail Construction & Maintenance Workers,2,4.36,46,6,166
+Pulmonary fibrosis,1710,Road Construction Workers and Paviors,14,14.81,95,52,159
+Pulmonary fibrosis,1720,Sewage plant attendants,1,5.95,17,1,94
+Pulmonary fibrosis,1740,Other Construction Workers,193,251.37,77,66,88
+Pulmonary fibrosis,1760,Mine (excluding coal) & Quarry Workers,5,7.71,65,21,151
+Pulmonary fibrosis,1781,Rail transport operatives,19,22.66,84,50,131
+Pulmonary fibrosis,1800,Railway engine drivers,9,11.54,78,36,148
+Pulmonary fibrosis,1820,Bus & Coach Drivers,46,43.51,106,77,141
+Pulmonary fibrosis,1830,Lorry drivers,225,222.92,101,88,115
+Pulmonary fibrosis,1840,Other motor drivers,39,43.47,90,64,123
+Pulmonary fibrosis,1860,Mechanical Plant Drivers & Operatives (earth moving & civil engineering),18,16.21,111,66,176
+Pulmonary fibrosis,1870,Crane Drivers,8,16.62,48,21,95
+Pulmonary fibrosis,1880,Fork Lift & Mechanical Truck Drivers,24,25.81,93,60,138
+Pulmonary fibrosis,1900,Storekeepers & warehousemen/women,95,89.37,106,86,130
+Pulmonary fibrosis,1910,Dockers and Goods Porters,15,18.08,83,46,137
+Pulmonary fibrosis,1920,Refuse & Salvage Collectors,8,16.22,49,21,97
+Pulmonary fibrosis,1940,"Electrical, Energy, Boiler & Related Plant Operatives & Attendants",21,12.78,164,102,251
+Pulmonary fibrosis,1950,Beauticians & related occupations,1,0.15,647,19,3603
+Pulmonary fibrosis,1960,Other crafts,11,9.12,121,60,216
+Pulmonary fibrosis,1970,Other transport and machine operatives,8,9.85,81,35,160
+Pulmonary fibrosis,1980,Other labourers,130,134.13,97,81,115
