@@ -18,7 +18,7 @@ A case-control study to investigate whether job exposures are an under-recognize
 | Owen Dempsey           | Aberdeen Royal Infirmary                               | 10                     |
 | Steve O’Hickey         | Worcestershire Acute Hospitals NHS Trust               | 6                      |
 | Justin Pepperell       | Taunton and Somerset NHS Foundation Trust              | 6                      |
-| Michael Gibbons        | Royal Devon and Exeter NHS Foundation Trust            | 6                      |
+| Victor Mariano         | Royal Devon and Exeter NHS Foundation Trust            | 6                      |
 | Nik Hirani             | Royal Infirmary of Edinburgh                           | 5                      |
 | Suresh Babu            | Portsmouth Hospitals NHS Trush                         | 3                      |
 | Dhruv Parekh           | University Hospitals Birmingham NHS Foundation Trust   | 2                      |
