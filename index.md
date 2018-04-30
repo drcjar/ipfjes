@@ -4,7 +4,7 @@ A case-control study to investigate whether job exposures are an under-recognize
 
 ### Recruitment (data for active sites as of 28/03/18)
 
-| Principle Investigator | Organisation                                           | Participants Recruited |
+| Principal Investigator | Organisation                                           | Participants Recruited |
 |------------------------|--------------------------------------------------------|------------------------|
 | Lisa Spencer           | Aintree University Hospitals NHS Foundation Trust      | 54                     |
 | Nazia Chaudhuri        | University Hospital of South Manchester                | 45                     |
