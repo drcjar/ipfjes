@@ -2,27 +2,29 @@
 
 A case-control study to investigate whether job exposures are an under-recognized cause of idiopathic pulmonary fibrosis (IPF) using an interview to collect information about previous jobs and a blood test to investigate genetic susceptibility. ([clinicaltrials.gov NCT03211507](https://clinicaltrials.gov/ct2/show/NCT03211507))
 
-### Recruitment (data for active sites as of 28/03/18)
+### Recruitment (data for active sites as of 30/04/18)
 
 | Principal Investigator | Organisation                                           | Participants Recruited |
 |------------------------|--------------------------------------------------------|------------------------|
-| Lisa Spencer           | Aintree University Hospitals NHS Foundation Trust      | 54                     |
-| Nazia Chaudhuri        | University Hospital of South Manchester                | 45                     |
-| Gauri Saini            | Nottingham University Hospitals NHS Trust              | 43                     |
-| Gareth Walters         | Heart of England NHS Foundation Trust                  | 37                     |
-| Huzaifa Adamali        | North Bristol NHS Trust                                | 36                     |
-| Sophie Fletcher        | Southampton University Hospitals NHS Trust             | 25                     |
-| Ian Forrest            | The Newcastle Upon Tyne Hospitals NHS Foundation Trust | 22                     |
-| Carl Reynolds          | Imperial College Healthcare NHS Trust                  | 18                     |
+| Lisa Spencer           | Aintree University Hospitals NHS Foundation Trust      | 59                     |
+| Nazia Chaudhuri        | University Hospital of South Manchester                | 50                     |
+| Gauri Saini            | Nottingham University Hospitals NHS Trust              | 47                     |
+| Huzaifa Adamali        | North Bristol NHS Trust                                | 38                     |
+| Gareth Walters         | Heart of England NHS Foundation Trust                  | 38                     |
+| Sophie Fletcher        | Southampton University Hospitals NHS Trust             | 37                     |
+| Ian Forrest            | The Newcastle Upon Tyne Hospitals NHS Foundation Trust | 27                     |
+| Carl Reynolds          | Imperial College Healthcare NHS Trust                  | 21                     |
 | Kim Harrison           | Morriston Hospital                                     | 13                     |
+| Victor Mariano         | Royal Devon and Exeter NHS Foundation Trust            | 12                     |
 | Owen Dempsey           | Aberdeen Royal Infirmary                               | 11                     |
-| Victor Mariano         | Royal Devon and Exeter NHS Foundation Trust            | 10                     |
-| Nik Hirani             | Royal Infirmary of Edinburgh                           | 7                      |
-| Steve O’Hickey         | Worcestershire Acute Hospitals NHS Trust               | 6                      |
-| Justin Pepperell       | Taunton and Somerset NHS Foundation Trust              | 6                      |
+| Nik Hirani             | Royal Infirmary of Edinburgh                           | 8                      |
+| Justin Pepperell       | Taunton and Somerset NHS Foundation Trust              | 8                      |
+| Steve O’Hickey         | Worcestershire Acute Hospitals NHS Trust               | 7                      |
+| Paul Beirne            | Leeds Teaching Hospitals NHS Trust                     | 5                      |
+| Dhruv Parekh           | University Hospitals Birmingham NHS Foundation Trust   | 3                      |
 | Suresh Babu            | Portsmouth Hospitals NHS Trush                         | 3                      |
 | George Chalmers        | Glasgow Royal Infirmary                                | 2                      |
-| Dhruv Parekh           | University Hospitals Birmingham NHS Foundation Trust   | 2                      |
+| Helen Parfrey          | Papworth Hospital NHS Foundation Trust                 | 2                      |
 
 ### Study documents
 
