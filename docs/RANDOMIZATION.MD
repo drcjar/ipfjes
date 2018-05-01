@@ -32,3 +32,10 @@ Naturally you must change the upper limit value (100 above) to however many clin
 3. We will then either relax the age bands OR
 4. Ask you to randomly select a control clinic again.
 
+## What to do if there is a problem recruiting from the control clinic because there aren't enough men in clinic 
+
+1. A problem is defined as four visits to control clinic in a row and fewer than four control clinic patients recruited
+2. Tell us and we will review using the screening log.
+3. We will ask you to randomly select a control clinic again.
+
+
