@@ -39,9 +39,9 @@ We've visited several centres now in England, Scotland, and Wales. Obligatory si
 
 If you would like to hear more about the study we'd love to hear from you. Email <carl.reynolds@imperial.ac.uk> or follow us on twitter [@ipfjes](https://twitter.com/ipfjes). 
 
-## Transparency information and privacy notice
+### Transparency information and privacy notice
 
-You may view IPFJES transparency information [here](https://github.com/drcjar/ipfjes/blob/master/docs/Transparency%20wording%20for%20IPFJES%20study%20participants.pdf) and our privacy notice [here](https://github.com/drcjar/ipfjes/blob/master/docs/GDPR-Privacy-Notice-IPFJES_25-May-2018.pdf)
+You may view IPFJES transparency information [here](https://github.com/drcjar/ipfjes/blob/master/docs/Transparency%20wording%20for%20IPFJES%20study%20participants.pdf) and our privacy notice [here](https://github.com/drcjar/ipfjes/blob/master/docs/GDPR-Privacy-Notice-IPFJES_25-May-2018.pdf).
 
 
 
