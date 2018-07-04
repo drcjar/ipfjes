@@ -7,22 +7,22 @@ A case-control study to investigate whether job exposures are an under-recognize
 
 | Principal Investigator | Organisation                                           | Participants Recruited |
 |------------------------|--------------------------------------------------------|------------------------|
-| Lisa Spencer           | Aintree University Hospitals NHS Foundation Trust      | 61                     |
-| Gauri Saini            | Nottingham University Hospitals NHS Trust              | 52                     |
-| Nazia Chaudhuri        | University Hospital of South Manchester                | 52                     |
-| Sophie Fletcher        | Southampton University Hospitals NHS Trust             | 48                     |
-| Huzaifa Adamali        | North Bristol NHS Trust                                | 44                     |
-| Gareth Walters         | Heart of England NHS Foundation Trust                  | 40                     |
-| Ian Forrest            | The Newcastle Upon Tyne Hospitals NHS Foundation Trust | 30                     |
+| Lisa Spencer           | Aintree University Hospitals NHS Foundation Trust      | 64                     |
+| Gauri Saini            | Nottingham University Hospitals NHS Trust              | 56                     |
+| Sophie Fletcher        | Southampton University Hospitals NHS Trust             | 54                     |
+| Nazia Chaudhuri        | University Hospital of South Manchester                | 53                     |
+| Huzaifa Adamali        | North Bristol NHS Trust                                | 51                     |
+| Gareth Walters         | Heart of England NHS Foundation Trust                  | 50                     |
+| Ian Forrest            | The Newcastle Upon Tyne Hospitals NHS Foundation Trust | 31                     |
 | Carl Reynolds          | Imperial College Healthcare NHS Trust                  | 21                     |
-| Paul Beirne            | Leeds Teaching Hospitals NHS Trust                     | 14                     |
-| Victor Mariano         | Royal Devon and Exeter NHS Foundation Trust            | 13                     |
+| Victor Mariano         | Royal Devon and Exeter NHS Foundation Trust            | 16                     |
+| Paul Beirne            | Leeds Teaching Hospitals NHS Trust                     | 15                     |
+| Helen Parfrey          | Papworth Hospital NHS Foundation Trust                 | 14                     |
 | Kim Harrison           | Morriston Hospital                                     | 13                     |
-| Owen Dempsey           | Aberdeen Royal Infirmary                               | 11                     |
-| Nik Hirani             | Royal Infirmary of Edinburgh                           | 9                      |
+| Owen Dempsey           | Aberdeen Royal Infirmary                               | 12                     |
 | Justin Pepperell       | Taunton and Somerset NHS Foundation Trust              | 9                      |
+| Nik Hirani             | Royal Infirmary of Edinburgh                           | 9                      |
 | Steve O’Hickey         | Worcestershire Acute Hospitals NHS Trust               | 7                      |
-| Helen Parfrey          | Papworth Hospital NHS Foundation Trust                 | 6                      |
 | Dhruv Parekh           | University Hospitals Birmingham NHS Foundation Trust   | 3                      |
 | Suresh Babu            | Portsmouth Hospitals NHS Trush                         | 3                      |
 | George Chalmers        | Glasgow Royal Infirmary                                | 2                      |
