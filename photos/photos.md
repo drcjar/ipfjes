@@ -56,4 +56,7 @@ Newcastle site visit
 ![leeds](https://github.com/drcjar/ipfjes/blob/master/photos/20180118_114620.jpg)
 Leeds site visit
 
+![gstt](https://github.com/drcjar/ipfjes/blob/master/photos/IMG_1153.jpg)
+Guy's and St Thomas' NHS Foundation Trust site visit
+
 Birmingham to follow!
