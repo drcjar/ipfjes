@@ -1,7 +1,5 @@
 # Site visit photos
 
-We've been on several site visits now. At some sites, like Imperial, Bristol, Birmingham, and Liverpool we haven't managed to get a snap of the whole team yet. But I'm sure we will. 
-
 ![wales](https://github.com/drcjar/ipfjes/blob/master/photos/20170516_134521.jpg)
 Wales site visit
 
@@ -59,4 +57,4 @@ Leeds site visit
 ![gstt](https://github.com/drcjar/ipfjes/blob/master/photos/IMG_1153.jpg)
 Guy's and St Thomas' NHS Foundation Trust site visit
 
-Birmingham to follow!
+Norwich to follow!
