@@ -2,28 +2,27 @@
 
 A case-control study to investigate whether job exposures are an under-recognized cause of idiopathic pulmonary fibrosis (IPF) using an interview to collect information about previous jobs and a blood test to investigate genetic susceptibility. ([clinicaltrials.gov NCT03211507](https://clinicaltrials.gov/ct2/show/NCT03211507))
 
-### Recruitment (data for active sites as of 01/07/18)
-
+### Recruitment (data for active sites as of 01/08/18)
 
 | Principal Investigator | Organisation                                           | Participants Recruited |
 |------------------------|--------------------------------------------------------|------------------------|
 | Lisa Spencer           | Aintree University Hospitals NHS Foundation Trust      | 64                     |
+| Nazia Chaudhuri        | University Hospital of South Manchester                | 58                     |
 | Gauri Saini            | Nottingham University Hospitals NHS Trust              | 56                     |
-| Sophie Fletcher        | Southampton University Hospitals NHS Trust             | 54                     |
-| Nazia Chaudhuri        | University Hospital of South Manchester                | 53                     |
-| Huzaifa Adamali        | North Bristol NHS Trust                                | 51                     |
-| Gareth Walters         | Heart of England NHS Foundation Trust                  | 50                     |
+| Sophie Fletcher        | Southampton University Hospitals NHS Trust             | 55                     |
+| Huzaifa Adamali        | North Bristol NHS Trust                                | 55                     |
+| Gareth Walters         | Heart of England NHS Foundation Trust                  | 51                     |
 | Ian Forrest            | The Newcastle Upon Tyne Hospitals NHS Foundation Trust | 31                     |
-| Carl Reynolds          | Imperial College Healthcare NHS Trust                  | 21                     |
-| Victor Mariano         | Royal Devon and Exeter NHS Foundation Trust            | 16                     |
-| Paul Beirne            | Leeds Teaching Hospitals NHS Trust                     | 15                     |
-| Helen Parfrey          | Papworth Hospital NHS Foundation Trust                 | 14                     |
-| Kim Harrison           | Morriston Hospital                                     | 13                     |
-| Owen Dempsey           | Aberdeen Royal Infirmary                               | 12                     |
-| Justin Pepperell       | Taunton and Somerset NHS Foundation Trust              | 9                      |
+| Paul Beirne            | Leeds Teaching Hospitals NHS Trust                     | 31                     |
+| Carl Reynolds          | Imperial College Healthcare NHS Trust                  | 23                     |
+| Helen Parfrey          | Papworth Hospital NHS Foundation Trust                 | 21                     |
+| Victor Mariano         | Royal Devon and Exeter NHS Foundation Trust            | 18                     |
+| Kim Harrison           | Morriston Hospital                                     | 14                     |
+| Owen Dempsey           | Aberdeen Royal Infirmary                               | 13                     |
+| Justin Pepperell       | Taunton and Somerset NHS Foundation Trust              | 10                     |
 | Nik Hirani             | Royal Infirmary of Edinburgh                           | 9                      |
 | Steve O’Hickey         | Worcestershire Acute Hospitals NHS Trust               | 7                      |
-| Dhruv Parekh           | University Hospitals Birmingham NHS Foundation Trust   | 3                      |
+| Dhruv Parekh           | University Hospitals Birmingham NHS Foundation Trust   | 7                      |
 | Suresh Babu            | Portsmouth Hospitals NHS Trush                         | 3                      |
 | George Chalmers        | Glasgow Royal Infirmary                                | 2                      |
 
