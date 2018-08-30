@@ -28,6 +28,10 @@ Note that DD.MM.YY must be complete with the day, month, and year of the databas
 
 5. Use a client of your choice to access the postgres database. 
 
+## Location of database dumps (backups)
+
+Regular database dumps (backups) are securely made to the local computers in G39 and to a usb stick in a fireproof box.
+
 ## Support
 
 A support contract is in place and our support contact is Mr Fred Kingham fredkingham@gmail.com 07843659855.
