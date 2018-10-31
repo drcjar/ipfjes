@@ -2,29 +2,31 @@
 
 A case-control study to investigate whether job exposures are an under-recognized cause of idiopathic pulmonary fibrosis (IPF) using an interview to collect information about previous jobs and a blood test to investigate genetic susceptibility. ([clinicaltrials.gov NCT03211507](https://clinicaltrials.gov/ct2/show/NCT03211507))
 
-### Recruitment (data for active sites as of 01/08/18)
+### Recruitment (data for active sites as of 30/10/18)
 
-| Principal Investigator | Organisation                                           | Participants Recruited |
-|------------------------|--------------------------------------------------------|------------------------|
-| Lisa Spencer           | Aintree University Hospitals NHS Foundation Trust      | 64                     |
-| Nazia Chaudhuri        | University Hospital of South Manchester                | 58                     |
-| Gauri Saini            | Nottingham University Hospitals NHS Trust              | 56                     |
-| Sophie Fletcher        | Southampton University Hospitals NHS Trust             | 55                     |
-| Huzaifa Adamali        | North Bristol NHS Trust                                | 55                     |
-| Gareth Walters         | Heart of England NHS Foundation Trust                  | 51                     |
-| Ian Forrest            | The Newcastle Upon Tyne Hospitals NHS Foundation Trust | 31                     |
-| Paul Beirne            | Leeds Teaching Hospitals NHS Trust                     | 31                     |
-| Carl Reynolds          | Imperial College Healthcare NHS Trust                  | 23                     |
-| Helen Parfrey          | Papworth Hospital NHS Foundation Trust                 | 21                     |
-| Victor Mariano         | Royal Devon and Exeter NHS Foundation Trust            | 18                     |
-| Kim Harrison           | Morriston Hospital                                     | 14                     |
-| Owen Dempsey           | Aberdeen Royal Infirmary                               | 13                     |
-| Justin Pepperell       | Taunton and Somerset NHS Foundation Trust              | 10                     |
-| Nik Hirani             | Royal Infirmary of Edinburgh                           | 9                      |
-| Steve O’Hickey         | Worcestershire Acute Hospitals NHS Trust               | 7                      |
-| Dhruv Parekh           | University Hospitals Birmingham NHS Foundation Trust   | 7                      |
-| Suresh Babu            | Portsmouth Hospitals NHS Trush                         | 3                      |
-| George Chalmers        | Glasgow Royal Infirmary                                | 2                      |
+| Principal Investigator | Organisation                                                  | Participants Recruited |
+|------------------------|---------------------------------------------------------------|------------------------|
+| Sophie Fletcher        | Southampton University Hospitals NHS Trust                    | 75                     |
+| Gareth Walters         | Heart of England NHS Foundation Trust                         | 73                     |
+| Lisa Spencer           | Aintree University Hospitals NHS Foundation Trust             | 65                     |
+| Huzaifa Adamali        | North Bristol NHS Trust                                       | 64                     |
+| Nazia Chaudhuri        | University Hospital of South Manchester                       | 63                     |
+| Gauri Saini            | Nottingham University Hospitals NHS Trust                     | 62                     |
+| Helen Parfrey          | Papworth Hospital NHS Foundation Trust                        | 44                     |
+| Paul Beirne            | Leeds Teaching Hospitals NHS Trust                            | 35                     |
+| Alex West              | Guys’ and St Thomas’ NHS Foundation Trust                     | 34                     |
+| Ian Forrest            | The Newcastle Upon Tyne Hospitals NHS Foundation Trust        | 33                     |
+| Carl Reynolds          | Imperial College Healthcare NHS Trust                         | 25                     |
+| Michael Gibbons        | Royal Devon and Exeter NHS Foundation Trust                   | 22                     |
+| Nik Hirani             | Royal Infirmary of Edinburgh                                  | 18                     |
+| Owen Dempsey           | Aberdeen Royal Infirmary                                      | 16                     |
+| Kim Harrison           | Morriston Hospital                                            | 14                     |
+| Justin Pepperell       | Taunton and Somerset NHS Foundation Trust                     | 14                     |
+| David Thickett         | University Hospitals Birmingham NHS Foundation Trust          | 12                     |
+| Steve O’Hickey         | Worcestershire Acute Hospitals NHS Trust                      | 10                     |
+| George Chalmers        | Glasgow Royal Infirmary                                       | 3                      |
+| Suresh Babu            | Portsmouth Hospitals NHS Trust                                | 3                      |
+| Andrew Wilson          | Norfolk and Norwich University Hospitals NHS Foundation Trust | 1                      |
 
 ### Study documents
 
