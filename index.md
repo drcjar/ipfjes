@@ -2,28 +2,28 @@
 
 A case-control study to investigate whether job exposures are an under-recognized cause of idiopathic pulmonary fibrosis (IPF) using an interview to collect information about previous jobs and a blood test to investigate genetic susceptibility. ([clinicaltrials.gov NCT03211507](https://clinicaltrials.gov/ct2/show/NCT03211507))
 
-### Recruitment (data for active sites as of 30/12/18)
+### Recruitment (data for active sites as of 28/01/19)
 
 | Principal Investigator | Organisation                                                  | Participants Recruited |
 |------------------------|---------------------------------------------------------------|------------------------|
+| Gareth Walters         | Heart of England NHS Foundation Trust                         | 84                     |
 | Sophie Fletcher        | Southampton University Hospitals NHS Trust                    | 80                     |
-| Gareth Walters         | Heart of England NHS Foundation Trust                         | 77                     |
-| Lisa Spencer           | Aintree University Hospitals NHS Foundation Trust             | 70                     |
+| Lisa Spencer           | Aintree University Hospitals NHS Foundation Trust             | 73                     |
+| Helen Parfrey          | Papworth Hospital NHS Foundation Trust                        | 68                     |
 | Nazia Chaudhuri        | University Hospital of South Manchester                       | 68                     |
+| Gauri Saini            | Nottingham University Hospitals NHS Trust                     | 67                     |
 | Huzaifa Adamali        | North Bristol NHS Trust                                       | 64                     |
-| Gauri Saini            | Nottingham University Hospitals NHS Trust                     | 62                     |
-| Helen Parfrey          | Papworth Hospital NHS Foundation Trust                        | 61                     |
-| Alex West              | Guys’ and St Thomas’ NHS Foundation Trust                     | 47                     |
+| Alex West              | Guys’ and St Thomas’ NHS Foundation Trust                     | 50                     |
 | Paul Beirne            | Leeds Teaching Hospitals NHS Trust                            | 40                     |
-| Ian Forrest            | The Newcastle Upon Tyne Hospitals NHS Foundation Trust        | 34                     |
+| Ian Forrest            | The Newcastle Upon Tyne Hospitals NHS Foundation Trust        | 35                     |
 | Carl Reynolds          | Imperial College Healthcare NHS Trust                         | 27                     |
 | Michael Gibbons        | Royal Devon and Exeter NHS Foundation Trust                   | 24                     |
-| Nik Hirani             | Royal Infirmary of Edinburgh                                  | 19                     |
-| Justin Pepperell       | Taunton and Somerset NHS Foundation Trust                     | 16                     |
+| Nik Hirani             | Royal Infirmary of Edinburgh                                  | 21                     |
+| Justin Pepperell       | Taunton and Somerset NHS Foundation Trust                     | 17                     |
 | Owen Dempsey           | Aberdeen Royal Infirmary                                      | 16                     |
 | Kim Harrison           | Morriston Hospital                                            | 14                     |
 | David Thickett         | University Hospitals Birmingham NHS Foundation Trust          | 14                     |
-| Steve O’Hickey         | Worcestershire Acute Hospitals NHS Trust                      | 12                     |
+| Steve O’Hickey         | Worcestershire Acute Hospitals NHS Trust                      | 13                     |
 | Andrew Wilson          | Norfolk and Norwich University Hospitals NHS Foundation Trust | 7                      |
 | Suresh Babu            | Portsmouth Hospitals NHS Trust                                | 6                      |
 | George Chalmers        | Glasgow Royal Infirmary                                       | 4                      |
