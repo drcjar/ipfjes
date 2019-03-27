@@ -18,6 +18,7 @@ Related open source code also lives at https://github.com/drcjar/pypf and https:
 - Consent form [English](https://github.com/drcjar/ipfjes/blob/master/docs/ipfjes-consent.pdf), [Welsh](https://github.com/drcjar/ipfjes/blob/master/docs/ipfjes-consent-welsh.pdf)
 - [Randomization](https://github.com/drcjar/ipfjes/blob/master/docs/RANDOMIZATION.MD)
 - [5-year age bands](https://github.com/drcjar/ipfjes/blob/master/docs/5-year-age-bands.csv)
+- [10-year age bands](https://github.com/drcjar/ipfjes/blob/master/docs/ipfjes-centre-ids.csv)
 - [Centre IDs](https://github.com/drcjar/ipfjes/blob/master/docs/ipfjes-centre-ids.csv)
 - [Participant IDs](https://github.com/drcjar/ipfjes/blob/master/docs/RESEARCHID.md)
 - [Interview schedule](https://github.com/drcjar/ipfjes/blob/master/docs/ipfjes-interview.pdf)
