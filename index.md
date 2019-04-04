@@ -7,26 +7,26 @@ A case-control study to investigate whether job exposures are an under-recognize
 | Principal Investigator | Organisation                                                  | Participants Recruited |
 |------------------------|---------------------------------------------------------------|------------------------|
 | Gareth Walters         | Heart of England NHS Foundation Trust                         | 88                     |
-| Sophie Fletcher        | Southampton University Hospitals NHS Trust                    | 81                     |
-| Lisa Spencer           | Aintree University Hospitals NHS Foundation Trust             | 75                     |
+| Sophie Fletcher        | Southampton University Hospitals NHS Trust                    | 84                     |
+| Lisa Spencer           | Aintree University Hospitals NHS Foundation Trust             | 78                     |
 | Gauri Saini            | Nottingham University Hospitals NHS Trust                     | 74                     |
-| Nazia Chaudhuri        | University Hospital of South Manchester                       | 68                     |
-| Helen Parfrey          | Papworth Hospital NHS Foundation Trust                        | 67                     |
+| Helen Parfrey          | Papworth Hospital NHS Foundation Trust                        | 74                     |
+| Nazia Chaudhuri        | University Hospital of South Manchester                       | 69                     |
 | Huzaifa Adamali        | North Bristol NHS Trust                                       | 64                     |
 | Alex West              | Guys’ and St Thomas’ NHS Foundation Trust                     | 54                     |
 | Paul Beirne            | Leeds Teaching Hospitals NHS Trust                            | 40                     |
 | Ian Forrest            | The Newcastle Upon Tyne Hospitals NHS Foundation Trust        | 35                     |
-| Carl Reynolds          | Imperial College Healthcare NHS Trust                         | 29                     |
-| Michael Gibbons        | Royal Devon and Exeter NHS Foundation Trust                   | 25                     |
-| Nik Hirani             | Royal Infirmary of Edinburgh                                  | 21                     |
+| Carl Reynolds          | Imperial College Healthcare NHS Trust                         | 35                     |
+| Michael Gibbons        | Royal Devon and Exeter NHS Foundation Trust                   | 26                     |
+| Nik Hirani             | Royal Infirmary of Edinburgh                                  | 22                     |
 | Justin Pepperell       | Taunton and Somerset NHS Foundation Trust                     | 17                     |
 | Owen Dempsey           | Aberdeen Royal Infirmary                                      | 16                     |
-| David Thickett         | University Hospitals Birmingham NHS Foundation Trust          | 14                     |
-| Steve O’Hickey         | Worcestershire Acute Hospitals NHS Trust                      | 14                     |
+| David Thickett         | University Hospitals Birmingham NHS Foundation Trust          | 16                     |
+| Steve O’Hickey         | Worcestershire Acute Hospitals NHS Trust                      | 15                     |
 | Kim Harrison           | Morriston Hospital                                            | 14                     |
+| Suresh Babu            | Portsmouth Hospitals NHS Trust                                | 9                      |
 | Andrew Wilson          | Norfolk and Norwich University Hospitals NHS Foundation Trust | 7                      |
-| Suresh Babu            | Portsmouth Hospitals NHS Trust                                | 6                      |
-| George Chalmers        | Glasgow Royal Infirmary                                       | 4                      |
+| George Chalmers        | Glasgow Royal Infirmary                                       | 6                      |
 
 ### Study documents
 
