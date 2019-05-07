@@ -1,0 +1,84 @@
+Field name,Field description
+patient_id,unique patient identifier
+soc_job_ft,job name 
+id,job id
+job_tasks,job tasks
+start_year,year job started
+end_year,year job ended
+employer_output,what employer produced
+address,address of employer
+company_name,employer name
+working_area_ft,where work took place
+pt,participant type I.e case/control
+soc90,standard occupational classification 1990 code for job
+soc2000,standard occupational classification 2000 code for job
+ssec,socio-economic class of job
+dob,date of birth
+years,age
+agegroup,age group
+ethnicity,ethnicity 
+es,ever smoker
+cs,current smoker
+packyrs,pack years of smoking
+participant_id,unique patient identifier
+centre,where participant recruited from
+gp_coords,coordinates of participants general practice
+centre_coords,coordinates of centre participant recruited from
+distfromcentre,distance of participant general practice from recruiting centre
+ct,computed tomography
+bx,biopsy
+fhx,family history
+amiodarone,amiodarone
+flecainade,flecainade
+nitrofurantoin,nitrofurantoin
+azathioprine,azathioprine
+gefitinib,gefitinib
+ifosfamide,ifosfamide
+melphalan,melphalan
+rituximab,rituximab
+mrc0,mrc dyspnoea score 0
+mrc1,mrc dyspnoea score 1
+mrc2,mrc dyspnoea score 2
+mrc3,mrc dyspnoea score 3
+mrc4,mrc dyspnoea score 4
+pc_sob,breathless at presentation
+pc_cough,cough at presentation
+pc_incidental,incidental symptom at presentation
+pc_incidental_desc,description of incidental symptom at presentation
+pc_other,additional details of presentation
+comments,interviewer comments
+mrc_score,calculated mrc score
+jobcat,asssigned job category
+exposed,assigned job exposure true/false
+duration,time in job in years
+dose,time in job in years * exposure category
+asbscreen,whether participant recalls asbestos exposure yes/no
+asbdesc,description of asbestos exposure
+related_occupation_id,id of the occupation participant recalls exposure occuring in
+asbexphx_id,id of the asestos hisotry
+related_occupation_id2,duplicate field 
+description2,details of specific job process in which asbestos exposure occurred 
+asbestos_type,type of asbestos in substance 
+asbestos_percentage,percent of substance that was asbestos 
+handling_ft,what was done with the substance
+handling_fk_id,id of what was done with the substance
+near_or_far_field,within arms length or further away
+room_volume,what was the volume of the room where job process carried out
+room_air_changes,how many air changes were there per hour
+local_controls_ft,what were the local controls
+local_controls_fk_id,local controls id
+mask_ft,type of mask (if worn)
+mask_fk_id,mask id
+mask_compliance,compliance with wearing mask
+task_duration,duration of job process / task
+task_frequency,how often task carried out per period
+task_periodicity,type of period
+E,substance emission potential
+H,activity emission potential
+LC,local controls score
+D,ventillation parameter
+RPE,respiratory protective equipment parameter
+AE,total emission potential score
+periodicity_mins,periodicity in minutes
+job_duration_mins,job duration in minutes
+fibre/ml exposure,fibre/ml exposure estimate for job process
