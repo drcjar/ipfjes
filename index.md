@@ -2,30 +2,30 @@
 
 A case-control study to investigate whether job exposures are an under-recognized cause of idiopathic pulmonary fibrosis (IPF) using an interview to collect information about previous jobs and a blood test to investigate genetic susceptibility. ([clinicaltrials.gov NCT03211507](https://clinicaltrials.gov/ct2/show/NCT03211507))
 
-### Recruitment (data for active sites as of 27/06/19)
+### Recruitment (data for active sites as of 30/08/19)
 
 | Principal Investigator | Organisation                                                  | Participants Recruited |
 |------------------------|---------------------------------------------------------------|------------------------|
-| Sophie Fletcher        | Southampton University Hospitals NHS Trust                    | 96                     |
+| Sophie Fletcher        | Southampton University Hospitals NHS Trust                    | 105                    |
+| Carl Reynolds          | Imperial College Healthcare NHS Trust                         | 97                     |
 | Gareth Walters         | Heart of England NHS Foundation Trust                         | 89                     |
+| Lisa Spencer           | Aintree University Hospitals NHS Foundation Trust             | 84                     |
 | Gauri Saini            | Nottingham University Hospitals NHS Trust                     | 80                     |
 | Helen Parfrey          | Papworth Hospital NHS Foundation Trust                        | 80                     |
-| Lisa Spencer           | Aintree University Hospitals NHS Foundation Trust             | 80                     |
-| Nazia Chaudhuri        | University Hospital of South Manchester                       | 72                     |
+| Nazia Chaudhuri        | University Hospital of South Manchester                       | 74                     |
 | Huzaifa Adamali        | North Bristol NHS Trust                                       | 64                     |
-| Alex West              | Guys’ and St Thomas’ NHS Foundation Trust                     | 59                     |
-| Carl Reynolds          | Imperial College Healthcare NHS Trust                         | 52                     |
-| Paul Beirne            | Leeds Teaching Hospitals NHS Trust                            | 40                     |
-| Ian Forrest            | The Newcastle Upon Tyne Hospitals NHS Foundation Trust        | 35                     |
-| Michael Gibbons        | Royal Devon and Exeter NHS Foundation Trust                   | 30                     |
+| Alex West              | Guys’ and St Thomas’ NHS Foundation Trust                     | 61                     |
+| Paul Beirne            | Leeds Teaching Hospitals NHS Trust                            | 42                     |
+| Ian Forrest            | The Newcastle Upon Tyne Hospitals NHS Foundation Trust        | 37                     |
+| Michael Gibbons        | Royal Devon and Exeter NHS Foundation Trust                   | 32                     |
 | Justin Pepperell       | Taunton and Somerset NHS Foundation Trust                     | 29                     |
-| Nik Hirani             | Royal Infirmary of Edinburgh                                  | 24                     |
-| Kim Harrison           | Morriston Hospital                                            | 17                     |
-| Owen Dempsey           | Aberdeen Royal Infirmary                                      | 17                     |
+| Nik Hirani             | Royal Infirmary of Edinburgh                                  | 26                     |
+| Kim Harrison           | Morriston Hospital                                            | 24                     |
+| Owen Dempsey           | Aberdeen Royal Infirmary                                      | 21                     |
 | David Thickett         | University Hospitals Birmingham NHS Foundation Trust          | 16                     |
 | Steve O’Hickey         | Worcestershire Acute Hospitals NHS Trust                      | 16                     |
 | Suresh Babu            | Portsmouth Hospitals NHS Trust                                | 12                     |
-| Andrew Wilson          | Norfolk and Norwich University Hospitals NHS Foundation Trust | 8                      |
+| Andrew Wilson          | Norfolk and Norwich University Hospitals NHS Foundation Trust | 9                      |
 | George Chalmers        | Glasgow Royal Infirmary                                       | 7                      |
 
 ### Study documents
