@@ -27,7 +27,7 @@ mistune==0.7.3
 nbconvert==5.0.0
 nbformat==4.2.0
 networkx==1.11
-nltk==3.2.2
+nltk==3.4.5
 notebook==4.3.1
 numpy==1.11.3
 opencv-python==3.2.0.6
