@@ -10,22 +10,24 @@
 
     soc2000vol1extraction.ipynb - script to scrape SOC coding information from a PDF and make it machine readable
 
-    ipfjes-analysis-quality.ipynb - script to check quality of recorded IPFJES-interview data
+    0. ipfjes-analysis-quality.ipynb - script to check quality of recorded IPFJES-interview data
 
-    ipfjes-analysis-centre-stats.ipynb - script to generate centre level statistics
+    1. ipfjes-analysis-centre-stats.ipynb - script to generate centre level statistics
 
-    ipfjes-analysis-centre-stats-detailed.ipynb - script to generate detailed centre level statistics
+    2. ipfjes-analysis-centre-stats-detailed.ipynb - script to generate detailed centre level statistics
 
-    ipfjes-analysis-gp-letter.ipynb - script to automatically generate letters to be printed out and mailed to GPs to inform them of their patients participation
+    3. ipfjes-analysis-gp-letter.ipynb - script to automatically generate letters to be printed out and mailed to GPs to inform them of their patients participation
 
-    ipfjes-analysis-cpms.ipynb - script to automatically generate required study data upload for the NIHR The Central Portfolio Management System (CPMS)
+    4. ipfjes-analysis-cpms.ipynb - script to automatically generate required study data upload for the NIHR The Central Portfolio Management System (CPMS)
 
-    ipfjes-analysis - 1.ipynb - main analysis script, data preparation and analysis at job task level, job level, participant level
+    5. ipfjes-analysis - 1.ipynb - main analysis script, data preparation and analysis at job task level, job level, participant level
 
-    ipfjes-analysis - 2.ipynb - logistic regressions
+    6. ipfjes-analysis - 2.ipynb - logistic regressions
 
-    ipfjes-analysis - 3.ipynb - logistic regressions (gene-environment interactions)
+    7. ipfjes-analysis - 3.ipynb - logistic regressions (gene-environment interactions)
 
-    ipfjes-analysis - 4.ipynb - regression coefficient plots
+    8. ipfjes-analysis - 4.ipynb - regression coefficient plots
 
-    ipfjes-analysis2.ipynb - regression diagnostics
+    9. ipfjes-analysis2.ipynb - regression diagnostics
+
+   10. 8. ipfjes_paper_analysis.ipynb - tables for ipfjes paper
