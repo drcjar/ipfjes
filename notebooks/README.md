@@ -9,15 +9,11 @@
     8. ipfjes-analysis - 4.ipynb - regression coefficient plots
     9. ipfjes-analysis2.ipynb - regression diagnostics
    10. ipfjes_paper_analysis.ipynb - tables for ipfjes paper
-
+   
 
 
     diagrams.ipynb - script to generate diagrams for IPFJES study documentation
-
     genotyping_prep.ipynb - script to calculate relevant dilutions required from extracted dna concentration data in order to make working stock for genotyping
-
     genotype_cleaning.ipynb - genotype data cleaning
-
     male-meso-pmr-1991-2000.ipynb - script to analyse male mesothelioma proportional mortality rate data
-
     soc2000vol1extraction.ipynb - script to scrape SOC coding information from a PDF and make it machine readable
