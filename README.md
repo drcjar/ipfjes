@@ -36,7 +36,7 @@ Related open source code also lives at https://github.com/drcjar/pypf and https:
 - HRA approval for mayor amendment: [1](https://github.com/drcjar/ipfjes/blob/master/docs/hra-major-amendment-approval1.pdf)
 - [Site Initiation Visit](http://carlreynolds.net/ipfjes-siv/)
 - [Overview of participating centres](https://github.com/drcjar/ipfjes/blob/master/notebooks/centre_overview.ipynb)
-- [Map of participating centres](https://batchgeo.com/map/3fe51a6c9576af5379b7cb7604ce9b82)
+- [Map of participating centres](https://github.com/drcjar/ipfjes/blob/master/fig/ipfjes_centres.png)
 - [Change log](https://github.com/drcjar/ipfjes/blob/master/docs/CHANGELOG.md)
 - You may view IPFJES transparency information [here](https://github.com/drcjar/ipfjes/blob/master/docs/Transparency%20wording%20for%20IPFJES%20study%20participants.pdf) and our privacy notice [here](https://github.com/drcjar/ipfjes/blob/master/docs/GDPR-Privacy-Notice-IPFJES_25-May-2018.pdf).
 
