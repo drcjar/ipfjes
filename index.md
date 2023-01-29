@@ -1,6 +1,6 @@
 ### Welcome to IPFJES 
 
-A case-control study to investigate whether job exposures are an under-recognized cause of idiopathic pulmonary fibrosis (IPF) using an interview to collect information about previous jobs and a blood test to investigate genetic susceptibility. ([clinicaltrials.gov NCT03211507](https://clinicaltrials.gov/ct2/show/NCT03211507))
+A case-control study to investigate whether job exposures are an under-recognized cause of idiopathic pulmonary fibrosis (IPF) using an interview to collect information about previous jobs and a blood test to investigate genetic susceptibility. ([clinicaltrials.gov NCT03211507](https://clinicaltrials.gov/ct2/show/NCT03211507)). **The IPFJES Paper is now out, read it here:*** (https://oem.bmj.com/content/80/2/97)
 
 ### Recruitment (final data for active sites as of 24/09/19)
 
