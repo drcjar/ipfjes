@@ -4,7 +4,7 @@ A case-control study to investigate whether job exposures are an under-recognize
 
 ### Publications
 
-The IPFJES Paper is now out, read it here: (https://oem.bmj.com/content/80/2/97)
+The IPFJES Paper is now out, read it here: [https://oem.bmj.com/content/80/2/97](https://oem.bmj.com/content/80/2/97)
 
 ### Recruitment (final data for active sites as of 24/09/19)
 
